@@ -3,7 +3,7 @@ Module to return the GTO strategy for the player out of position
 after running TexasSolver
 args:
     hand: format CARDsuitCARDsuit, e.g. Ac5h or TsJd
-    
+     
     flop_action: the action of the player in position. Values to 
     6 decimal points.
     e.g. 'CHECK' or 'BET 13.000000'
