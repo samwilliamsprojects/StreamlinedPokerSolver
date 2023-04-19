@@ -1,0 +1,5712 @@
+Ignition Hand #4663972821: HOLDEM Tournament #49305417 TBL#8, Normal- Level 1 (10/20) - 2022-12-16 19:01:09
+Seat 71: UTG+1 (77,777 in chips)
+Seat 13: UTG+2 (77,777 in chips)
+Seat 8: UTG+3 (77,777 in chips)
+Seat 7: UTG+4 (77,777 in chips)
+Seat 53: UTG+5 [ME] (77,777 in chips)
+Seat 11: Dealer (77,777 in chips)
+Seat 41: Small Blind (77,777 in chips)
+Seat 28: Big Blind (77,777 in chips)
+Seat 15: UTG (77,777 in chips)
+Big Blind : Table enter user
+UTG+5 [ME] : Table enter user
+Small Blind : Table enter user
+UTG+4 : Table enter user
+UTG+3 : Table enter user
+UTG+2 : Table enter user
+Dealer : Table enter user
+UTG+1 : Table enter user
+UTG+1 : Draw for dealer [7c] 
+UTG+2 : Draw for dealer [Jd] 
+UTG+3 : Draw for dealer [9h] 
+UTG+4 : Draw for dealer [8d] 
+UTG+5 [ME] : Draw for dealer [7s] 
+Dealer : Draw for dealer [Js] 
+Small Blind : Draw for dealer [5c] 
+Big Blind : Draw for dealer [9s] 
+UTG : Draw for dealer [8h] 
+Dealer : Set dealer [6] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Ad As] 
+UTG+2 : Card dealt to a spot [8s Qd] 
+UTG+3 : Card dealt to a spot [8c 5d] 
+UTG+4 : Card dealt to a spot [2d 9d] 
+UTG+5 [ME] : Card dealt to a spot [2s Jh] 
+Dealer : Card dealt to a spot [5h 4d] 
+Small Blind : Card dealt to a spot [Js Td] 
+Big Blind : Card dealt to a spot [5c Tc] 
+UTG : Card dealt to a spot [6d Jd] 
+UTG : Fold(Blind Disconnected)
+UTG+1 : Raises 60 to 60
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Sit out
+UTG+4 : Folds(timeout)
+UTG+5 [ME] : Folds
+Dealer : Folds
+UTG+4 : Re-join
+Small Blind : Call 50 
+Big Blind : Call 40 
+*** FLOP *** [4c Qc Ah]
+Small Blind : Checks
+Big Blind : Bets 180 
+UTG+1 : Call 180 
+Small Blind : Call 180 
+*** TURN *** [4c Qc Ah] [Ac]
+Small Blind : Checks
+Big Blind : Bets 720 
+UTG+1 : Call 720 
+Small Blind : Folds
+*** RIVER *** [4c Qc Ah Ac] [3s]
+Big Blind : Bets 2160 
+UTG+1 : Raises 4320 to 4320
+Big Blind : Call 2160 
+UTG+1 : Showdown [As Ah Ad Ac Qc] (Four of a kind)
+Big Blind : Mucks [5c Tc] (Flush)
+UTG+1 : Hand Result 10800 
+*** SUMMARY ***
+Total Pot(10800)
+Board [4c Qc Ah Ac 3s]
+Seat+71: UTG+1 10800  with Four of a kind [Ad As-As Ah Ad Ac Qc]  
+Seat+13: UTG+2 Folded on the FLOP
+Seat+8: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer Folded on the FLOP
+Seat+41: Small Blind Folded on the TURN
+Seat+28: Big Blind [Mucked] [5c Tc ]  
+Seat+15: UTG Folded on the FLOP
+
+
+Ignition Hand #4663974724: HOLDEM Tournament #49305417 TBL#8, Normal- Level 1 (10/20) - 2022-12-16 19:03:06
+Seat 71: UTG (83,297 in chips)
+Seat 13: UTG+1 (77,777 in chips)
+Seat 8: UTG+2 (77,777 in chips)
+Seat 7: UTG+3 (77,777 in chips)
+Seat 53: UTG+4 [ME] (77,777 in chips)
+Seat 11: UTG+5 (77,777 in chips)
+Seat 41: Dealer (77,537 in chips)
+Seat 28: Small Blind (72,497 in chips)
+Seat 15: Big Blind (77,777 in chips)
+Dealer : Set dealer [7] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [9h 9s] 
+UTG+1 : Card dealt to a spot [Qc 3d] 
+UTG+2 : Card dealt to a spot [Kc 4c] 
+UTG+3 : Card dealt to a spot [9d Td] 
+UTG+4 [ME] : Card dealt to a spot [8s 8h] 
+UTG+5 : Card dealt to a spot [5c 4s] 
+Dealer : Card dealt to a spot [Kh Qh] 
+Small Blind : Card dealt to a spot [8d 7s] 
+Big Blind : Card dealt to a spot [As Tc] 
+UTG : Raises 80 to 80
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 [ME] : Call 80 
+UTG+5 : Folds
+Dealer : Call 80 
+Small Blind : Call 70 
+Big Blind : Fold(Blind Disconnected)
+*** FLOP *** [6h 9c Ac]
+Small Blind : Bets 340 
+UTG : Call 340 
+UTG+4 [ME] : Folds
+Dealer : Call 340 
+*** TURN *** [6h 9c Ac] [2h]
+Small Blind : Bets 1360 
+UTG : Raises 2800 to 2800
+Dealer : Call 2800 
+Small Blind : Call 1440 
+*** RIVER *** [6h 9c Ac 2h] [Jh]
+Small Blind : Checks
+UTG : Bets 4880 
+Dealer : Call 4880 
+Big Blind : Table enter user
+Small Blind : Folds
+UTG : Showdown [9s 9h 9c Ac Jh] (Three of a kind)
+Dealer : Showdown [Kh Qh Jh 6h 2h] (Flush)
+Dealer : Hand Result 19520 
+*** SUMMARY ***
+Total Pot(19520)
+Board [6h 9c Ac 2h Jh]
+Seat+71: UTG lose with Three of a kind [9h 9s-9s 9h 9c Ac Jh]  
+Seat+13: UTG+1 Folded on the FLOP
+Seat+8: UTG+2 Folded on the FLOP
+Seat+7: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 Folded on the FLOP
+Seat+11: UTG+5 Folded on the FLOP
+Seat+41: Dealer 19520  with Flush [Kh Qh-Kh Qh Jh 6h 2h]  
+Seat+28: Small Blind Folded on the RIVER
+Seat+15: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4663975592: HOLDEM Tournament #49305417 TBL#8, Normal- Level 1 (10/20) - 2022-12-16 19:04:30
+Seat 71: Big Blind (75,197 in chips)
+Seat 13: UTG (77,777 in chips)
+Seat 8: UTG+1 (77,777 in chips)
+Seat 7: UTG+2 (77,777 in chips)
+Seat 53: UTG+3 [ME] (77,697 in chips)
+Seat 11: UTG+4 (77,777 in chips)
+Seat 41: UTG+5 (88,957 in chips)
+Seat 28: Dealer (69,277 in chips)
+Seat 15: Small Blind (77,757 in chips)
+Dealer : Set dealer [8] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [9h 5h] 
+UTG : Card dealt to a spot [Ts Td] 
+UTG+1 : Card dealt to a spot [3h Ad] 
+UTG+2 : Card dealt to a spot [5c 2h] 
+UTG+3 [ME] : Card dealt to a spot [4c 5d] 
+UTG+4 : Card dealt to a spot [7h Js] 
+UTG+5 : Card dealt to a spot [2d Tc] 
+Dealer : Card dealt to a spot [Qh 7d] 
+Small Blind : Card dealt to a spot [Qs Th] 
+UTG : Raises 60 to 60
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Call 60 
+Small Blind : Call 50 
+Big Blind : Call 40 
+*** FLOP *** [4d Qc 3c]
+Small Blind : Bets 20 
+Big Blind : Call 20 
+UTG : Raises 200 to 200
+Dealer : Raises 880 to 880
+Small Blind : Call 860 
+Big Blind : Folds
+UTG : Folds
+*** TURN *** [4d Qc 3c] [Jh]
+Small Blind : Bets 20 
+Dealer : Raises 2280 to 2280
+Small Blind : Call 2260 
+*** RIVER *** [4d Qc 3c Jh] [9c]
+Small Blind : Bets 3390 
+Dealer : Call 3390 
+Small Blind : Showdown [Qs Qc Jh Th 9c] (One pair)
+Dealer : Mucks [Qh 7d] (One pair)
+Small Blind : Hand Result 13560 
+*** SUMMARY ***
+Total Pot(13560)
+Board [4d Qc 3c Jh 9c]
+Seat+71: Big Blind Folded on the FLOP
+Seat+13: UTG Folded on the FLOP
+Seat+8: UTG+1 Folded on the FLOP
+Seat+7: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+41: UTG+5 Folded on the FLOP
+Seat+28: Dealer [Mucked] [Qh 7d ]  
+Seat+15: Small Blind 13560  with One pair [Qs Th-Qs Qc Jh Th 9c]  
+
+
+Ignition Hand #4663976297: HOLDEM Tournament #49305417 TBL#8, Normal- Level 1 (10/20) - 2022-12-16 19:05:36
+Seat 71: Small Blind (75,117 in chips)
+Seat 13: Big Blind (77,517 in chips)
+Seat 8: UTG (77,777 in chips)
+Seat 7: UTG+1 (77,777 in chips)
+Seat 53: UTG+2 [ME] (77,697 in chips)
+Seat 11: UTG+3 (77,777 in chips)
+Seat 28: UTG+4 (62,667 in chips)
+Seat 15: Dealer (84,707 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Kh 7c] 
+Big Blind : Card dealt to a spot [Js 7s] 
+UTG : Card dealt to a spot [Kc 7d] 
+UTG+1 : Card dealt to a spot [8s 4s] 
+UTG+2 [ME] : Card dealt to a spot [Th Jh] 
+UTG+3 : Card dealt to a spot [4h Tc] 
+UTG+4 : Card dealt to a spot [2d 8h] 
+Dealer : Card dealt to a spot [2c As] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Raises 60 to 60
+UTG+3 : Folds
+UTG+4 : Call 60 
+Dealer : Call 60 
+Small Blind : Call 50 
+Big Blind : Folds
+*** FLOP *** [2s 6s Ac]
+Small Blind : Checks
+UTG+2 [ME] : Checks
+UTG+4 : Checks
+Dealer : Bets 130 
+Small Blind : Folds
+UTG+2 [ME] : Folds
+UTG+4 : Call 130 
+*** TURN *** [2s 6s Ac] [9c]
+UTG+4 : Checks
+Dealer : Bets 260 
+UTG+4 : Call 260 
+*** RIVER *** [2s 6s Ac 9c] [9h]
+UTG+4 : Checks
+Dealer : Bets 520 
+UTG+4 : Folds
+Dealer : Return uncalled portion of bet 520 
+Dealer : Does not show [2c As] (Two pair)
+Dealer : Hand Result 1040 
+*** SUMMARY ***
+Total Pot(1040)
+Board [2s 6s Ac 9c 9h]
+Seat+71: Small Blind Folded on the FLOP
+Seat+13: Big Blind Folded on the FLOP
+Seat+8: UTG Folded on the FLOP
+Seat+7: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the RIVER
+Seat+15: Dealer 1040 [Does not show]  
+
+
+Ignition Hand #4663977000: HOLDEM Tournament #49305417 TBL#8, Normal- Level 1 (10/20) - 2022-12-16 19:06:45
+Seat 71: Dealer (75,057 in chips)
+Seat 13: Small Blind (77,497 in chips)
+Seat 8: Big Blind (77,777 in chips)
+Seat 7: UTG (77,777 in chips)
+Seat 53: UTG+1 [ME] (77,637 in chips)
+Seat 11: UTG+2 (77,777 in chips)
+Seat 96: UTG+3 (77,777 in chips)
+Seat 28: UTG+4 (62,217 in chips)
+Seat 15: UTG+5 (85,297 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Kc Ad] 
+Small Blind : Card dealt to a spot [6d Qd] 
+Big Blind : Card dealt to a spot [3d 7c] 
+UTG : Card dealt to a spot [6c 8s] 
+UTG+1 [ME] : Card dealt to a spot [4c Ts] 
+UTG+2 : Card dealt to a spot [3c Ah] 
+UTG+3 : Card dealt to a spot [6s Tc] 
+UTG+4 : Card dealt to a spot [7d 9c] 
+UTG+5 : Card dealt to a spot [Jh 7s] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Raises 70 to 70
+UTG+5 : Folds
+Dealer : Raises 200 to 200
+Small Blind : Folds
+Big Blind : Folds
+UTG+4 : Call 130 
+*** FLOP *** [Qh Qc Qs]
+UTG+4 : Checks
+Dealer : Bets 430 
+UTG+4 : Folds
+Dealer : Return uncalled portion of bet 430 
+Dealer : Does not show [Kc Ad] (Three of a kind)
+Dealer : Hand Result 430 
+*** SUMMARY ***
+Total Pot(430)
+Board [Qh Qc Qs  ]
+Seat+71: Dealer 430 [Does not show]  
+Seat+13: Small Blind Folded on the FLOP
+Seat+8: Big Blind Folded on the FLOP
+Seat+7: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the FLOP
+Seat+15: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4663977458: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:07:27
+Seat 71: UTG+4 (75,287 in chips)
+Seat 13: Dealer (77,487 in chips)
+Seat 8: Small Blind (77,757 in chips)
+Seat 7: Big Blind (77,777 in chips)
+Seat 53: UTG [ME] (77,637 in chips)
+Seat 11: UTG+1 (77,777 in chips)
+Seat 96: UTG+2 (77,777 in chips)
+Seat 28: UTG+3 (62,017 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small blind 20 
+Big Blind : Big blind 40 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Kc 6s] 
+Dealer : Card dealt to a spot [8c 6d] 
+Small Blind : Card dealt to a spot [Ac 6h] 
+Big Blind : Card dealt to a spot [2d 3c] 
+UTG [ME] : Card dealt to a spot [Th 8s] 
+UTG+1 : Card dealt to a spot [Ks 9s] 
+UTG+2 : Card dealt to a spot [3d 5s] 
+UTG+3 : Card dealt to a spot [4c 7d] 
+UTG [ME] : Folds
+UTG+1 : Raises 120 to 120
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet 80 
+UTG+1 : Does not show [Ks 9s] (High Card)
+UTG+1 : Hand Result 100 
+*** SUMMARY ***
+Total Pot(100)
+Seat+71: UTG+4 Folded on the FLOP
+Seat+13: Dealer Folded on the FLOP
+Seat+8: Small Blind Folded on the FLOP
+Seat+7: Big Blind Folded on the FLOP
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 100 [Does not show]  
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4663977710: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:07:51
+Seat 71: UTG+4 (75,287 in chips)
+Seat 13: UTG+5 (77,487 in chips)
+Seat 8: Dealer (77,737 in chips)
+Seat 7: Small Blind (77,737 in chips)
+Seat 53: Big Blind [ME] (77,637 in chips)
+Seat 11: UTG (77,837 in chips)
+Seat 96: UTG+1 (77,777 in chips)
+Seat 28: UTG+2 (62,017 in chips)
+Seat 105: UTG+3 (77,777 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small blind 20 
+Big Blind [ME] : Big blind 40 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Jc 4d] 
+UTG+5 : Card dealt to a spot [Kh 7c] 
+Dealer : Card dealt to a spot [5d Ah] 
+Small Blind : Card dealt to a spot [4h Tc] 
+Big Blind [ME] : Card dealt to a spot [Qs Ks] 
+UTG : Card dealt to a spot [3h 3d] 
+UTG+1 : Card dealt to a spot [6c 8d] 
+UTG+2 : Card dealt to a spot [7s 7h] 
+UTG+3 : Card dealt to a spot [Kc 2c] 
+UTG : Raises 120 to 120
+UTG+1 : Folds
+UTG+2 : Raises 420 to 420
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind [ME] : Call 380 
+UTG : Raises 1680 to 1800
+UTG+2 : All-in(raise) 61597 to 62017
+Big Blind [ME] : Folds
+UTG : Folds
+UTG+2 : Return uncalled portion of bet 60217 
+UTG+2 : Does not show [7s 7h] (High Card)
+UTG+2 : Hand Result 4040 
+*** SUMMARY ***
+Total Pot(4040)
+Seat+71: UTG+4 Folded on the FLOP
+Seat+13: UTG+5 Folded on the FLOP
+Seat+8: Dealer Folded on the FLOP
+Seat+7: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 4040 [Does not show]  
+Seat+105: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4663978274: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:08:45
+Seat 71: UTG+3 (75,287 in chips)
+Seat 8: UTG+4 (77,737 in chips)
+Seat 7: Dealer (77,717 in chips)
+Seat 53: Small Blind [ME] (77,217 in chips)
+Seat 11: Big Blind (76,037 in chips)
+Seat 96: UTG (77,777 in chips)
+Seat 28: UTG+1 (64,257 in chips)
+Seat 105: UTG+2 (77,777 in chips)
+Dealer : Set dealer [4] 
+Small Blind [ME] : Small blind 20 
+Big Blind : Big blind 40 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [7s 8c] 
+UTG+4 : Card dealt to a spot [3h Kc] 
+Dealer : Card dealt to a spot [Jd 3s] 
+Small Blind [ME] : Card dealt to a spot [5s Kd] 
+Big Blind : Card dealt to a spot [Ks Js] 
+UTG : Card dealt to a spot [3c 9h] 
+UTG+1 : Card dealt to a spot [Jc Ac] 
+UTG+2 : Card dealt to a spot [7c Tc] 
+UTG : Sit out
+UTG : Folds(timeout)
+UTG : Re-join
+UTG+1 : Raises 140 to 140
+UTG+2 : Call 140 
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind [ME] : Folds
+Big Blind : Raises 710 to 750
+UTG+1 : All-in(raise) 64117 to 64257
+UTG+2 : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet 63507 
+UTG+1 : Does not show [Jc Ac] (High Card)
+UTG+1 : Hand Result 1660 
+*** SUMMARY ***
+Total Pot(1660)
+Seat+71: UTG+3 Folded on the FLOP
+Seat+8: UTG+4 Folded on the FLOP
+Seat+7: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 1660 [Does not show]  
+Seat+105: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4663978906: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:09:45
+Seat 71: UTG+2 (75,287 in chips)
+Seat 115: UTG+3 (77,777 in chips)
+Seat 7: UTG+4 (77,717 in chips)
+Seat 53: Dealer [ME] (77,197 in chips)
+Seat 11: Small Blind (75,287 in chips)
+Seat 96: Big Blind (77,777 in chips)
+Seat 28: UTG (65,167 in chips)
+Seat 105: UTG+1 (77,637 in chips)
+Dealer [ME] : Set dealer [5] 
+Small Blind : Small blind 20 
+Big Blind : Big blind 40 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [8d 7h] 
+UTG+3 : Card dealt to a spot [Ah 9h] 
+UTG+4 : Card dealt to a spot [Qh Qc] 
+Dealer [ME] : Card dealt to a spot [8h Tc] 
+Small Blind : Card dealt to a spot [4s Jh] 
+Big Blind : Card dealt to a spot [2d 8s] 
+UTG : Card dealt to a spot [Ks 2s] 
+UTG+1 : Card dealt to a spot [Jc 9c] 
+UTG : Call 40 
+UTG+1 : Raises 80 to 80
+UTG+2 : Folds
+UTG+3 : Call 80 
+UTG+4 : Sit out
+UTG+4 : Folds(timeout)
+Dealer [ME] : Folds
+Small Blind : Folds
+UTG+4 : Re-join
+Big Blind : Folds
+UTG : Call 40 
+*** FLOP *** [Kh Kc Td]
+UTG : Checks
+UTG+1 : Bets 40 
+UTG+3 : Call 40 
+UTG : Raises 460 to 460
+UTG+1 : Call 420 
+UTG+3 : Folds
+*** TURN *** [Kh Kc Td] [6d]
+UTG : All-in 64627 
+UTG+1 : Folds & Shows [Jc 9c] 
+UTG : Return uncalled portion of bet 64627 
+UTG : Does not show [Ks 2s] (Three of a kind)
+UTG : Hand Result 1260 
+*** SUMMARY ***
+Total Pot(1260)
+Board [Kh Kc Td 6d ]
+Seat+71: UTG+2 Folded on the FLOP
+Seat+115: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG 1260 [Does not show]  
+Seat+105: UTG+1 Folded on the TURN
+
+
+Ignition Hand #4663979965: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:11:21
+Seat 71: UTG+1 (75,287 in chips)
+Seat 115: UTG+2 (77,657 in chips)
+Seat 117: UTG+3 (77,777 in chips)
+Seat 7: UTG+4 (77,717 in chips)
+Seat 53: UTG+5 [ME] (77,197 in chips)
+Seat 11: Dealer (75,267 in chips)
+Seat 96: Small Blind (77,737 in chips)
+Seat 28: Big Blind (65,887 in chips)
+Seat 105: UTG (77,097 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small blind 20 
+Big Blind : Big blind 40 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Qs Ac] 
+UTG+2 : Card dealt to a spot [7c 5d] 
+UTG+3 : Card dealt to a spot [Ah 4c] 
+UTG+4 : Card dealt to a spot [Jh Qh] 
+UTG+5 [ME] : Card dealt to a spot [4s Ts] 
+Dealer : Card dealt to a spot [8c 8d] 
+Small Blind : Card dealt to a spot [Ks Kd] 
+Big Blind : Card dealt to a spot [8s 6c] 
+UTG : Card dealt to a spot [7d Jd] 
+UTG : Raises 80 to 80
+UTG+1 : Call 80 
+UTG+2 : Call 80 
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Raises 450 to 450
+Small Blind : Raises 4859 to 4879
+Big Blind : Folds
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Call 4429 
+*** FLOP *** [Qc Qd Th]
+Small Blind : Checks
+Dealer : Checks
+*** TURN *** [Qc Qd Th] [5h]
+Small Blind : Checks
+Dealer : Bets 3700 
+Small Blind : Call 3700 
+*** RIVER *** [Qc Qd Th 5h] [3d]
+Small Blind : Bets 5762 
+Dealer : Folds
+Small Blind : Return uncalled portion of bet 5762 
+Small Blind : Does not show [Ks Kd] (Two pair)
+Small Blind : Hand Result 17438 
+*** SUMMARY ***
+Total Pot(17438)
+Board [Qc Qd Th 5h 3d]
+Seat+71: UTG+1 Folded on the FLOP
+Seat+115: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer Folded on the RIVER
+Seat+96: Small Blind 17438 [Does not show]  
+Seat+28: Big Blind Folded on the FLOP
+Seat+105: UTG Folded on the FLOP
+
+
+Ignition Hand #4663981133: HOLDEM Tournament #49305417 TBL#8, Normal- Level 2 (20/40) - 2022-12-16 19:13:09
+Seat 71: UTG (75,207 in chips)
+Seat 115: UTG+1 (77,577 in chips)
+Seat 117: UTG+2 (77,777 in chips)
+Seat 7: UTG+3 (77,717 in chips)
+Seat 53: UTG+4 [ME] (77,197 in chips)
+Seat 11: UTG+5 (66,688 in chips)
+Seat 96: Dealer (86,596 in chips)
+Seat 28: Small Blind (65,847 in chips)
+Seat 105: Big Blind (77,017 in chips)
+Dealer : Set dealer [7] 
+Small Blind : Small blind 20 
+Big Blind : Big blind 40 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [4d 2s] 
+UTG+1 : Card dealt to a spot [Kh 3c] 
+UTG+2 : Card dealt to a spot [8d 9h] 
+UTG+3 : Card dealt to a spot [6d 5s] 
+UTG+4 [ME] : Card dealt to a spot [3d Ac] 
+UTG+5 : Card dealt to a spot [9s Qh] 
+Dealer : Card dealt to a spot [4s 6s] 
+Small Blind : Card dealt to a spot [Ks 5h] 
+Big Blind : Card dealt to a spot [Ts 4h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 [ME] : Raises 80 to 80
+UTG+5 : Folds
+Dealer : Call 80 
+Small Blind : Call 60 
+Big Blind : Folds
+*** FLOP *** [8s Ad Qd]
+Small Blind : Checks
+UTG+4 [ME] : Bets 120 
+Dealer : Folds
+Small Blind : Folds
+UTG+4 [ME] : Return uncalled portion of bet 120 
+UTG+4 [ME] : Does not show [3d Ac] (One pair)
+UTG+4 [ME] : Hand Result 280 
+*** SUMMARY ***
+Total Pot(280)
+Board [8s Ad Qd  ]
+Seat+71: UTG Folded on the FLOP
+Seat+115: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+7: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 280 [Does not show]  
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+105: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4663981866: HOLDEM Tournament #49305417 TBL#8, Normal- Level 3 (30/60) - 2022-12-16 19:14:21
+Seat 71: Big Blind (75,207 in chips)
+Seat 115: UTG (77,577 in chips)
+Seat 117: UTG+1 (77,777 in chips)
+Seat 7: UTG+2 (77,717 in chips)
+Seat 53: UTG+3 [ME] (77,397 in chips)
+Seat 11: UTG+4 (66,688 in chips)
+Seat 96: UTG+5 (86,516 in chips)
+Seat 28: Dealer (65,767 in chips)
+Seat 105: Small Blind (76,977 in chips)
+Dealer : Set dealer [8] 
+Small Blind : Small blind 30 
+Big Blind : Big blind 60 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [8h Ac] 
+UTG : Card dealt to a spot [7c 2c] 
+UTG+1 : Card dealt to a spot [3s 7h] 
+UTG+2 : Card dealt to a spot [5h 5c] 
+UTG+3 [ME] : Card dealt to a spot [7d Qc] 
+UTG+4 : Card dealt to a spot [Js Td] 
+UTG+5 : Card dealt to a spot [9h Th] 
+Dealer : Card dealt to a spot [2h 9c] 
+Small Blind : Card dealt to a spot [4d 8s] 
+UTG : Call 60 
+UTG+1 : Folds
+UTG+2 : Call 60 
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Call 60 
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Checks
+*** FLOP *** [3c Ks 4h]
+Big Blind : Checks
+UTG : Checks
+UTG+2 : Checks
+UTG+5 : Checks
+*** TURN *** [3c Ks 4h] [3h]
+Big Blind : Checks
+UTG : Checks
+UTG+2 : Checks
+UTG+5 : Checks
+*** RIVER *** [3c Ks 4h 3h] [Jc]
+Big Blind : Checks
+UTG : Checks
+UTG+2 : Checks
+UTG+5 : Checks
+Big Blind : Showdown [3h 3c Ac Ks Jc] (One pair)
+UTG : Mucks [7c 2c] (One pair)
+UTG+2 : Showdown [5h 5c 3h 3c Ks] (Two pair)
+UTG+5 : Mucks [9h Th] (One pair)
+UTG+2 : Hand Result 270 
+*** SUMMARY ***
+Total Pot(270)
+Board [3c Ks 4h 3h Jc]
+Seat+71: Big Blind lose with One pair [8h Ac-3h 3c Ac Ks Jc]  
+Seat+115: UTG [Mucked] [7c 2c ]  
+Seat+117: UTG+1 Folded on the FLOP
+Seat+7: UTG+2 270  with Two pair [5h 5c-5h 5c 3h 3c Ks]  
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: UTG+5 [Mucked] [9h Th ]  
+Seat+28: Dealer Folded on the FLOP
+Seat+105: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4663983008: HOLDEM Tournament #49305417 TBL#8, Normal- Level 3 (30/60) - 2022-12-16 19:16:12
+Seat 71: Small Blind (75,147 in chips)
+Seat 115: Big Blind (77,517 in chips)
+Seat 117: UTG (77,777 in chips)
+Seat 7: UTG+1 (77,927 in chips)
+Seat 53: UTG+2 [ME] (77,397 in chips)
+Seat 11: UTG+3 (66,688 in chips)
+Seat 96: UTG+4 (86,456 in chips)
+Seat 28: UTG+5 (65,767 in chips)
+Seat 105: Dealer (76,947 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Small blind 30 
+Big Blind : Big blind 60 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [3d Ah] 
+Big Blind : Card dealt to a spot [2d 3s] 
+UTG : Card dealt to a spot [Qd 7s] 
+UTG+1 : Card dealt to a spot [Ac 9d] 
+UTG+2 [ME] : Card dealt to a spot [7d Kh] 
+UTG+3 : Card dealt to a spot [5d 8c] 
+UTG+4 : Card dealt to a spot [9c 5h] 
+UTG+5 : Card dealt to a spot [Kd Th] 
+Dealer : Card dealt to a spot [7c 8h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Call 60 
+Dealer : Raises 270 to 270
+Small Blind : Folds
+Big Blind : Call 210 
+UTG+5 : Call 210 
+*** FLOP *** [As 3c 7h]
+Big Blind : Checks
+UTG+5 : Checks
+Dealer : Bets 60 
+Big Blind : Call 60 
+UTG+5 : Folds
+*** TURN *** [As 3c 7h] [Tc]
+Big Blind : Checks
+Dealer : Bets 60 
+Big Blind : Call 60 
+*** RIVER *** [As 3c 7h Tc] [Jh]
+Big Blind : Checks
+Dealer : Bets 60 
+Big Blind : Call 60 
+Dealer : Showdown [7h 7c As Jh Tc] (One pair)
+Big Blind : Mucks [2d 3s] (One pair)
+Dealer : Hand Result 1200 
+*** SUMMARY ***
+Total Pot(1200)
+Board [As 3c 7h Tc Jh]
+Seat+71: Small Blind Folded on the FLOP
+Seat+115: Big Blind [Mucked] [2d 3s ]  
+Seat+117: UTG Folded on the FLOP
+Seat+7: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 Folded on the FLOP
+Seat+105: Dealer 1200  with One pair [7c 8h-7h 7c As Jh Tc]  
+
+
+Ignition Hand #4663983803: HOLDEM Tournament #49305417 TBL#8, Normal- Level 3 (30/60) - 2022-12-16 19:17:30
+Seat 71: Dealer (75,117 in chips)
+Seat 115: Small Blind (77,067 in chips)
+Seat 117: Big Blind (77,777 in chips)
+Seat 7: UTG (77,927 in chips)
+Seat 53: UTG+1 [ME] (77,397 in chips)
+Seat 11: UTG+2 (66,688 in chips)
+Seat 96: UTG+3 (86,456 in chips)
+Seat 28: UTG+4 (65,497 in chips)
+Seat 105: UTG+5 (77,697 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small blind 30 
+Big Blind : Big blind 60 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [2d 2h] 
+Small Blind : Card dealt to a spot [Ah Jh] 
+Big Blind : Card dealt to a spot [Kh 3c] 
+UTG : Card dealt to a spot [9h 9s] 
+UTG+1 [ME] : Card dealt to a spot [Td 7s] 
+UTG+2 : Card dealt to a spot [Qd 7d] 
+UTG+3 : Card dealt to a spot [Ad Ks] 
+UTG+4 : Card dealt to a spot [4s 6c] 
+UTG+5 : Card dealt to a spot [5d 7h] 
+UTG : Raises 180 to 180
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Call 180 
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Call 180 
+Small Blind : Raises 930 to 960
+Big Blind : Folds
+UTG : Call 780 
+UTG+3 : Call 780 
+Dealer : Folds
+*** FLOP *** [6s 5c 3s]
+Small Blind : Checks
+UTG : Bets 1560 
+UTG+3 : Folds
+Small Blind : Call 1560 
+*** TURN *** [6s 5c 3s] [3h]
+Small Blind : Checks
+UTG : Bets 3120 
+Small Blind : Call 3120 
+*** RIVER *** [6s 5c 3s 3h] [8h]
+Small Blind : Checks
+UTG : Checks
+Small Blind : Showdown [3s 3h Ah Jh 8h] (One pair)
+UTG : Showdown [9s 9h 3s 3h 8h] (Two pair)
+UTG : Hand Result 12480 
+*** SUMMARY ***
+Total Pot(12480)
+Board [6s 5c 3s 3h 8h]
+Seat+71: Dealer Folded on the FLOP
+Seat+115: Small Blind lose with One pair [Ah Jh-3s 3h Ah Jh 8h]  
+Seat+117: Big Blind Folded on the FLOP
+Seat+7: UTG 12480  with Two pair [9h 9s-9s 9h 3s 3h 8h]  
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the FLOP
+Seat+105: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4663984975: HOLDEM Tournament #49305417 TBL#8, Normal- Level 3 (30/60) - 2022-12-16 19:19:24
+Seat 71: UTG+5 (74,937 in chips)
+Seat 115: Dealer (71,427 in chips)
+Seat 117: Small Blind (77,717 in chips)
+Seat 7: Big Blind (84,767 in chips)
+Seat 53: UTG [ME] (77,397 in chips)
+Seat 11: UTG+1 (66,688 in chips)
+Seat 96: UTG+2 (85,496 in chips)
+Seat 28: UTG+3 (65,497 in chips)
+Seat 105: UTG+4 (77,697 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small blind 30 
+Big Blind : Big blind 60 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [7s 4c] 
+Dealer : Card dealt to a spot [3d 7d] 
+Small Blind : Card dealt to a spot [6h Kc] 
+Big Blind : Card dealt to a spot [3c Ts] 
+UTG [ME] : Card dealt to a spot [2s 9s] 
+UTG+1 : Card dealt to a spot [Kd 6s] 
+UTG+2 : Card dealt to a spot [6c Ah] 
+UTG+3 : Card dealt to a spot [5s 5d] 
+UTG+4 : Card dealt to a spot [Jh 5h] 
+UTG [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Call 60 
+UTG+4 : Raises 120 to 120
+UTG+5 : Folds
+Dealer : Call 120 
+Small Blind : Folds
+Big Blind : Folds
+UTG+3 : Call 60 
+*** FLOP *** [6d 7h 5c]
+UTG+3 : Checks
+UTG+4 : Bets 60 
+Dealer : Raises 630 to 630
+UTG+3 : All-in(raise) 65377 to 65377
+UTG+4 : Folds
+Dealer : Call 64747 
+*** TURN *** [6d 7h 5c] [3s]
+*** RIVER *** [6d 7h 5c 3s] [3h]
+Dealer : Showdown [3s 3h 3d 7h 7d] (Full House)
+UTG+3 : Showdown [5s 5d 5c 3s 3h] (Full House)
+UTG+3 : Hand Result 131264 
+*** SUMMARY ***
+Total Pot(131264)
+Board [6d 7h 5c 3s 3h]
+Seat+71: UTG+5 Folded on the FLOP
+Seat+115: Dealer lose with Full House [3d 7d-3s 3h 3d 7h 7d]  
+Seat+117: Small Blind Folded on the FLOP
+Seat+7: Big Blind Folded on the FLOP
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 131264  with Full House [5s 5d-5s 5d 5c 3s 3h]  
+Seat+105: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4663985763: HOLDEM Tournament #49305417 TBL#8, Normal- Level 3 (30/60) - 2022-12-16 19:20:42
+Seat 71: UTG+4 (74,937 in chips)
+Seat 115: UTG+5 (5,930 in chips)
+Seat 117: Dealer (77,687 in chips)
+Seat 7: Small Blind (84,707 in chips)
+Seat 53: Big Blind [ME] (77,397 in chips)
+Seat 11: UTG (66,688 in chips)
+Seat 96: UTG+1 (85,496 in chips)
+Seat 28: UTG+2 (131,264 in chips)
+Seat 105: UTG+3 (77,517 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small blind 30 
+Big Blind [ME] : Big blind 60 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Tc 9h] 
+UTG+5 : Card dealt to a spot [4c 4s] 
+Dealer : Card dealt to a spot [2s 6d] 
+Small Blind : Card dealt to a spot [Qc 2h] 
+Big Blind [ME] : Card dealt to a spot [Ac Qs] 
+UTG : Card dealt to a spot [Ks Ad] 
+UTG+1 : Card dealt to a spot [Td 7d] 
+UTG+2 : Card dealt to a spot [6s Kd] 
+UTG+3 : Card dealt to a spot [5c Jh] 
+UTG : Raises 180 to 180
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Call 180 
+UTG+5 : All-in(raise) 5930 to 5930
+Dealer : Folds
+Small Blind : Folds
+Big Blind [ME] : Call 5870 
+UTG : Folds
+UTG+4 : Folds
+*** FLOP *** [As Th 8d]
+*** TURN *** [As Th 8d] [Js]
+*** RIVER *** [As Th 8d Js] [8c]
+UTG+5 : Showdown [8d 8c 4s 4c As] (Two pair)
+Big Blind [ME] : Showdown [As Ac 8d 8c Qs] (Two pair)
+Big Blind [ME] : Hand Result 12250 
+UTG+5 : Ranking 166 
+UTG+5 : Stand
+*** SUMMARY ***
+Total Pot(12250)
+Board [As Th 8d Js 8c]
+Seat+71: UTG+4 Folded on the FLOP
+Seat+115: UTG+5 lose with Two pair [4c 4s-8d 8c 4s 4c As]  
+Seat+117: Dealer Folded on the FLOP
+Seat+7: Small Blind Folded on the FLOP
+Seat+53: Big Blind 12250  with Two pair [Ac Qs-As Ac 8d 8c Qs]  
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the FLOP
+Seat+105: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4663986241: HOLDEM Tournament #49305417 TBL#8, Normal- Level 4 (40/80) - 2022-12-16 19:21:30
+Seat 71: UTG+3 (74,757 in chips)
+Seat 117: UTG+4 (77,687 in chips)
+Seat 7: Dealer (84,677 in chips)
+Seat 53: Small Blind [ME] (83,717 in chips)
+Seat 11: Big Blind (66,508 in chips)
+Seat 96: UTG (85,496 in chips)
+Seat 28: UTG+1 (131,264 in chips)
+Seat 105: UTG+2 (77,517 in chips)
+Dealer : Set dealer [4] 
+Small Blind [ME] : Small blind 40 
+Big Blind : Big blind 80 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [5h 4s] 
+UTG+4 : Card dealt to a spot [Ks Th] 
+Dealer : Card dealt to a spot [Td 2s] 
+Small Blind [ME] : Card dealt to a spot [9s 6h] 
+Big Blind : Card dealt to a spot [5d 7d] 
+UTG : Card dealt to a spot [4d 2c] 
+UTG+1 : Card dealt to a spot [Kh Ad] 
+UTG+2 : Card dealt to a spot [Tc Js] 
+UTG : Folds
+UTG+1 : Raises 280 to 280
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind [ME] : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet 200 
+UTG+1 : Does not show [Kh Ad] (High Card)
+UTG+1 : Hand Result 200 
+*** SUMMARY ***
+Total Pot(200)
+Seat+71: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+7: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 200 [Does not show]  
+Seat+105: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4663986648: HOLDEM Tournament #49305417 TBL#8, Normal- Level 4 (40/80) - 2022-12-16 19:22:12
+Seat 71: UTG+2 (74,757 in chips)
+Seat 179: UTG+3 (77,777 in chips)
+Seat 117: UTG+4 (77,687 in chips)
+Seat 7: UTG+5 (84,677 in chips)
+Seat 53: Dealer [ME] (83,677 in chips)
+Seat 11: Small Blind (66,428 in chips)
+Seat 96: Big Blind (85,496 in chips)
+Seat 28: UTG (131,384 in chips)
+Seat 105: UTG+1 (77,517 in chips)
+Dealer [ME] : Set dealer [5] 
+Small Blind : Small blind 40 
+Big Blind : Big blind 80 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Ad 6s] 
+UTG+3 : Card dealt to a spot [2h 3d] 
+UTG+4 : Card dealt to a spot [Tc Kc] 
+UTG+5 : Card dealt to a spot [4h Jh] 
+Dealer [ME] : Card dealt to a spot [Qc 6d] 
+Small Blind : Card dealt to a spot [Js 4c] 
+Big Blind : Card dealt to a spot [7c 5s] 
+UTG : Card dealt to a spot [9s 6c] 
+UTG+1 : Card dealt to a spot [Qh 2c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Fold(Blind Disconnected)
+UTG+3 : Table enter user
+UTG+4 : Raises 240 to 240
+UTG+5 : Folds
+Dealer [ME] : Folds
+Small Blind : Folds
+Big Blind : Call 160 
+*** FLOP *** [4d 7d 3c]
+Big Blind : Checks
+UTG+4 : Checks
+*** TURN *** [4d 7d 3c] [Qd]
+Big Blind : Checks
+UTG+4 : Bets 240 
+Big Blind : Call 240 
+*** RIVER *** [4d 7d 3c Qd] [Kd]
+Big Blind : Checks
+UTG+4 : Checks
+Big Blind : Showdown [7d 7c Kd Qd 5s] (One pair)
+UTG+4 : Showdown [Kd Kc Qd Tc 7d] (One pair)
+UTG+4 : Hand Result 1000 
+*** SUMMARY ***
+Total Pot(1000)
+Board [4d 7d 3c Qd Kd]
+Seat+71: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 1000  with One pair [Tc Kc-Kd Kc Qd Tc 7d]  
+Seat+7: UTG+5 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind lose with One pair [7c 5s-7d 7c Kd Qd 5s]  
+Seat+28: UTG Folded on the FLOP
+Seat+105: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4663987498: HOLDEM Tournament #49305417 TBL#8, Normal- Level 4 (40/80) - 2022-12-16 19:23:36
+Seat 71: UTG+1 (74,757 in chips)
+Seat 179: UTG+2 (77,777 in chips)
+Seat 117: UTG+3 (78,207 in chips)
+Seat 7: UTG+4 (84,677 in chips)
+Seat 53: UTG+5 [ME] (83,677 in chips)
+Seat 11: Dealer (66,388 in chips)
+Seat 96: Small Blind (85,016 in chips)
+Seat 28: Big Blind (131,384 in chips)
+Seat 105: UTG (77,517 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small blind 40 
+Big Blind : Big blind 80 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [5c Jc] 
+UTG+2 : Card dealt to a spot [6c 6h] 
+UTG+3 : Card dealt to a spot [Kd 8s] 
+UTG+4 : Card dealt to a spot [Tc 3d] 
+UTG+5 [ME] : Card dealt to a spot [7d Qc] 
+Dealer : Card dealt to a spot [Ah Kh] 
+Small Blind : Card dealt to a spot [9d 9c] 
+Big Blind : Card dealt to a spot [8c Qs] 
+UTG : Card dealt to a spot [6s 8h] 
+UTG : Folds
+UTG+1 : Call 80 
+UTG+2 : Sit out
+UTG+2 : Folds(timeout)
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Raises 300 to 300
+Small Blind : Call 260 
+Big Blind : Call 220 
+UTG+1 : Folds
+*** FLOP *** [Kc Jh 7c]
+UTG+2 : Re-join
+Small Blind : Checks
+Big Blind : Checks
+Dealer : Bets 650 
+Small Blind : Folds
+Big Blind : Folds
+Dealer : Return uncalled portion of bet 650 
+Dealer : Does not show [Ah Kh] (One pair)
+Dealer : Hand Result 980 
+*** SUMMARY ***
+Total Pot(980)
+Board [Kc Jh 7c  ]
+Seat+71: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer 980 [Does not show]  
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind Folded on the FLOP
+Seat+105: UTG Folded on the FLOP
+
+
+Ignition Hand #4663988446: HOLDEM Tournament #49305417 TBL#8, Normal- Level 4 (40/80) - 2022-12-16 19:25:06
+Seat 71: UTG (74,677 in chips)
+Seat 179: UTG+1 (77,777 in chips)
+Seat 117: UTG+2 (78,207 in chips)
+Seat 7: UTG+3 (84,677 in chips)
+Seat 53: UTG+4 [ME] (83,677 in chips)
+Seat 11: UTG+5 (67,068 in chips)
+Seat 96: Dealer (84,716 in chips)
+Seat 28: Small Blind (131,084 in chips)
+Seat 105: Big Blind (77,517 in chips)
+Dealer : Set dealer [7] 
+Small Blind : Small blind 40 
+Big Blind : Big blind 80 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [6h Kh] 
+UTG+1 : Card dealt to a spot [3d Jh] 
+UTG+2 : Card dealt to a spot [Qd Jd] 
+UTG+3 : Card dealt to a spot [4s Ad] 
+UTG+4 [ME] : Card dealt to a spot [Ah Kc] 
+UTG+5 : Card dealt to a spot [5d Jc] 
+Dealer : Card dealt to a spot [8c 7d] 
+Small Blind : Card dealt to a spot [5c Th] 
+Big Blind : Card dealt to a spot [7c 8h] 
+UTG : Call 80 
+UTG+1 : Folds
+UTG+2 : Raises 320 to 320
+UTG+3 : Folds
+UTG+4 [ME] : Call 320 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Sit out
+Big Blind : Folds(timeout)
+Big Blind : Re-join
+UTG : Call 240 
+*** FLOP *** [8s 3s 3c]
+UTG : Checks
+UTG+2 : Bets 540 
+UTG+4 [ME] : Call 540 
+UTG : Folds
+*** TURN *** [8s 3s 3c] [5s]
+UTG+2 : Checks
+UTG+4 [ME] : Bets 1160 
+UTG+2 : Folds
+UTG+4 [ME] : Return uncalled portion of bet 1160 
+UTG+4 [ME] : Does not show [Ah Kc] (One pair)
+UTG+4 [ME] : Hand Result 2160 
+*** SUMMARY ***
+Total Pot(2160)
+Board [8s 3s 3c 5s ]
+Seat+71: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the TURN
+Seat+7: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 2160 [Does not show]  
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+105: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4663989740: HOLDEM Tournament #49305417 TBL#8, Normal- Level 4 (40/80) - 2022-12-16 19:27:12
+Seat 71: Big Blind (74,357 in chips)
+Seat 179: UTG (77,777 in chips)
+Seat 117: UTG+1 (77,347 in chips)
+Seat 7: UTG+2 (84,677 in chips)
+Seat 53: UTG+3 [ME] (84,977 in chips)
+Seat 11: UTG+4 (67,068 in chips)
+Seat 96: UTG+5 (84,716 in chips)
+Seat 28: Dealer (131,044 in chips)
+Seat 105: Small Blind (77,437 in chips)
+Dealer : Set dealer [8] 
+Small Blind : Small blind 40 
+Big Blind : Big blind 80 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Ah 9c] 
+UTG : Card dealt to a spot [9s 7d] 
+UTG+1 : Card dealt to a spot [Qd 4d] 
+UTG+2 : Card dealt to a spot [4s Ks] 
+UTG+3 [ME] : Card dealt to a spot [6d 5s] 
+UTG+4 : Card dealt to a spot [4c 8d] 
+UTG+5 : Card dealt to a spot [Ad 3s] 
+Dealer : Card dealt to a spot [7c 4h] 
+Small Blind : Card dealt to a spot [Th Jd] 
+UTG : Sit out
+UTG : Folds(timeout)
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Raises 160 to 160
+UTG : Re-join
+Dealer : Folds
+Small Blind : Call 120 
+Big Blind : Call 80 
+*** FLOP *** [9h Js 5h]
+Small Blind : Bets 240 
+Big Blind : Call 240 
+UTG+5 : Folds
+*** TURN *** [9h Js 5h] [Kh]
+Small Blind : Bets 480 
+Big Blind : Call 480 
+*** RIVER *** [9h Js 5h Kh] [2c]
+Small Blind : Bets 960 
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet 960 
+Small Blind : Does not show [Th Jd] (One pair)
+Small Blind : Hand Result 1920 
+*** SUMMARY ***
+Total Pot(1920)
+Board [9h Js 5h Kh 2c]
+Seat+71: Big Blind Folded on the RIVER
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+7: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the FLOP
+Seat+105: Small Blind 1920 [Does not show]  
+
+
+Ignition Hand #4663990923: HOLDEM Tournament #49305417 TBL#8, Normal- Level 5 (50/100) - 2022-12-16 19:29:09
+Seat 71: Small Blind (73,477 in chips)
+Seat 179: Big Blind (77,777 in chips)
+Seat 117: UTG (77,347 in chips)
+Seat 7: UTG+1 (84,677 in chips)
+Seat 53: UTG+2 [ME] (84,977 in chips)
+Seat 11: UTG+3 (67,068 in chips)
+Seat 96: UTG+4 (84,556 in chips)
+Seat 28: UTG+5 (131,044 in chips)
+Seat 105: Dealer (78,477 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Small blind 50 
+Big Blind : Big blind 100 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [As 9c] 
+Big Blind : Card dealt to a spot [3h Kh] 
+UTG : Card dealt to a spot [3s 6d] 
+UTG+1 : Card dealt to a spot [Tc 7h] 
+UTG+2 [ME] : Card dealt to a spot [Td 5s] 
+UTG+3 : Card dealt to a spot [4s 2s] 
+UTG+4 : Card dealt to a spot [8s 5h] 
+UTG+5 : Card dealt to a spot [Qd Js] 
+Dealer : Card dealt to a spot [Qh Jh] 
+UTG : Folds
+UTG+1 : Sit out
+UTG+1 : Folds(timeout)
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Call 100 
+Dealer : Raises 450 to 450
+Small Blind : Call 400 
+Big Blind : Sit out
+Big Blind : Folds(timeout)
+UTG+5 : Call 350 
+*** FLOP *** [Ks 7s 3d]
+UTG+1 : Re-join
+Small Blind : Checks
+UTG+5 : Checks
+Dealer : Bets 300 
+Small Blind : Folds
+UTG+5 : Folds
+Dealer : Return uncalled portion of bet 300 
+Dealer : Does not show [Qh Jh] (High Card)
+Dealer : Hand Result 1450 
+*** SUMMARY ***
+Total Pot(1450)
+Board [Ks 7s 3d  ]
+Seat+71: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+7: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 Folded on the FLOP
+Seat+105: Dealer 1450 [Does not show]  
+
+
+Ignition Hand #4663992203: HOLDEM Tournament #49305417 TBL#8, Normal- Level 5 (50/100) - 2022-12-16 19:31:15
+Seat 71: Dealer (73,027 in chips)
+Seat 179: Small Blind (77,677 in chips)
+Seat 117: Big Blind (77,347 in chips)
+Seat 7: UTG (84,677 in chips)
+Seat 53: UTG+1 [ME] (84,977 in chips)
+Seat 11: UTG+2 (67,068 in chips)
+Seat 96: UTG+3 (84,556 in chips)
+Seat 28: UTG+4 (130,594 in chips)
+Seat 105: UTG+5 (79,477 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small blind 50 
+Big Blind : Big blind 100 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [4c Th] 
+Small Blind : Card dealt to a spot [Ks 6s] 
+Big Blind : Card dealt to a spot [3c 5h] 
+UTG : Card dealt to a spot [Kh 7s] 
+UTG+1 [ME] : Card dealt to a spot [Ah 8d] 
+UTG+2 : Card dealt to a spot [9h 2d] 
+UTG+3 : Card dealt to a spot [5c 2c] 
+UTG+4 : Card dealt to a spot [9c 2h] 
+UTG+5 : Card dealt to a spot [Qd 6h] 
+Small Blind : Re-join
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Call 100 
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Call 50 
+Big Blind : Checks
+*** FLOP *** [Js Qh 6d]
+Small Blind : Checks
+Big Blind : Checks
+UTG+3 : Checks
+*** TURN *** [Js Qh 6d] [Jh]
+Small Blind : Bets 150 
+Big Blind : Folds
+UTG+3 : Folds
+Small Blind : Return uncalled portion of bet 150 
+Small Blind : Does not show [Ks 6s] (Two pair)
+Small Blind : Hand Result 300 
+*** SUMMARY ***
+Total Pot(300)
+Board [Js Qh 6d Jh ]
+Seat+71: Dealer Folded on the FLOP
+Seat+179: Small Blind 300 [Does not show]  
+Seat+117: Big Blind Folded on the TURN
+Seat+7: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the TURN
+Seat+28: UTG+4 Folded on the FLOP
+Seat+105: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4663993100: HOLDEM Tournament #49305417 TBL#8, Normal- Level 5 (50/100) - 2022-12-16 19:32:42
+Seat 71: UTG+5 (73,027 in chips)
+Seat 179: Dealer (77,877 in chips)
+Seat 117: Small Blind (77,247 in chips)
+Seat 7: Big Blind (84,677 in chips)
+Seat 53: UTG [ME] (84,977 in chips)
+Seat 11: UTG+1 (67,068 in chips)
+Seat 96: UTG+2 (84,456 in chips)
+Seat 28: UTG+3 (130,594 in chips)
+Seat 105: UTG+4 (79,477 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small blind 50 
+Big Blind : Big blind 100 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [Qh 7d] 
+Dealer : Card dealt to a spot [2c 3s] 
+Small Blind : Card dealt to a spot [6c Jh] 
+Big Blind : Card dealt to a spot [Ad 8c] 
+UTG [ME] : Card dealt to a spot [6s 3c] 
+UTG+1 : Card dealt to a spot [6h 3h] 
+UTG+2 : Card dealt to a spot [Jd 2h] 
+UTG+3 : Card dealt to a spot [8d 4d] 
+UTG+4 : Card dealt to a spot [7s 6d] 
+UTG [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Call 100 
+UTG+4 : Raises 200 to 200
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 100 
+UTG+3 : Call 100 
+*** FLOP *** [2s Ah 4s]
+Big Blind : Bets 325 
+UTG+3 : Folds
+UTG+4 : Folds
+Big Blind : Return uncalled portion of bet 325 
+Big Blind : Does not show [Ad 8c] (One pair)
+Big Blind : Hand Result 650 
+*** SUMMARY ***
+Total Pot(650)
+Board [2s Ah 4s  ]
+Seat+71: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+7: Big Blind 650 [Does not show]  
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the FLOP
+Seat+105: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4663993726: HOLDEM Tournament #49305417 TBL#8, Normal- Level 5 (50/100) - 2022-12-16 19:33:42
+Seat 179: UTG+4 (77,877 in chips)
+Seat 117: Dealer (77,197 in chips)
+Seat 7: Small Blind (85,127 in chips)
+Seat 53: Big Blind [ME] (84,977 in chips)
+Seat 11: UTG (67,068 in chips)
+Seat 96: UTG+1 (84,456 in chips)
+Seat 28: UTG+2 (130,394 in chips)
+Seat 105: UTG+3 (79,277 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small blind 50 
+Big Blind [ME] : Big blind 100 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Jh 4s] 
+Dealer : Card dealt to a spot [4h Qs] 
+Small Blind : Card dealt to a spot [7h Kc] 
+Big Blind [ME] : Card dealt to a spot [6h 9d] 
+UTG : Card dealt to a spot [5d 8s] 
+UTG+1 : Card dealt to a spot [8h Th] 
+UTG+2 : Card dealt to a spot [Tc 3c] 
+UTG+3 : Card dealt to a spot [4c 5c] 
+UTG : Folds
+UTG+1 : Call 100 
+UTG+2 : Call 100 
+UTG+3 : Raises 550 to 550
+UTG+4 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Call 450 
+*** FLOP *** [Kh 2s Js]
+UTG+2 : Checks
+UTG+3 : Checks
+*** TURN *** [Kh 2s Js] [2d]
+UTG+2 : Checks
+UTG+3 : Bets 675 
+UTG+2 : Folds
+UTG+3 : Return uncalled portion of bet 675 
+UTG+3 : Does not show [4c 5c] (One pair)
+UTG+3 : Hand Result 1350 
+*** SUMMARY ***
+Total Pot(1350)
+Board [Kh 2s Js 2d ]
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+7: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the TURN
+Seat+105: UTG+3 1350 [Does not show]  
+
+
+Ignition Hand #4663994752: HOLDEM Tournament #49305417 TBL#8, Normal- Level 6 (75/150) - 2022-12-16 19:35:27
+Seat 179: UTG+3 (77,877 in chips)
+Seat 117: UTG+4 (77,197 in chips)
+Seat 7: Dealer (85,077 in chips)
+Seat 53: Small Blind [ME] (84,877 in chips)
+Seat 11: Big Blind (67,068 in chips)
+Seat 96: UTG (84,356 in chips)
+Seat 28: UTG+1 (129,844 in chips)
+Seat 105: UTG+2 (80,077 in chips)
+Dealer : Set dealer [4] 
+Small Blind [ME] : Small blind 75 
+Big Blind : Big blind 150 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [2d 4d] 
+UTG+4 : Card dealt to a spot [5s 4c] 
+Dealer : Card dealt to a spot [2c 5c] 
+Small Blind [ME] : Card dealt to a spot [Ah 8h] 
+Big Blind : Card dealt to a spot [Qh Tc] 
+UTG : Card dealt to a spot [8s 3s] 
+UTG+1 : Card dealt to a spot [4h Th] 
+UTG+2 : Card dealt to a spot [Jh Ts] 
+UTG : Folds
+UTG+1 : Sit out
+UTG+1 : Folds(timeout)
+UTG+1 : Re-join
+UTG+2 : Raises 300 to 300
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind [ME] : Call 225 
+Big Blind : Raises 1350 to 1500
+UTG+2 : Folds
+Small Blind [ME] : Call 1200 
+*** FLOP *** [8c Ac 2h]
+Small Blind [ME] : Checks
+Big Blind : Bets 2475 
+Small Blind [ME] : Call 2475 
+*** TURN *** [8c Ac 2h] [9d]
+Small Blind [ME] : Checks
+Big Blind : Checks
+*** RIVER *** [8c Ac 2h 9d] [Qc]
+Small Blind [ME] : Bets 4125 
+Big Blind : Folds
+Small Blind [ME] : Return uncalled portion of bet 4125 
+Small Blind [ME] : Does not show [Ah 8h] (Two pair)
+Small Blind [ME] : Hand Result 8250 
+*** SUMMARY ***
+Total Pot(8250)
+Board [8c Ac 2h 9d Qc]
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+7: Dealer Folded on the FLOP
+Seat+53: Small Blind 8250 [Does not show]  
+Seat+11: Big Blind Folded on the RIVER
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+Seat+105: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4663995614: HOLDEM Tournament #49305417 TBL#8, Normal- Level 6 (75/150) - 2022-12-16 19:36:54
+Seat 229: UTG+2 (77,777 in chips)
+Seat 179: UTG+3 (77,877 in chips)
+Seat 117: UTG+4 (77,197 in chips)
+Seat 7: UTG+5 (85,077 in chips)
+Seat 53: Dealer [ME] (89,152 in chips)
+Seat 11: Small Blind (63,093 in chips)
+Seat 96: Big Blind (84,356 in chips)
+Seat 28: UTG (129,844 in chips)
+Seat 105: UTG+1 (79,777 in chips)
+Dealer [ME] : Set dealer [5] 
+Small Blind : Small blind 75 
+Big Blind : Big blind 150 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [4h 2s] 
+UTG+3 : Card dealt to a spot [Th 3s] 
+UTG+4 : Card dealt to a spot [8c Qs] 
+UTG+5 : Card dealt to a spot [6h Qc] 
+Dealer [ME] : Card dealt to a spot [Td 7c] 
+Small Blind : Card dealt to a spot [7h 2c] 
+Big Blind : Card dealt to a spot [Kh 4d] 
+UTG : Card dealt to a spot [Qd 3d] 
+UTG+1 : Card dealt to a spot [Jc Qh] 
+UTG : Call 150 
+UTG+1 : Raises 300 to 300
+UTG+2 : Folds
+UTG+3 : Sit out
+UTG+3 : Folds(timeout)
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer [ME] : Folds
+Small Blind : Folds
+Big Blind : Call 150 
+UTG : Call 150 
+*** FLOP *** [8d Kc 9d]
+Big Blind : Checks
+UTG : Bets 975 
+UTG+1 : Call 975 
+Big Blind : Folds
+*** TURN *** [8d Kc 9d] [Tc]
+UTG+3 : Re-join
+UTG : Bets 2925 
+UTG+1 : Raises 12150 to 12150
+UTG : Call 9225 
+*** RIVER *** [8d Kc 9d Tc] [3h]
+UTG : Checks
+UTG+1 : All-in 66352 
+UTG : Folds
+UTG+1 : Return uncalled portion of bet 66352 
+UTG+1 : Does not show [Jc Qh] (Straight)
+UTG+1 : Hand Result 27225 
+*** SUMMARY ***
+Total Pot(27225)
+Board [8d Kc 9d Tc 3h]
+Seat+229: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+7: UTG+5 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG Folded on the RIVER
+Seat+105: UTG+1 27225 [Does not show]  
+
+
+Ignition Hand #4663997033: HOLDEM Tournament #49305417 TBL#8, Normal- Level 6 (75/150) - 2022-12-16 19:39:09
+Seat 229: UTG+1 (77,777 in chips)
+Seat 179: UTG+2 (77,877 in chips)
+Seat 117: UTG+3 (77,197 in chips)
+Seat 7: UTG+4 (85,077 in chips)
+Seat 53: UTG+5 [ME] (89,152 in chips)
+Seat 11: Dealer (63,018 in chips)
+Seat 96: Small Blind (84,056 in chips)
+Seat 28: Big Blind (116,419 in chips)
+Seat 105: UTG (93,577 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small blind 75 
+Big Blind : Big blind 150 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [9c 7s] 
+UTG+2 : Card dealt to a spot [6h Qc] 
+UTG+3 : Card dealt to a spot [2c 8s] 
+UTG+4 : Card dealt to a spot [Kc Ks] 
+UTG+5 [ME] : Card dealt to a spot [Ac 3s] 
+Dealer : Card dealt to a spot [9s 8h] 
+Small Blind : Card dealt to a spot [8d 5d] 
+Big Blind : Card dealt to a spot [Jh Jc] 
+UTG : Card dealt to a spot [5c Js] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : All-in(raise) 85077 to 85077
+UTG+5 [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 84927 
+*** FLOP *** [As 5s 3c]
+*** TURN *** [As 5s 3c] [Td]
+*** RIVER *** [As 5s 3c Td] [Jd]
+UTG+4 : Showdown [Ks Kc As Jd Td] (One pair)
+Big Blind : Showdown [Jh Jd Jc As Td] (Three of a kind)
+Big Blind : Hand Result 170229 
+UTG+4 : Ranking 217 
+UTG+4 : Stand
+*** SUMMARY ***
+Total Pot(170229)
+Board [As 5s 3c Td Jd]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 lose with One pair [Kc Ks-Ks Kc As Jd Td]  
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer Folded on the FLOP
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind 170229  with Three of a kind [Jh Jc-Jh Jd Jc As Td]  
+Seat+105: UTG Folded on the FLOP
+
+
+Ignition Hand #4663997516: HOLDEM Tournament #49305417 TBL#8, Normal- Level 6 (75/150) - 2022-12-16 19:39:57
+Seat 229: UTG (77,777 in chips)
+Seat 179: UTG+1 (77,877 in chips)
+Seat 117: UTG+2 (77,197 in chips)
+Seat 53: UTG+3 [ME] (89,152 in chips)
+Seat 11: UTG+4 (63,018 in chips)
+Seat 96: Dealer (83,981 in chips)
+Seat 28: Small Blind (201,571 in chips)
+Seat 105: Big Blind (93,577 in chips)
+Dealer : Set dealer [7] 
+Small Blind : Small blind 75 
+Big Blind : Big blind 150 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [5s 4h] 
+UTG+1 : Card dealt to a spot [8h Ac] 
+UTG+2 : Card dealt to a spot [7s 7d] 
+UTG+3 [ME] : Card dealt to a spot [Jd 2s] 
+UTG+4 : Card dealt to a spot [3d 3s] 
+Dealer : Card dealt to a spot [8s 3c] 
+Small Blind : Card dealt to a spot [5c As] 
+Big Blind : Card dealt to a spot [9d 2h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 450 to 450
+UTG+3 [ME] : Folds
+UTG+4 : Raises 1500 to 1500
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Call 1050 
+*** FLOP *** [7c 2c 6d]
+UTG+2 : Checks
+UTG+4 : Bets 1613 
+UTG+2 : Raises 3976 to 3976
+UTG+4 : Folds
+UTG+2 : Return uncalled portion of bet 2363 
+UTG+2 : Does not show [7s 7d] (Three of a kind)
+UTG+2 : Hand Result 6451 
+*** SUMMARY ***
+Total Pot(6451)
+Board [7c 2c 6d  ]
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 6451 [Does not show]  
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+105: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4663998570: HOLDEM Tournament #49305417 TBL#8, Normal- Level 6 (75/150) - 2022-12-16 19:41:36
+Seat 229: Big Blind (77,777 in chips)
+Seat 179: UTG (77,877 in chips)
+Seat 117: UTG+1 (80,535 in chips)
+Seat 244: UTG+2 (77,777 in chips)
+Seat 53: UTG+3 [ME] (89,152 in chips)
+Seat 11: UTG+4 (59,905 in chips)
+Seat 96: UTG+5 (83,981 in chips)
+Seat 28: Dealer (201,496 in chips)
+Seat 105: Small Blind (93,427 in chips)
+Dealer : Set dealer [8] 
+Small Blind : Small blind 75 
+Big Blind : Big blind 150 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Ac Th] 
+UTG : Card dealt to a spot [2h 9s] 
+UTG+1 : Card dealt to a spot [4h 2d] 
+UTG+2 : Card dealt to a spot [8c Kc] 
+UTG+3 [ME] : Card dealt to a spot [8d Tc] 
+UTG+4 : Card dealt to a spot [Qs Ks] 
+UTG+5 : Card dealt to a spot [Td 9h] 
+Dealer : Card dealt to a spot [3h 6s] 
+Small Blind : Card dealt to a spot [4s 2c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 450 to 450
+UTG+3 [ME] : Folds
+UTG+4 : Raises 1500 to 1500
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Call 1050 
+*** FLOP *** [Kh 7d 6d]
+UTG+2 : Checks
+UTG+4 : Bets 2419 
+UTG+2 : Call 2419 
+*** TURN *** [Kh 7d 6d] [Ah]
+UTG+2 : Checks
+UTG+4 : Checks
+*** RIVER *** [Kh 7d 6d Ah] [As]
+UTG+2 : Checks
+UTG+4 : Bets 6047 
+UTG+2 : Call 6047 
+UTG+4 : Showdown [As Ah Ks Kh Qs] (Two pair)
+UTG+2 : Mucks [8c Kc] (Two pair)
+UTG+4 : Hand Result 20157 
+*** SUMMARY ***
+Total Pot(20157)
+Board [Kh 7d 6d Ah As]
+Seat+229: Big Blind Folded on the FLOP
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 [Mucked] [8c Kc ]  
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 20157  with Two pair [Qs Ks-As Ah Ks Kh Qs]  
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the FLOP
+Seat+105: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4663999407: HOLDEM Tournament #49305417 TBL#8, Normal- Level 7 (100/200) - 2022-12-16 19:43:00
+Seat 229: Small Blind (77,627 in chips)
+Seat 179: Big Blind (77,877 in chips)
+Seat 117: UTG (80,535 in chips)
+Seat 244: UTG+1 (67,811 in chips)
+Seat 53: UTG+2 [ME] (89,152 in chips)
+Seat 11: UTG+3 (70,096 in chips)
+Seat 96: UTG+4 (83,981 in chips)
+Seat 28: UTG+5 (201,496 in chips)
+Seat 105: Dealer (93,352 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Small blind 100 
+Big Blind : Big blind 200 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [2s Ac] 
+Big Blind : Card dealt to a spot [6h Ah] 
+UTG : Card dealt to a spot [Jc 7c] 
+UTG+1 : Card dealt to a spot [4c 7d] 
+UTG+2 [ME] : Card dealt to a spot [Qs 9c] 
+UTG+3 : Card dealt to a spot [9h 6s] 
+UTG+4 : Card dealt to a spot [4h Kc] 
+UTG+5 : Card dealt to a spot [Th Jd] 
+Dealer : Card dealt to a spot [9s Kh] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Call 200 
+Dealer : Raises 400 to 400
+Small Blind : Folds
+Big Blind : Call 200 
+UTG+5 : Call 200 
+*** FLOP *** [Qh Td Qd]
+Big Blind : Checks
+UTG+5 : Checks
+Dealer : Bets 200 
+Big Blind : Call 200 
+UTG+5 : Call 200 
+*** TURN *** [Qh Td Qd] [8h]
+Big Blind : Checks
+UTG+5 : Checks
+Dealer : Bets 400 
+Big Blind : Call 400 
+UTG+5 : Call 400 
+*** RIVER *** [Qh Td Qd 8h] [4s]
+Big Blind : Checks
+UTG+5 : Checks
+Dealer : Bets 1550 
+Big Blind : Sit out
+Big Blind : Folds(timeout)
+UTG+5 : Call 1550 
+Dealer : Showdown [Qh Qd Kh Td 9s] (One pair)
+UTG+5 : Showdown [Qh Qd Th Td Jd] (Two pair)
+UTG+5 : Hand Result 6200 
+*** SUMMARY ***
+Total Pot(6200)
+Board [Qh Td Qd 8h 4s]
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the RIVER
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 6200  with Two pair [Th Jd-Qh Qd Th Td Jd]  
+Seat+105: Dealer lose with One pair [9s Kh-Qh Qd Kh Td 9s]  
+
+
+Ignition Hand #4664000951: HOLDEM Tournament #49305417 TBL#8, Normal- Level 7 (100/200) - 2022-12-16 19:45:36
+Seat 229: Dealer (77,527 in chips)
+Seat 179: Small Blind (76,877 in chips)
+Seat 117: Big Blind (80,535 in chips)
+Seat 244: UTG (67,811 in chips)
+Seat 53: UTG+1 [ME] (89,152 in chips)
+Seat 11: UTG+2 (70,096 in chips)
+Seat 96: UTG+3 (83,981 in chips)
+Seat 28: UTG+4 (205,146 in chips)
+Seat 105: UTG+5 (90,802 in chips)
+Dealer : Set dealer [1] 
+Small Blind : Small blind 100 
+Big Blind : Big blind 200 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [3c Ah] 
+Small Blind : Card dealt to a spot [7s Ad] 
+Big Blind : Card dealt to a spot [9c 4d] 
+UTG : Card dealt to a spot [9d 7d] 
+UTG+1 [ME] : Card dealt to a spot [Qs 4c] 
+UTG+2 : Card dealt to a spot [5h 8s] 
+UTG+3 : Card dealt to a spot [Kd Ac] 
+UTG+4 : Card dealt to a spot [Jh 2s] 
+UTG+5 : Card dealt to a spot [5d 6d] 
+Small Blind : Re-join
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Raises 1822 to 1822
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+3 : Return uncalled portion of bet 1622 
+UTG+3 : Does not show [Kd Ac] (High Card)
+UTG+3 : Hand Result 500 
+*** SUMMARY ***
+Total Pot(500)
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind Folded on the FLOP
+Seat+244: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 500 [Does not show]  
+Seat+28: UTG+4 Folded on the FLOP
+Seat+105: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664001407: HOLDEM Tournament #49305417 TBL#8, Normal- Level 7 (100/200) - 2022-12-16 19:46:24
+Seat 229: UTG+5 (77,527 in chips)
+Seat 179: Dealer (76,777 in chips)
+Seat 117: Small Blind (80,335 in chips)
+Seat 244: Big Blind (67,811 in chips)
+Seat 53: UTG [ME] (89,152 in chips)
+Seat 11: UTG+1 (70,096 in chips)
+Seat 96: UTG+2 (84,281 in chips)
+Seat 28: UTG+3 (205,146 in chips)
+Seat 105: UTG+4 (90,802 in chips)
+Dealer : Set dealer [2] 
+Small Blind : Small blind 100 
+Big Blind : Big blind 200 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [4d 9s] 
+Dealer : Card dealt to a spot [Ac 9d] 
+Small Blind : Card dealt to a spot [8c 7d] 
+Big Blind : Card dealt to a spot [Qc 3s] 
+UTG [ME] : Card dealt to a spot [Jh 5h] 
+UTG+1 : Card dealt to a spot [8s Jd] 
+UTG+2 : Card dealt to a spot [7h Th] 
+UTG+3 : Card dealt to a spot [Qd 8h] 
+UTG+4 : Card dealt to a spot [2s 5d] 
+UTG [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Call 200 
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Call 200 
+Small Blind : Call 100 
+Big Blind : Checks
+*** FLOP *** [7c 4h Kc]
+Small Blind : Checks
+Big Blind : Checks
+UTG+3 : Checks
+Dealer : Checks
+*** TURN *** [7c 4h Kc] [Kh]
+Small Blind : Bets 400 
+Big Blind : Folds
+UTG+3 : Folds
+Dealer : Folds
+Small Blind : Return uncalled portion of bet 400 
+Small Blind : Does not show [8c 7d] (Two pair)
+Small Blind : Hand Result 800 
+*** SUMMARY ***
+Total Pot(800)
+Board [7c 4h Kc Kh ]
+Seat+229: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the TURN
+Seat+117: Small Blind 800 [Does not show]  
+Seat+244: Big Blind Folded on the TURN
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the TURN
+Seat+105: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4664002380: HOLDEM Tournament #49305417 TBL#8, Normal- Level 7 (100/200) - 2022-12-16 19:48:00
+Seat 229: UTG+4 (77,527 in chips)
+Seat 179: UTG+5 (76,577 in chips)
+Seat 117: Dealer (80,935 in chips)
+Seat 244: Small Blind (67,611 in chips)
+Seat 53: Big Blind [ME] (89,152 in chips)
+Seat 11: UTG (70,096 in chips)
+Seat 96: UTG+1 (84,281 in chips)
+Seat 28: UTG+2 (204,946 in chips)
+Seat 105: UTG+3 (90,802 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small blind 100 
+Big Blind [ME] : Big blind 200 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [5h Jh] 
+UTG+5 : Card dealt to a spot [4s Tc] 
+Dealer : Card dealt to a spot [Td Kd] 
+Small Blind : Card dealt to a spot [3h Ah] 
+Big Blind [ME] : Card dealt to a spot [4h Ts] 
+UTG : Card dealt to a spot [2s 4c] 
+UTG+1 : Card dealt to a spot [Ks Js] 
+UTG+2 : Card dealt to a spot [5d 6d] 
+UTG+3 : Card dealt to a spot [6s 5c] 
+UTG : Folds
+UTG+1 : Call 200 
+UTG+2 : Call 200 
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Raises 1000 to 1000
+Small Blind : Sit out
+Small Blind : Folds(timeout)
+Big Blind [ME] : Folds
+Small Blind : Re-join
+UTG+1 : Call 800 
+UTG+2 : Call 800 
+*** FLOP *** [Qc 8d 3s]
+UTG+1 : Checks
+UTG+2 : Checks
+Dealer : Bets 1650 
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer : Return uncalled portion of bet 1650 
+Dealer : Does not show [Td Kd] (High Card)
+Dealer : Hand Result 3300 
+*** SUMMARY ***
+Total Pot(3300)
+Board [Qc 8d 3s  ]
+Seat+229: UTG+4 Folded on the FLOP
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer 3300 [Does not show]  
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the FLOP
+Seat+105: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664003345: HOLDEM Tournament #49305417 TBL#8, Normal- Level 8 (125/250) - 2022-12-16 19:49:36
+Seat 229: UTG+3 (77,527 in chips)
+Seat 179: UTG+4 (76,577 in chips)
+Seat 117: UTG+5 (83,235 in chips)
+Seat 244: Dealer (67,511 in chips)
+Seat 53: Small Blind [ME] (88,952 in chips)
+Seat 11: Big Blind (70,096 in chips)
+Seat 96: UTG (83,281 in chips)
+Seat 28: UTG+1 (203,946 in chips)
+Seat 105: UTG+2 (90,802 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 25 
+UTG+4 : Ante chip 25 
+UTG+5 : Ante chip 25 
+Dealer : Ante chip 25 
+Small Blind [ME] : Ante chip 25 
+Big Blind : Ante chip 25 
+UTG : Ante chip 25 
+UTG+1 : Ante chip 25 
+UTG+2 : Ante chip 25 
+Small Blind [ME] : Small blind 125 
+Big Blind : Big blind 250 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [Th 6c] 
+UTG+4 : Card dealt to a spot [8h Qc] 
+UTG+5 : Card dealt to a spot [9s 9h] 
+Dealer : Card dealt to a spot [Jc 4c] 
+Small Blind [ME] : Card dealt to a spot [7c Ad] 
+Big Blind : Card dealt to a spot [2h Js] 
+UTG : Card dealt to a spot [2s 9c] 
+UTG+1 : Card dealt to a spot [Qs 8c] 
+UTG+2 : Card dealt to a spot [2d Ah] 
+UTG : Folds
+UTG+1 : Call 250 
+UTG+2 : Raises 500 to 500
+UTG+3 : Folds
+UTG+4 : Sit out
+UTG+4 : Folds(timeout)
+UTG+4 : Re-join
+UTG+5 : Call 500 
+Dealer : Folds
+Small Blind [ME] : Call 375 
+Big Blind : Folds
+UTG+1 : Call 250 
+*** FLOP *** [9d 7s Tc]
+Small Blind [ME] : Checks
+UTG+1 : Checks
+UTG+2 : Checks
+UTG+5 : Bets 1856 
+Small Blind [ME] : Folds
+UTG+1 : Call 1856 
+UTG+2 : Folds
+*** TURN *** [9d 7s Tc] [Kh]
+UTG+1 : Checks
+UTG+5 : Bets 3094 
+UTG+1 : Call 3094 
+*** RIVER *** [9d 7s Tc Kh] [5h]
+UTG+1 : Checks
+UTG+5 : Checks
+UTG+1 : Showdown [Kh Qs Tc 9d 8c] (High Card)
+UTG+5 : Showdown [9s 9h 9d Kh Tc] (Three of a kind)
+UTG+5 : Hand Result 12375 
+*** SUMMARY ***
+Total Pot(12375)
+Board [9d 7s Tc Kh 5h]
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 12375  with Three of a kind [9s 9h-9s 9h 9d Kh Tc]  
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 lose with High Card [Qs 8c-Kh Qs Tc 9d 8c]  
+Seat+105: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4664004388: HOLDEM Tournament #49305417 TBL#8, Normal- Level 8 (125/250) - 2022-12-16 19:51:24
+Seat 229: UTG+2 (77,502 in chips)
+Seat 179: UTG+3 (76,552 in chips)
+Seat 117: UTG+4 (90,135 in chips)
+Seat 244: UTG+5 (67,486 in chips)
+Seat 53: Dealer [ME] (88,427 in chips)
+Seat 11: Small Blind (69,821 in chips)
+Seat 96: Big Blind (83,256 in chips)
+Seat 28: UTG (198,471 in chips)
+Seat 105: UTG+1 (90,277 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 25 
+UTG+3 : Ante chip 25 
+UTG+4 : Ante chip 25 
+UTG+5 : Ante chip 25 
+Dealer [ME] : Ante chip 25 
+Small Blind : Ante chip 25 
+Big Blind : Ante chip 25 
+UTG : Ante chip 25 
+UTG+1 : Ante chip 25 
+Small Blind : Small blind 125 
+Big Blind : Big blind 250 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [7c 7s] 
+UTG+3 : Card dealt to a spot [Kd 3d] 
+UTG+4 : Card dealt to a spot [7h 9h] 
+UTG+5 : Card dealt to a spot [Ts 8s] 
+Dealer [ME] : Card dealt to a spot [6d 8c] 
+Small Blind : Card dealt to a spot [2c Qh] 
+Big Blind : Card dealt to a spot [Ah 5d] 
+UTG : Card dealt to a spot [8d 4c] 
+UTG+1 : Card dealt to a spot [Kc 9c] 
+UTG : Folds
+UTG+1 : Raises 500 to 500
+UTG+2 : Call 500 
+UTG+3 : Folds
+UTG+4 : Call 500 
+UTG+5 : Folds
+Dealer [ME] : Folds
+Small Blind : Folds
+Big Blind : Call 250 
+*** FLOP *** [5c Th As]
+Big Blind : Checks
+UTG+1 : Checks
+UTG+2 : Checks
+UTG+4 : Checks
+*** TURN *** [5c Th As] [Ac]
+Big Blind : Checks
+UTG+1 : Bets 250 
+UTG+2 : Call 250 
+UTG+4 : Folds
+Big Blind : Raises 1154 to 1154
+UTG+1 : Call 904 
+UTG+2 : Folds
+*** RIVER *** [5c Th As Ac] [4s]
+Big Blind : Bets 2718 
+UTG+1 : Folds
+Big Blind : Return uncalled portion of bet 2718 
+Big Blind : Does not show [Ah 5d] (Full House)
+Big Blind : Hand Result 4908 
+*** SUMMARY ***
+Total Pot(4908)
+Board [5c Th As Ac 4s]
+Seat+229: UTG+2 Folded on the TURN
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the TURN
+Seat+244: UTG+5 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind 4908 [Does not show]  
+Seat+28: UTG Folded on the FLOP
+Seat+105: UTG+1 Folded on the RIVER
+
+
+Ignition Hand #4664005519: HOLDEM Tournament #49305417 TBL#8, Normal- Level 8 (125/250) - 2022-12-16 19:53:21
+Seat 229: UTG+1 (76,727 in chips)
+Seat 179: UTG+2 (76,527 in chips)
+Seat 117: UTG+3 (89,610 in chips)
+Seat 244: UTG+4 (67,461 in chips)
+Seat 53: UTG+5 [ME] (88,402 in chips)
+Seat 11: Dealer (69,671 in chips)
+Seat 96: Small Blind (86,485 in chips)
+Seat 28: Big Blind (198,446 in chips)
+Seat 105: UTG (88,598 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 25 
+UTG+2 : Ante chip 25 
+UTG+3 : Ante chip 25 
+UTG+4 : Ante chip 25 
+UTG+5 [ME] : Ante chip 25 
+Dealer : Ante chip 25 
+Small Blind : Ante chip 25 
+Big Blind : Ante chip 25 
+UTG : Ante chip 25 
+Small Blind : Small blind 125 
+Big Blind : Big blind 250 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Ts 8s] 
+UTG+2 : Card dealt to a spot [Qs 9h] 
+UTG+3 : Card dealt to a spot [Js 4s] 
+UTG+4 : Card dealt to a spot [5h Qh] 
+UTG+5 [ME] : Card dealt to a spot [6c Kc] 
+Dealer : Card dealt to a spot [7h Ah] 
+Small Blind : Card dealt to a spot [Kh Td] 
+Big Blind : Card dealt to a spot [7d 4h] 
+UTG : Card dealt to a spot [8c 2s] 
+UTG : Folds
+UTG+1 : Raises 700 to 700
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Call 700 
+Dealer : Raises 3400 to 3400
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Folds
+UTG+5 [ME] : Folds
+Dealer : Return uncalled portion of bet 2700 
+Dealer : Does not show [7h Ah] (High Card)
+Dealer : Hand Result 2700 
+*** SUMMARY ***
+Total Pot(2700)
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer 2700 [Does not show]  
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind Folded on the FLOP
+Seat+105: UTG Folded on the FLOP
+
+
+Ignition Hand #4664006068: HOLDEM Tournament #49305417 TBL#8, Normal- Level 8 (125/250) - 2022-12-16 19:54:15
+Seat 229: UTG (76,002 in chips)
+Seat 179: UTG+1 (76,502 in chips)
+Seat 117: UTG+2 (89,585 in chips)
+Seat 244: UTG+3 (67,436 in chips)
+Seat 53: UTG+4 [ME] (87,677 in chips)
+Seat 11: UTG+5 (71,646 in chips)
+Seat 96: Dealer (86,335 in chips)
+Seat 28: Small Blind (198,171 in chips)
+Seat 105: Big Blind (88,573 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 25 
+UTG+1 : Ante chip 25 
+UTG+2 : Ante chip 25 
+UTG+3 : Ante chip 25 
+UTG+4 [ME] : Ante chip 25 
+UTG+5 : Ante chip 25 
+Dealer : Ante chip 25 
+Small Blind : Ante chip 25 
+Big Blind : Ante chip 25 
+Small Blind : Small blind 125 
+Big Blind : Big blind 250 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Kc Kh] 
+UTG+1 : Card dealt to a spot [Tc Ks] 
+UTG+2 : Card dealt to a spot [8d 8s] 
+UTG+3 : Card dealt to a spot [2h 4h] 
+UTG+4 [ME] : Card dealt to a spot [Ad 8h] 
+UTG+5 : Card dealt to a spot [8c 9s] 
+Dealer : Card dealt to a spot [4s 7d] 
+Small Blind : Card dealt to a spot [Jh 6s] 
+Big Blind : Card dealt to a spot [Td 2d] 
+UTG : Raises 700 to 700
+UTG+1 : Folds
+UTG+2 : Call 700 
+UTG+3 : Folds
+UTG+4 [ME] : Call 700 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 450 
+*** FLOP *** [6d Th 7h]
+Big Blind : Bets 1575 
+UTG : Call 1575 
+UTG+2 : Folds
+UTG+4 [ME] : Folds
+*** TURN *** [6d Th 7h] [Js]
+Big Blind : Bets 3150 
+UTG : Call 3150 
+*** RIVER *** [6d Th 7h Js] [4d]
+Big Blind : Checks
+UTG : Bets 9450 
+Big Blind : Call 9450 
+UTG : Showdown [Kh Kc Js Th 7h] (One pair)
+Big Blind : Mucks [Td 2d] (One pair)
+UTG : Hand Result 31500 
+*** SUMMARY ***
+Total Pot(31500)
+Board [6d Th 7h Js 4d]
+Seat+229: UTG 31500  with One pair [Kc Kh-Kh Kc Js Th 7h]  
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 Folded on the FLOP
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+105: Big Blind [Mucked] [Td 2d ]  
+
+
+Ignition Hand #4664008573: HOLDEM Tournament #49305417 TBL#8, Normal- Level 8 (125/250) - 2022-12-16 20:00:01
+Seat 229: Big Blind (92,602 in chips)
+Seat 179: UTG (76,477 in chips)
+Seat 117: UTG+1 (88,860 in chips)
+Seat 244: UTG+2 (67,411 in chips)
+Seat 53: UTG+3 [ME] (86,952 in chips)
+Seat 11: UTG+4 (71,621 in chips)
+Seat 96: UTG+5 (86,310 in chips)
+Seat 28: Dealer (198,021 in chips)
+Seat 105: Small Blind (73,673 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 25 
+UTG : Ante chip 25 
+UTG+1 : Ante chip 25 
+UTG+2 : Ante chip 25 
+UTG+3 [ME] : Ante chip 25 
+UTG+4 : Ante chip 25 
+UTG+5 : Ante chip 25 
+Dealer : Ante chip 25 
+Small Blind : Ante chip 25 
+Small Blind : Small blind 125 
+Big Blind : Big blind 250 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [9c 7c] 
+UTG : Card dealt to a spot [Jh Ac] 
+UTG+1 : Card dealt to a spot [Jd 3s] 
+UTG+2 : Card dealt to a spot [Qd 6h] 
+UTG+3 [ME] : Card dealt to a spot [2s Kh] 
+UTG+4 : Card dealt to a spot [3h Ks] 
+UTG+5 : Card dealt to a spot [9d Kd] 
+Dealer : Card dealt to a spot [4s 3c] 
+Small Blind : Card dealt to a spot [6s 7h] 
+UTG : Sit out
+UTG : Folds(timeout)
+UTG+1 : Folds
+UTG : Re-join
+UTG+2 : Sit out
+UTG+2 : Folds(timeout)
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Raises 625 to 750
+Big Blind : Raises 2225 to 2475
+UTG+2 : Re-join
+Small Blind : Folds
+Big Blind : Return uncalled portion of bet 1725 
+Big Blind : Does not show [9c 7c] (High Card)
+Big Blind : Hand Result 1725 
+*** SUMMARY ***
+Total Pot(1725)
+Seat+229: Big Blind 1725 [Does not show]  
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the FLOP
+Seat+105: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4664009273: HOLDEM Tournament #49305417 TBL#8, Normal- Level 9 (150/300) - 2022-12-16 20:01:19
+Seat 229: Small Blind (93,552 in chips)
+Seat 179: Big Blind (76,452 in chips)
+Seat 117: UTG (88,835 in chips)
+Seat 244: UTG+1 (67,386 in chips)
+Seat 53: UTG+2 [ME] (86,927 in chips)
+Seat 11: UTG+3 (71,596 in chips)
+Seat 96: UTG+4 (86,285 in chips)
+Seat 28: UTG+5 (197,996 in chips)
+Seat 105: Dealer (72,898 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 30 
+Big Blind : Ante chip 30 
+UTG : Ante chip 30 
+UTG+1 : Ante chip 30 
+UTG+2 [ME] : Ante chip 30 
+UTG+3 : Ante chip 30 
+UTG+4 : Ante chip 30 
+UTG+5 : Ante chip 30 
+Dealer : Ante chip 30 
+Small Blind : Small blind 150 
+Big Blind : Big blind 300 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Kd 5s] 
+Big Blind : Card dealt to a spot [Th 5d] 
+UTG : Card dealt to a spot [Qs 9d] 
+UTG+1 : Card dealt to a spot [9c 9h] 
+UTG+2 [ME] : Card dealt to a spot [Qd Jc] 
+UTG+3 : Card dealt to a spot [Ah Tc] 
+UTG+4 : Card dealt to a spot [4s 8h] 
+UTG+5 : Card dealt to a spot [3h 6d] 
+Dealer : Card dealt to a spot [7s 6h] 
+UTG : Folds
+UTG+1 : Raises 900 to 900
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Return uncalled portion of bet 600 
+UTG+1 : Does not show [9c 9h] (High Card)
+UTG+1 : Hand Result 1020 
+*** SUMMARY ***
+Total Pot(1020)
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 1020 [Does not show]  
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 Folded on the FLOP
+Seat+105: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664009858: HOLDEM Tournament #49305417 TBL#8, Normal- Level 9 (150/300) - 2022-12-16 20:02:19
+Seat 229: Dealer (93,372 in chips)
+Seat 179: Small Blind (76,122 in chips)
+Seat 117: Big Blind (88,805 in chips)
+Seat 244: UTG (68,076 in chips)
+Seat 53: UTG+1 [ME] (86,897 in chips)
+Seat 11: UTG+2 (71,566 in chips)
+Seat 96: UTG+3 (86,255 in chips)
+Seat 28: UTG+4 (197,966 in chips)
+Seat 105: UTG+5 (72,868 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 30 
+Small Blind : Ante chip 30 
+Big Blind : Ante chip 30 
+UTG : Ante chip 30 
+UTG+1 [ME] : Ante chip 30 
+UTG+2 : Ante chip 30 
+UTG+3 : Ante chip 30 
+UTG+4 : Ante chip 30 
+UTG+5 : Ante chip 30 
+Small Blind : Small blind 150 
+Big Blind : Big blind 300 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [8c Td] 
+Small Blind : Card dealt to a spot [Ts 2h] 
+Big Blind : Card dealt to a spot [As Ks] 
+UTG : Card dealt to a spot [7h 6c] 
+UTG+1 [ME] : Card dealt to a spot [Jc 5c] 
+UTG+2 : Card dealt to a spot [9h 8d] 
+UTG+3 : Card dealt to a spot [7d Ah] 
+UTG+4 : Card dealt to a spot [Ad 4d] 
+UTG+5 : Card dealt to a spot [3d 3h] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Call 300 
+UTG+5 : Raises 1200 to 1200
+Dealer : Folds
+Small Blind : Sit out
+Small Blind : Folds(timeout)
+Big Blind : Call 900 
+UTG+4 : Call 900 
+*** FLOP *** [Qh 4c Js]
+Small Blind : Re-join
+Big Blind : Checks
+UTG+4 : Checks
+UTG+5 : Bets 300 
+Big Blind : Call 300 
+UTG+4 : Call 300 
+*** TURN *** [Qh 4c Js] [5h]
+Big Blind : Checks
+UTG+4 : Checks
+UTG+5 : Bets 300 
+Big Blind : Raises 1200 to 1200
+UTG+4 : Call 1200 
+UTG+5 : Folds
+*** RIVER *** [Qh 4c Js 5h] [9s]
+Big Blind : Checks
+UTG+4 : Checks
+Big Blind : Showdown [As Ks Qh Js 9s] (High Card)
+UTG+4 : Showdown [4d 4c Ad Qh Js] (One pair)
+UTG+4 : Hand Result 7620 
+*** SUMMARY ***
+Total Pot(7620)
+Board [Qh 4c Js 5h 9s]
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind lose with High Card [As Ks-As Ks Qh Js 9s]  
+Seat+244: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 7620  with One pair [Ad 4d-4d 4c Ad Qh Js]  
+Seat+105: UTG+5 Folded on the TURN
+
+
+Ignition Hand #4664011186: HOLDEM Tournament #49305417 TBL#8, Normal- Level 9 (150/300) - 2022-12-16 20:04:31
+Seat 229: UTG+5 (93,342 in chips)
+Seat 179: Dealer (75,942 in chips)
+Seat 117: Small Blind (86,075 in chips)
+Seat 244: Big Blind (68,046 in chips)
+Seat 53: UTG [ME] (86,867 in chips)
+Seat 11: UTG+1 (71,536 in chips)
+Seat 96: UTG+2 (86,225 in chips)
+Seat 28: UTG+3 (202,856 in chips)
+Seat 105: UTG+4 (71,038 in chips)
+Dealer : Set dealer [2] 
+UTG+5 : Ante chip 30 
+Dealer : Ante chip 30 
+Small Blind : Ante chip 30 
+Big Blind : Ante chip 30 
+UTG [ME] : Ante chip 30 
+UTG+1 : Ante chip 30 
+UTG+2 : Ante chip 30 
+UTG+3 : Ante chip 30 
+UTG+4 : Ante chip 30 
+Small Blind : Small blind 150 
+Big Blind : Big blind 300 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [7s 6s] 
+Dealer : Card dealt to a spot [2s 4c] 
+Small Blind : Card dealt to a spot [Kd 4h] 
+Big Blind : Card dealt to a spot [Qc 2c] 
+UTG [ME] : Card dealt to a spot [8d Ah] 
+UTG+1 : Card dealt to a spot [Ad Th] 
+UTG+2 : Card dealt to a spot [4d 8c] 
+UTG+3 : Card dealt to a spot [7h 6d] 
+UTG+4 : Card dealt to a spot [9c Js] 
+UTG [ME] : Raises 600 to 600
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Call 600 
+UTG+4 : Folds
+UTG+5 : Call 600 
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 300 
+*** FLOP *** [6h 2h 5h]
+Big Blind : Checks
+UTG [ME] : Bets 1410 
+UTG+3 : Call 1410 
+UTG+5 : Folds
+Big Blind : Folds
+*** TURN *** [6h 2h 5h] [Jc]
+UTG [ME] : Checks
+UTG+3 : Bets 600 
+UTG [ME] : Call 600 
+*** RIVER *** [6h 2h 5h Jc] [2d]
+UTG [ME] : Checks
+UTG+3 : Checks
+UTG [ME] : Showdown [2h 2d Ah Jc 8d] (One pair)
+UTG+3 : Showdown [6h 6d 2h 2d Jc] (Two pair)
+UTG+3 : Hand Result 6840 
+*** SUMMARY ***
+Total Pot(6840)
+Board [6h 2h 5h Jc 2d]
+Seat+229: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+244: Big Blind Folded on the FLOP
+Seat+53: UTG lose with One pair [8d Ah-2h 2d Ah Jc 8d]  
+Seat+11: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 6840  with Two pair [7h 6d-6h 6d 2h 2d Jc]  
+Seat+105: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4664012179: HOLDEM Tournament #49305417 TBL#8, Normal- Level 9 (150/300) - 2022-12-16 20:06:10
+Seat 229: UTG+4 (92,712 in chips)
+Seat 179: UTG+5 (75,912 in chips)
+Seat 117: Dealer (85,895 in chips)
+Seat 244: Small Blind (67,416 in chips)
+Seat 53: Big Blind [ME] (84,227 in chips)
+Seat 11: UTG (71,506 in chips)
+Seat 96: UTG+1 (86,195 in chips)
+Seat 28: UTG+2 (207,056 in chips)
+Seat 105: UTG+3 (71,008 in chips)
+Dealer : Set dealer [3] 
+UTG+4 : Ante chip 30 
+UTG+5 : Ante chip 30 
+Dealer : Ante chip 30 
+Small Blind : Ante chip 30 
+Big Blind [ME] : Ante chip 30 
+UTG : Ante chip 30 
+UTG+1 : Ante chip 30 
+UTG+2 : Ante chip 30 
+UTG+3 : Ante chip 30 
+Small Blind : Small blind 150 
+Big Blind [ME] : Big blind 300 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [2c 5h] 
+UTG+5 : Card dealt to a spot [Ts Jh] 
+Dealer : Card dealt to a spot [Ah 4h] 
+Small Blind : Card dealt to a spot [Ad 2h] 
+Big Blind [ME] : Card dealt to a spot [9d Tc] 
+UTG : Card dealt to a spot [8h 4c] 
+UTG+1 : Card dealt to a spot [Qc 5c] 
+UTG+2 : Card dealt to a spot [Td Kc] 
+UTG+3 : Card dealt to a spot [Jc 9s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Call 300 
+UTG+3 : Raises 600 to 600
+UTG+4 : Folds
+UTG+5 : Sit out
+UTG+5 : Folds(timeout)
+Dealer : Call 600 
+Small Blind : Sit out
+Small Blind : Folds(timeout)
+Big Blind [ME] : Call 300 
+UTG+2 : Call 300 
+*** FLOP *** [Kh 7s 2s]
+Big Blind [ME] : Checks
+UTG+2 : Bets 600 
+Small Blind : Re-join
+UTG+5 : Re-join
+UTG+3 : Folds
+Dealer : Folds
+Big Blind [ME] : Folds
+UTG+2 : Return uncalled portion of bet 600 
+UTG+2 : Does not show [Td Kc] (One pair)
+UTG+2 : Hand Result 2820 
+*** SUMMARY ***
+Total Pot(2820)
+Board [Kh 7s 2s  ]
+Seat+229: UTG+4 Folded on the FLOP
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 2820 [Does not show]  
+Seat+105: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664013129: HOLDEM Tournament #49305417 TBL#8, Normal- Level 9 (150/300) - 2022-12-16 20:07:43
+Seat 229: UTG+3 (92,682 in chips)
+Seat 179: UTG+4 (75,882 in chips)
+Seat 117: UTG+5 (85,265 in chips)
+Seat 244: Dealer (67,236 in chips)
+Seat 53: Small Blind [ME] (83,597 in chips)
+Seat 11: Big Blind (71,476 in chips)
+Seat 96: UTG (86,165 in chips)
+Seat 28: UTG+1 (209,246 in chips)
+Seat 105: UTG+2 (70,378 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 30 
+UTG+4 : Ante chip 30 
+UTG+5 : Ante chip 30 
+Dealer : Ante chip 30 
+Small Blind [ME] : Ante chip 30 
+Big Blind : Ante chip 30 
+UTG : Ante chip 30 
+UTG+1 : Ante chip 30 
+UTG+2 : Ante chip 30 
+Small Blind [ME] : Small blind 150 
+Big Blind : Big blind 300 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [4s Qs] 
+UTG+4 : Card dealt to a spot [7h Tc] 
+UTG+5 : Card dealt to a spot [5d 7d] 
+Dealer : Card dealt to a spot [7c Td] 
+Small Blind [ME] : Card dealt to a spot [Ah 6h] 
+Big Blind : Card dealt to a spot [3c 5c] 
+UTG : Card dealt to a spot [2d Js] 
+UTG+1 : Card dealt to a spot [Jc 4d] 
+UTG+2 : Card dealt to a spot [Qc Qh] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 900 to 900
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind [ME] : Call 750 
+Big Blind : Call 600 
+*** FLOP *** [6s 4c 6c]
+Small Blind [ME] : Bets 1485 
+Big Blind : Raises 3900 to 3900
+UTG+2 : Raises 16155 to 16155
+Small Blind [ME] : All-in(raise) 81182 to 82667
+Big Blind : Folds
+UTG+2 : All-in 53293 
+Small Blind [ME] : Return uncalled portion of bet 13219 
+*** TURN *** [6s 4c 6c] [Ts]
+*** RIVER *** [6s 4c 6c Ts] [9d]
+Small Blind [ME] : Showdown [6s 6h 6c Ah Ts] (Three of a kind)
+UTG+2 : Showdown [Qh Qc 6s 6c Ts] (Two pair)
+Small Blind [ME] : Hand Result 145766 
+UTG+2 : Ranking 293 
+UTG+2 : Stand
+*** SUMMARY ***
+Total Pot(145766)
+Board [6s 4c 6c Ts 9d]
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 Folded on the FLOP
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind 145766  with Three of a kind [Ah 6h-6s 6h 6c Ah Ts]  
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+Seat+105: UTG+2 lose with Two pair [Qc Qh-Qh Qc 6s 6c Ts]  
+
+
+Ignition Hand #4664014080: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:09:16
+Seat 229: UTG+1 (92,652 in chips)
+Seat 179: UTG+2 (75,852 in chips)
+Seat 117: UTG+3 (85,235 in chips)
+Seat 244: UTG+4 (67,206 in chips)
+Seat 53: Dealer [ME] (158,985 in chips)
+Seat 11: Small Blind (66,646 in chips)
+Seat 96: Big Blind (86,135 in chips)
+Seat 28: UTG (209,216 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+1 : Ante chip 40 
+UTG+2 : Ante chip 40 
+UTG+3 : Ante chip 40 
+UTG+4 : Ante chip 40 
+Dealer [ME] : Ante chip 40 
+Small Blind : Ante chip 40 
+Big Blind : Ante chip 40 
+UTG : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Kd 5h] 
+UTG+2 : Card dealt to a spot [3h 6s] 
+UTG+3 : Card dealt to a spot [Js 2d] 
+UTG+4 : Card dealt to a spot [7c 6h] 
+Dealer [ME] : Card dealt to a spot [4s Jh] 
+Small Blind : Card dealt to a spot [6c Qs] 
+Big Blind : Card dealt to a spot [2h 8s] 
+UTG : Card dealt to a spot [Qd Tc] 
+UTG : Call 400 
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer [ME] : Folds
+Small Blind : Call 200 
+Big Blind : Checks
+*** FLOP *** [Kc Ts Qh]
+Small Blind : Checks
+Big Blind : Checks
+UTG : Bets 1520 
+Small Blind : Raises 4400 to 4400
+Big Blind : Folds
+UTG : Call 2880 
+*** TURN *** [Kc Ts Qh] [Jc]
+Small Blind : Checks
+UTG : Checks
+*** RIVER *** [Kc Ts Qh Jc] [8c]
+Small Blind : Checks
+UTG : Checks
+Small Blind : Showdown [Qs Qh Kc Jc Ts] (One pair)
+UTG : Showdown [Qh Qd Ts Tc Kc] (Two pair)
+UTG : Hand Result 10320 
+*** SUMMARY ***
+Total Pot(10320)
+Board [Kc Ts Qh Jc 8c]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+11: Small Blind lose with One pair [6c Qs-Qs Qh Kc Jc Ts]  
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG 10320  with Two pair [Qd Tc-Qh Qd Ts Tc Kc]  
+
+
+Ignition Hand #4664014845: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:10:28
+Seat 229: UTG+1 (92,612 in chips)
+Seat 179: UTG+2 (75,812 in chips)
+Seat 117: UTG+3 (85,195 in chips)
+Seat 244: UTG+4 (67,166 in chips)
+Seat 53: UTG+5 [ME] (158,945 in chips)
+Seat 11: Dealer (61,806 in chips)
+Seat 96: Small Blind (85,695 in chips)
+Seat 28: Big Blind (214,696 in chips)
+Seat 351: UTG (77,777 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 40 
+UTG+2 : Ante chip 40 
+UTG+3 : Ante chip 40 
+UTG+4 : Ante chip 40 
+UTG+5 [ME] : Ante chip 40 
+Dealer : Ante chip 40 
+Small Blind : Ante chip 40 
+Big Blind : Ante chip 40 
+UTG : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Kh 8h] 
+UTG+2 : Card dealt to a spot [3c Kd] 
+UTG+3 : Card dealt to a spot [7s Jc] 
+UTG+4 : Card dealt to a spot [9d Qc] 
+UTG+5 [ME] : Card dealt to a spot [Jh 7d] 
+Dealer : Card dealt to a spot [4s Th] 
+Small Blind : Card dealt to a spot [8s 8c] 
+Big Blind : Card dealt to a spot [5s Qd] 
+UTG : Card dealt to a spot [9s 8d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Folds
+Small Blind : Call 200 
+Big Blind : Checks
+*** FLOP *** [2d Ac 5d]
+Small Blind : Bets 754 
+Big Blind : Call 754 
+*** TURN *** [2d Ac 5d] [As]
+Small Blind : Bets 1356 
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet 1356 
+Small Blind : Does not show [8s 8c] (Two pair)
+Small Blind : Hand Result 2668 
+*** SUMMARY ***
+Total Pot(2668)
+Board [2d Ac 5d As ]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer Folded on the FLOP
+Seat+96: Small Blind 2668 [Does not show]  
+Seat+28: Big Blind Folded on the TURN
+Seat+351: UTG Folded on the FLOP
+
+
+Ignition Hand #4664015658: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:11:43
+Seat 229: UTG (92,572 in chips)
+Seat 179: UTG+1 (75,772 in chips)
+Seat 117: UTG+2 (85,155 in chips)
+Seat 244: UTG+3 (67,126 in chips)
+Seat 53: UTG+4 [ME] (158,905 in chips)
+Seat 11: UTG+5 (61,766 in chips)
+Seat 96: Dealer (87,169 in chips)
+Seat 28: Small Blind (213,502 in chips)
+Seat 351: Big Blind (77,737 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 40 
+UTG+1 : Ante chip 40 
+UTG+2 : Ante chip 40 
+UTG+3 : Ante chip 40 
+UTG+4 [ME] : Ante chip 40 
+UTG+5 : Ante chip 40 
+Dealer : Ante chip 40 
+Small Blind : Ante chip 40 
+Big Blind : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [8d 2h] 
+UTG+1 : Card dealt to a spot [Td 2d] 
+UTG+2 : Card dealt to a spot [Jd 9c] 
+UTG+3 : Card dealt to a spot [4h 4d] 
+UTG+4 [ME] : Card dealt to a spot [8h Ad] 
+UTG+5 : Card dealt to a spot [6h Qc] 
+Dealer : Card dealt to a spot [7c Jh] 
+Small Blind : Card dealt to a spot [6d Js] 
+Big Blind : Card dealt to a spot [Qd 3h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Raises 1200 to 1200
+UTG+4 [ME] : Call 1200 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [6s Ah 7h]
+UTG+3 : Checks
+UTG+4 [ME] : Bets 1280 
+UTG+3 : Folds
+UTG+4 [ME] : Return uncalled portion of bet 1280 
+UTG+4 [ME] : Does not show [8h Ad] (One pair)
+UTG+4 [ME] : Hand Result 3360 
+*** SUMMARY ***
+Total Pot(3360)
+Board [6s Ah 7h  ]
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 3360 [Does not show]  
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+351: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4664016474: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:13:01
+Seat 229: Big Blind (92,532 in chips)
+Seat 179: UTG (75,732 in chips)
+Seat 117: UTG+1 (85,115 in chips)
+Seat 244: UTG+2 (65,886 in chips)
+Seat 53: UTG+3 [ME] (161,025 in chips)
+Seat 11: UTG+4 (61,726 in chips)
+Seat 96: UTG+5 (87,129 in chips)
+Seat 28: Dealer (213,262 in chips)
+Seat 351: Small Blind (77,297 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 40 
+UTG : Ante chip 40 
+UTG+1 : Ante chip 40 
+UTG+2 : Ante chip 40 
+UTG+3 [ME] : Ante chip 40 
+UTG+4 : Ante chip 40 
+UTG+5 : Ante chip 40 
+Dealer : Ante chip 40 
+Small Blind : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [7d 5d] 
+UTG : Card dealt to a spot [2s Ad] 
+UTG+1 : Card dealt to a spot [7c 2c] 
+UTG+2 : Card dealt to a spot [3d Js] 
+UTG+3 [ME] : Card dealt to a spot [8s 2d] 
+UTG+4 : Card dealt to a spot [9d 7s] 
+UTG+5 : Card dealt to a spot [3c Kd] 
+Dealer : Card dealt to a spot [5c 4c] 
+Small Blind : Card dealt to a spot [9s 9c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Call 400 
+Small Blind : Call 200 
+Big Blind : Raises 1000 to 1400
+Dealer : Call 1000 
+Small Blind : Call 1000 
+*** FLOP *** [3s 3h Ah]
+Small Blind : Checks
+Big Blind : Checks
+Dealer : Checks
+*** TURN *** [3s 3h Ah] [Td]
+Small Blind : Bets 1200 
+Big Blind : Folds
+Dealer : Folds
+Small Blind : Return uncalled portion of bet 1200 
+Small Blind : Does not show [9s 9c] (Two pair)
+Small Blind : Hand Result 4560 
+*** SUMMARY ***
+Total Pot(4560)
+Board [3s 3h Ah Td ]
+Seat+229: Big Blind Folded on the TURN
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the TURN
+Seat+351: Small Blind 4560 [Does not show]  
+
+
+Ignition Hand #4664017358: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:14:22
+Seat 229: Small Blind (91,092 in chips)
+Seat 179: Big Blind (75,692 in chips)
+Seat 117: UTG (85,075 in chips)
+Seat 244: UTG+1 (65,846 in chips)
+Seat 53: UTG+2 [ME] (160,985 in chips)
+Seat 11: UTG+3 (61,686 in chips)
+Seat 96: UTG+4 (87,089 in chips)
+Seat 28: UTG+5 (211,822 in chips)
+Seat 351: Dealer (80,417 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 40 
+Big Blind : Ante chip 40 
+UTG : Ante chip 40 
+UTG+1 : Ante chip 40 
+UTG+2 [ME] : Ante chip 40 
+UTG+3 : Ante chip 40 
+UTG+4 : Ante chip 40 
+UTG+5 : Ante chip 40 
+Dealer : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Kd 4s] 
+Big Blind : Card dealt to a spot [2s Jh] 
+UTG : Card dealt to a spot [7s 3s] 
+UTG+1 : Card dealt to a spot [7d Qc] 
+UTG+2 [ME] : Card dealt to a spot [2c 4c] 
+UTG+3 : Card dealt to a spot [5d 9c] 
+UTG+4 : Card dealt to a spot [Qd 5c] 
+UTG+5 : Card dealt to a spot [As Ts] 
+Dealer : Card dealt to a spot [8c Th] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Raises 1760 to 1760
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+5 : Return uncalled portion of bet 1360 
+UTG+5 : Does not show [As Ts] (High Card)
+UTG+5 : Hand Result 1360 
+*** SUMMARY ***
+Total Pot(1360)
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 1360 [Does not show]  
+Seat+351: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664017775: HOLDEM Tournament #49305417 TBL#8, Normal- Level 10 (200/400) - 2022-12-16 20:15:01
+Seat 229: Dealer (90,852 in chips)
+Seat 179: Small Blind (75,252 in chips)
+Seat 117: Big Blind (85,035 in chips)
+Seat 244: UTG (65,806 in chips)
+Seat 53: UTG+1 [ME] (160,945 in chips)
+Seat 11: UTG+2 (61,646 in chips)
+Seat 96: UTG+3 (87,049 in chips)
+Seat 28: UTG+4 (212,742 in chips)
+Seat 351: UTG+5 (80,377 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 40 
+Small Blind : Ante chip 40 
+Big Blind : Ante chip 40 
+UTG : Ante chip 40 
+UTG+1 [ME] : Ante chip 40 
+UTG+2 : Ante chip 40 
+UTG+3 : Ante chip 40 
+UTG+4 : Ante chip 40 
+UTG+5 : Ante chip 40 
+Small Blind : Small blind 200 
+Big Blind : Big blind 400 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [5c 8s] 
+Small Blind : Card dealt to a spot [Qc 5s] 
+Big Blind : Card dealt to a spot [2h 2d] 
+UTG : Card dealt to a spot [8c 7s] 
+UTG+1 [ME] : Card dealt to a spot [Jd 8h] 
+UTG+2 : Card dealt to a spot [Ks Ad] 
+UTG+3 : Card dealt to a spot [Jc 7d] 
+UTG+4 : Card dealt to a spot [Qd Ts] 
+UTG+5 : Card dealt to a spot [Tc 2s] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Raises 1200 to 1200
+UTG+3 : Folds
+UTG+4 : Call 1200 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 800 
+*** FLOP *** [3d Jh 4s]
+Big Blind : Checks
+UTG+2 : Bets 2080 
+UTG+4 : Folds
+Big Blind : Call 2080 
+*** TURN *** [3d Jh 4s] [6c]
+Big Blind : Bets 4160 
+UTG+2 : Folds
+Big Blind : Return uncalled portion of bet 4160 
+Big Blind : Does not show [2h 2d] (One pair)
+Big Blind : Hand Result 8320 
+*** SUMMARY ***
+Total Pot(8320)
+Board [3d Jh 4s 6c ]
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind 8320 [Does not show]  
+Seat+244: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 Folded on the TURN
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the FLOP
+Seat+351: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664018646: HOLDEM Tournament #49305417 TBL#8, Normal- Level 11 (250/500) - 2022-12-16 20:16:19
+Seat 229: UTG+4 (90,812 in chips)
+Seat 179: Dealer (75,012 in chips)
+Seat 117: Small Blind (90,035 in chips)
+Seat 244: Big Blind (65,766 in chips)
+Seat 53: UTG [ME] (160,905 in chips)
+Seat 11: UTG+1 (58,326 in chips)
+Seat 96: UTG+2 (87,009 in chips)
+Seat 28: UTG+3 (211,502 in chips)
+Dealer : Set dealer [2] 
+UTG+4 : Ante chip 50 
+Dealer : Ante chip 50 
+Small Blind : Ante chip 50 
+Big Blind : Ante chip 50 
+UTG [ME] : Ante chip 50 
+UTG+1 : Ante chip 50 
+UTG+2 : Ante chip 50 
+UTG+3 : Ante chip 50 
+Small Blind : Small blind 250 
+Big Blind : Big blind 500 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Ac 5c] 
+Dealer : Card dealt to a spot [2s 2h] 
+Small Blind : Card dealt to a spot [4c Ad] 
+Big Blind : Card dealt to a spot [9s 6h] 
+UTG [ME] : Card dealt to a spot [8s Ah] 
+UTG+1 : Card dealt to a spot [As Qs] 
+UTG+2 : Card dealt to a spot [Kc Ts] 
+UTG+3 : Card dealt to a spot [Jc Kh] 
+UTG [ME] : Raises 1000 to 1000
+UTG+1 : Raises 3500 to 3500
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Call 3500 
+Dealer : Call 3500 
+Small Blind : Folds
+Big Blind : Folds
+UTG [ME] : Folds
+*** FLOP *** [7d 6c 3s]
+UTG+1 : Bets 6325 
+UTG+4 : Call 6325 
+Dealer : Folds
+*** TURN *** [7d 6c 3s] [Th]
+UTG+1 : Checks
+UTG+4 : Bets 10000 
+UTG+1 : Folds
+UTG+4 : Return uncalled portion of bet 10000 
+UTG+4 : Does not show [Ac 5c] (High Card)
+UTG+4 : Hand Result 25300 
+*** SUMMARY ***
+Total Pot(25300)
+Board [7d 6c 3s Th ]
+Seat+229: UTG+4 25300 [Does not show]  
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+244: Big Blind Folded on the FLOP
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 Folded on the TURN
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664019514: HOLDEM Tournament #49305417 TBL#8, Normal- Level 11 (250/500) - 2022-12-16 20:17:37
+Seat 229: UTG+3 (106,237 in chips)
+Seat 179: UTG+4 (71,462 in chips)
+Seat 117: Dealer (89,735 in chips)
+Seat 244: Small Blind (65,216 in chips)
+Seat 53: Big Blind [ME] (159,855 in chips)
+Seat 11: UTG (48,451 in chips)
+Seat 96: UTG+1 (86,959 in chips)
+Seat 28: UTG+2 (211,452 in chips)
+Dealer : Set dealer [3] 
+UTG+3 : Ante chip 50 
+UTG+4 : Ante chip 50 
+Dealer : Ante chip 50 
+Small Blind : Ante chip 50 
+Big Blind [ME] : Ante chip 50 
+UTG : Ante chip 50 
+UTG+1 : Ante chip 50 
+UTG+2 : Ante chip 50 
+Small Blind : Small blind 250 
+Big Blind [ME] : Big blind 500 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [Qs 8h] 
+UTG+4 : Card dealt to a spot [3d 6s] 
+Dealer : Card dealt to a spot [6h 5c] 
+Small Blind : Card dealt to a spot [4h 6d] 
+Big Blind [ME] : Card dealt to a spot [Kd 5s] 
+UTG : Card dealt to a spot [7s Kc] 
+UTG+1 : Card dealt to a spot [2h 4d] 
+UTG+2 : Card dealt to a spot [Jc Kh] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Call 500 
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind : Call 250 
+Big Blind [ME] : Checks
+*** FLOP *** [2d As Qd]
+Small Blind : Checks
+Big Blind [ME] : Checks
+UTG+2 : Bets 950 
+Small Blind : Folds
+Big Blind [ME] : Call 950 
+*** TURN *** [2d As Qd] [Td]
+Big Blind [ME] : Bets 1900 
+UTG+2 : Call 1900 
+*** RIVER *** [2d As Qd Td] [Ah]
+Big Blind [ME] : Bets 5700 
+UTG+2 : Call 5700 
+Big Blind [ME] : Showdown [As Ah Kd Qd Td] (One pair)
+UTG+2 : Showdown [As Kh Qd Jc Td] (Straight)
+UTG+2 : Hand Result 19000 
+*** SUMMARY ***
+Total Pot(19000)
+Board [2d As Qd Td Ah]
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind lose with One pair [Kd 5s-As Ah Kd Qd Td]  
+Seat+11: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 19000  with Straight [Jc Kh-As Kh Qd Jc Td]  
+
+
+Ignition Hand #4664020663: HOLDEM Tournament #49305417 TBL#8, Normal- Level 11 (250/500) - 2022-12-16 20:19:19
+Seat 229: UTG+2 (106,187 in chips)
+Seat 179: UTG+3 (71,412 in chips)
+Seat 117: UTG+4 (89,685 in chips)
+Seat 244: Dealer (64,666 in chips)
+Seat 53: Small Blind [ME] (150,755 in chips)
+Seat 11: Big Blind (48,401 in chips)
+Seat 96: UTG (86,909 in chips)
+Seat 28: UTG+1 (221,352 in chips)
+Dealer : Set dealer [4] 
+UTG+2 : Ante chip 50 
+UTG+3 : Ante chip 50 
+UTG+4 : Ante chip 50 
+Dealer : Ante chip 50 
+Small Blind [ME] : Ante chip 50 
+Big Blind : Ante chip 50 
+UTG : Ante chip 50 
+UTG+1 : Ante chip 50 
+Small Blind [ME] : Small blind 250 
+Big Blind : Big blind 500 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [7s 7h] 
+UTG+3 : Card dealt to a spot [3c Qc] 
+UTG+4 : Card dealt to a spot [Th 7c] 
+Dealer : Card dealt to a spot [8s 2c] 
+Small Blind [ME] : Card dealt to a spot [Qd 8c] 
+Big Blind : Card dealt to a spot [3s 4h] 
+UTG : Card dealt to a spot [Kd Jc] 
+UTG+1 : Card dealt to a spot [3h 6s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 1500 to 1500
+UTG+3 : Sit out
+UTG+3 : Folds(timeout)
+UTG+4 : Folds
+Dealer : Folds
+Small Blind [ME] : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet 1000 
+UTG+2 : Does not show [7s 7h] (High Card)
+UTG+2 : Hand Result 1650 
+*** SUMMARY ***
+Total Pot(1650)
+Seat+229: UTG+2 1650 [Does not show]  
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4664021177: HOLDEM Tournament #49305417 TBL#8, Normal- Level 11 (250/500) - 2022-12-16 20:20:04
+Seat 229: UTG+2 (107,287 in chips)
+Seat 179: UTG+3 (71,362 in chips)
+Seat 117: UTG+4 (89,635 in chips)
+Seat 244: UTG+5 (64,616 in chips)
+Seat 53: Dealer [ME] (150,455 in chips)
+Seat 11: Small Blind (47,851 in chips)
+Seat 96: Big Blind (86,859 in chips)
+Seat 28: UTG (221,302 in chips)
+Seat 389: UTG+1 (77,777 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 50 
+UTG+3 : Ante chip 50 
+UTG+4 : Ante chip 50 
+UTG+5 : Ante chip 50 
+Dealer [ME] : Ante chip 50 
+Small Blind : Ante chip 50 
+Big Blind : Ante chip 50 
+UTG : Ante chip 50 
+UTG+1 : Ante chip 50 
+Small Blind : Small blind 250 
+Big Blind : Big blind 500 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Jc 5h] 
+UTG+3 : Card dealt to a spot [9s 4d] 
+UTG+4 : Card dealt to a spot [Jh Js] 
+UTG+5 : Card dealt to a spot [Ts 6c] 
+Dealer [ME] : Card dealt to a spot [Tc Qh] 
+Small Blind : Card dealt to a spot [3d 4s] 
+Big Blind : Card dealt to a spot [3h 5s] 
+UTG : Card dealt to a spot [5d 5c] 
+UTG+1 : Card dealt to a spot [8s 9d] 
+UTG : Raises 1500 to 1500
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Call 1500 
+UTG+5 : Folds
+Dealer [ME] : Call 1500 
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [Qs 7d 8d]
+UTG : Bets 1500 
+UTG+4 : Call 1500 
+Dealer [ME] : Call 1500 
+*** TURN *** [Qs 7d 8d] [Kd]
+UTG : Bets 1500 
+UTG+4 : Folds
+Dealer [ME] : Call 1500 
+*** RIVER *** [Qs 7d 8d Kd] [As]
+UTG : Checks
+Dealer [ME] : Checks
+UTG : Showdown [5d 5c As Kd Qs] (One pair)
+Dealer [ME] : Showdown [Qs Qh As Kd Tc] (One pair)
+Dealer [ME] : Hand Result 13200 
+*** SUMMARY ***
+Total Pot(13200)
+Board [Qs 7d 8d Kd As]
+Seat+229: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the TURN
+Seat+244: UTG+5 Folded on the FLOP
+Seat+53: Dealer 13200  with One pair [Tc Qh-Qs Qh As Kd Tc]  
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG lose with One pair [5d 5c-5d 5c As Kd Qs]  
+Seat+389: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4664022111: HOLDEM Tournament #49305417 TBL#8, Normal- Level 11 (250/500) - 2022-12-16 20:21:34
+Seat 229: UTG+1 (107,237 in chips)
+Seat 179: UTG+2 (71,312 in chips)
+Seat 117: UTG+3 (86,585 in chips)
+Seat 244: UTG+4 (64,566 in chips)
+Seat 53: UTG+5 [ME] (159,105 in chips)
+Seat 11: Dealer (47,551 in chips)
+Seat 96: Small Blind (86,309 in chips)
+Seat 28: Big Blind (216,752 in chips)
+Seat 389: UTG (77,727 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 50 
+UTG+2 : Ante chip 50 
+UTG+3 : Ante chip 50 
+UTG+4 : Ante chip 50 
+UTG+5 [ME] : Ante chip 50 
+Dealer : Ante chip 50 
+Small Blind : Ante chip 50 
+Big Blind : Ante chip 50 
+UTG : Ante chip 50 
+Small Blind : Small blind 250 
+Big Blind : Big blind 500 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [4c 8c] 
+UTG+2 : Card dealt to a spot [8h Qd] 
+UTG+3 : Card dealt to a spot [Ah 4d] 
+UTG+4 : Card dealt to a spot [Kh 7h] 
+UTG+5 [ME] : Card dealt to a spot [Jh 2c] 
+Dealer : Card dealt to a spot [Ad 9h] 
+Small Blind : Card dealt to a spot [Th 5d] 
+Big Blind : Card dealt to a spot [9c 9d] 
+UTG : Card dealt to a spot [5c 8s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Raises 1200 to 1200
+Small Blind : Folds
+Big Blind : Raises 3800 to 4300
+Dealer : Folds
+Big Blind : Return uncalled portion of bet 3100 
+Big Blind : Does not show [9c 9d] (High Card)
+Big Blind : Hand Result 3100 
+*** SUMMARY ***
+Total Pot(3100)
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer Folded on the FLOP
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind 3100 [Does not show]  
+Seat+389: UTG Folded on the FLOP
+
+
+Ignition Hand #4664022672: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:22:25
+Seat 229: UTG (107,187 in chips)
+Seat 179: UTG+1 (71,262 in chips)
+Seat 117: UTG+2 (86,535 in chips)
+Seat 244: UTG+3 (64,516 in chips)
+Seat 53: UTG+4 [ME] (159,055 in chips)
+Seat 11: UTG+5 (46,301 in chips)
+Seat 96: Dealer (86,009 in chips)
+Seat 28: Small Blind (218,602 in chips)
+Seat 389: Big Blind (77,677 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 : Ante chip 60 
+UTG+3 : Ante chip 60 
+UTG+4 [ME] : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind : Ante chip 60 
+Big Blind : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [As 7s] 
+UTG+1 : Card dealt to a spot [5d 5s] 
+UTG+2 : Card dealt to a spot [4d Qd] 
+UTG+3 : Card dealt to a spot [Kc Td] 
+UTG+4 [ME] : Card dealt to a spot [Qs Ks] 
+UTG+5 : Card dealt to a spot [Jc 3h] 
+Dealer : Card dealt to a spot [Qc Js] 
+Small Blind : Card dealt to a spot [7h 9s] 
+Big Blind : Card dealt to a spot [7d Tc] 
+UTG : Raises 1800 to 1800
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 [ME] : Call 1800 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [9d 8h 2h]
+UTG : Bets 3780 
+UTG+4 [ME] : Folds
+UTG : Return uncalled portion of bet 3780 
+UTG : Does not show [As 7s] (High Card)
+UTG : Hand Result 5040 
+*** SUMMARY ***
+Total Pot(5040)
+Board [9d 8h 2h  ]
+Seat+229: UTG 5040 [Does not show]  
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 Folded on the FLOP
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+389: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4664023161: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:23:10
+Seat 229: Big Blind (110,367 in chips)
+Seat 179: UTG (71,202 in chips)
+Seat 117: UTG+1 (86,475 in chips)
+Seat 244: UTG+2 (64,456 in chips)
+Seat 53: UTG+3 [ME] (157,195 in chips)
+Seat 11: UTG+4 (46,241 in chips)
+Seat 96: UTG+5 (85,949 in chips)
+Seat 28: Dealer (218,242 in chips)
+Seat 389: Small Blind (77,017 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 : Ante chip 60 
+UTG+3 [ME] : Ante chip 60 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [6d 3s] 
+UTG : Card dealt to a spot [Js 3h] 
+UTG+1 : Card dealt to a spot [3c Ah] 
+UTG+2 : Card dealt to a spot [Kd Jd] 
+UTG+3 [ME] : Card dealt to a spot [8c Kc] 
+UTG+4 : Card dealt to a spot [Jh 9s] 
+UTG+5 : Card dealt to a spot [7s Th] 
+Dealer : Card dealt to a spot [5c Kh] 
+Small Blind : Card dealt to a spot [5d Ts] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 1800 to 1800
+UTG+3 [ME] : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet 1200 
+UTG+2 : Does not show [Kd Jd] (High Card)
+UTG+2 : Hand Result 2040 
+*** SUMMARY ***
+Total Pot(2040)
+Seat+229: Big Blind Folded on the FLOP
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 2040 [Does not show]  
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 Folded on the FLOP
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the FLOP
+Seat+389: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4664023491: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:23:40
+Seat 229: Small Blind (109,707 in chips)
+Seat 179: Big Blind (71,142 in chips)
+Seat 117: UTG (86,415 in chips)
+Seat 244: UTG+1 (65,836 in chips)
+Seat 53: UTG+2 [ME] (157,135 in chips)
+Seat 11: UTG+3 (46,181 in chips)
+Seat 96: UTG+4 (85,889 in chips)
+Seat 28: UTG+5 (218,182 in chips)
+Seat 389: Dealer (76,657 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 60 
+Big Blind : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 [ME] : Ante chip 60 
+UTG+3 : Ante chip 60 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [9h 9d] 
+Big Blind : Card dealt to a spot [5d As] 
+UTG : Card dealt to a spot [Tc Ah] 
+UTG+1 : Card dealt to a spot [3c Qd] 
+UTG+2 [ME] : Card dealt to a spot [8c Ks] 
+UTG+3 : Card dealt to a spot [6c 4s] 
+UTG+4 : Card dealt to a spot [Ac Ts] 
+UTG+5 : Card dealt to a spot [6d Js] 
+Dealer : Card dealt to a spot [2c Qs] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Raises 1200 to 1200
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Raises 4440 to 4740
+Big Blind : Folds
+UTG+4 : Folds
+Small Blind : Return uncalled portion of bet 3540 
+Small Blind : Does not show [9h 9d] (High Card)
+Small Blind : Hand Result 3540 
+*** SUMMARY ***
+Total Pot(3540)
+Seat+229: Small Blind 3540 [Does not show]  
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+11: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 Folded on the FLOP
+Seat+389: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664023981: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:24:28
+Seat 229: Dealer (111,987 in chips)
+Seat 179: Small Blind (70,482 in chips)
+Seat 117: Big Blind (86,355 in chips)
+Seat 244: UTG (65,776 in chips)
+Seat 53: UTG+1 [ME] (157,075 in chips)
+Seat 11: UTG+2 (46,121 in chips)
+Seat 96: UTG+3 (84,629 in chips)
+Seat 28: UTG+4 (218,122 in chips)
+Seat 389: UTG+5 (76,597 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 60 
+Small Blind : Ante chip 60 
+Big Blind : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 [ME] : Ante chip 60 
+UTG+2 : Ante chip 60 
+UTG+3 : Ante chip 60 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [As 4h] 
+Small Blind : Card dealt to a spot [6h 6s] 
+Big Blind : Card dealt to a spot [3c 6d] 
+UTG : Card dealt to a spot [8d 2h] 
+UTG+1 [ME] : Card dealt to a spot [6c 5d] 
+UTG+2 : Card dealt to a spot [8c 7c] 
+UTG+3 : Card dealt to a spot [2d 7h] 
+UTG+4 : Card dealt to a spot [4c 3s] 
+UTG+5 : Card dealt to a spot [5s 9d] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Raises 1300 to 1300
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet 700 
+UTG+2 : Does not show [8c 7c] (High Card)
+UTG+2 : Hand Result 2040 
+*** SUMMARY ***
+Total Pot(2040)
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind Folded on the FLOP
+Seat+244: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+11: UTG+2 2040 [Does not show]  
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the FLOP
+Seat+389: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664024321: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:25:01
+Seat 229: UTG+5 (111,927 in chips)
+Seat 179: Dealer (70,122 in chips)
+Seat 117: Small Blind (85,695 in chips)
+Seat 244: Big Blind (65,716 in chips)
+Seat 53: UTG [ME] (157,015 in chips)
+Seat 11: UTG+1 (47,501 in chips)
+Seat 96: UTG+2 (84,569 in chips)
+Seat 28: UTG+3 (218,062 in chips)
+Seat 389: UTG+4 (76,537 in chips)
+Dealer : Set dealer [2] 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind : Ante chip 60 
+Big Blind : Ante chip 60 
+UTG [ME] : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 : Ante chip 60 
+UTG+3 : Ante chip 60 
+UTG+4 : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [9c 3d] 
+Dealer : Card dealt to a spot [5h 7c] 
+Small Blind : Card dealt to a spot [8s 5s] 
+Big Blind : Card dealt to a spot [4c Js] 
+UTG [ME] : Card dealt to a spot [Ts 8d] 
+UTG+1 : Card dealt to a spot [6c 4s] 
+UTG+2 : Card dealt to a spot [5d Jd] 
+UTG+3 : Card dealt to a spot [3h Th] 
+UTG+4 : Card dealt to a spot [Kd Jh] 
+UTG [ME] : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Call 600 
+UTG+4 : Raises 1200 to 1200
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+3 : Call 600 
+*** FLOP *** [7d Ah 2s]
+UTG+3 : Checks
+UTG+4 : Bets 1550 
+UTG+3 : Folds
+UTG+4 : Return uncalled portion of bet 1550 
+UTG+4 : Does not show [Kd Jh] (High Card)
+UTG+4 : Hand Result 3840 
+*** SUMMARY ***
+Total Pot(3840)
+Board [7d Ah 2s  ]
+Seat+229: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+244: Big Blind Folded on the FLOP
+Seat+53: UTG Folded on the FLOP
+Seat+11: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the FLOP
+Seat+389: UTG+4 3840 [Does not show]  
+
+
+Ignition Hand #4664025109: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:26:10
+Seat 229: UTG+4 (111,867 in chips)
+Seat 179: UTG+5 (70,062 in chips)
+Seat 117: Dealer (85,335 in chips)
+Seat 244: Small Blind (65,056 in chips)
+Seat 53: Big Blind [ME] (156,955 in chips)
+Seat 11: UTG (47,441 in chips)
+Seat 96: UTG+1 (84,509 in chips)
+Seat 28: UTG+2 (216,802 in chips)
+Seat 389: UTG+3 (79,117 in chips)
+Dealer : Set dealer [3] 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind : Ante chip 60 
+Big Blind [ME] : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 : Ante chip 60 
+UTG+3 : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind [ME] : Big blind 600 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Ts 9h] 
+UTG+5 : Card dealt to a spot [Td Kc] 
+Dealer : Card dealt to a spot [7c Ks] 
+Small Blind : Card dealt to a spot [5s 5c] 
+Big Blind [ME] : Card dealt to a spot [6s Jh] 
+UTG : Card dealt to a spot [Jd Ah] 
+UTG+1 : Card dealt to a spot [2c 7h] 
+UTG+2 : Card dealt to a spot [5h Jc] 
+UTG+3 : Card dealt to a spot [Kh 3c] 
+UTG : Raises 1300 to 1300
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+5 : Re-join
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Call 1000 
+Big Blind [ME] : Folds
+*** FLOP *** [4s Kd 6d]
+Small Blind : Checks
+UTG : Bets 1870 
+Small Blind : Folds
+UTG : Return uncalled portion of bet 1870 
+UTG : Does not show [Jd Ah] (High Card)
+UTG : Hand Result 3740 
+*** SUMMARY ***
+Total Pot(3740)
+Board [4s Kd 6d  ]
+Seat+229: UTG+4 Folded on the FLOP
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+11: UTG 3740 [Does not show]  
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the FLOP
+Seat+389: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664025856: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:27:22
+Seat 229: UTG+3 (111,807 in chips)
+Seat 179: UTG+4 (70,002 in chips)
+Seat 117: UTG+5 (85,275 in chips)
+Seat 244: Dealer (63,696 in chips)
+Seat 53: Small Blind [ME] (156,295 in chips)
+Seat 11: Big Blind (49,821 in chips)
+Seat 96: UTG (84,449 in chips)
+Seat 28: UTG+1 (216,742 in chips)
+Seat 389: UTG+2 (79,057 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 60 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer : Ante chip 60 
+Small Blind [ME] : Ante chip 60 
+Big Blind : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+UTG+2 : Ante chip 60 
+Small Blind [ME] : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [Ah 5d] 
+UTG+4 : Card dealt to a spot [Qc 9d] 
+UTG+5 : Card dealt to a spot [2h 9s] 
+Dealer : Card dealt to a spot [Jh Td] 
+Small Blind [ME] : Card dealt to a spot [5c Jc] 
+Big Blind : Card dealt to a spot [3d Js] 
+UTG : Card dealt to a spot [Qh 7s] 
+UTG+1 : Card dealt to a spot [3s 9c] 
+UTG+2 : Card dealt to a spot [Qs As] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 1200 to 1200
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind [ME] : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet 600 
+UTG+2 : Does not show [Qs As] (High Card)
+UTG+2 : Hand Result 2040 
+*** SUMMARY ***
+Total Pot(2040)
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 Folded on the FLOP
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+11: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+Seat+389: UTG+2 2040 [Does not show]  
+
+
+Ignition Hand #4664026440: HOLDEM Tournament #49305417 TBL#8, Normal- Level 12 (300/600) - 2022-12-16 20:28:16
+Seat 229: UTG+2 (111,747 in chips)
+Seat 179: UTG+3 (69,942 in chips)
+Seat 117: UTG+4 (85,215 in chips)
+Seat 244: UTG+5 (63,636 in chips)
+Seat 53: Dealer [ME] (155,935 in chips)
+Seat 11: Small Blind (49,161 in chips)
+Seat 96: Big Blind (84,389 in chips)
+Seat 28: UTG (216,682 in chips)
+Seat 389: UTG+1 (80,437 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 60 
+UTG+3 : Ante chip 60 
+UTG+4 : Ante chip 60 
+UTG+5 : Ante chip 60 
+Dealer [ME] : Ante chip 60 
+Small Blind : Ante chip 60 
+Big Blind : Ante chip 60 
+UTG : Ante chip 60 
+UTG+1 : Ante chip 60 
+Small Blind : Small blind 300 
+Big Blind : Big blind 600 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [8c 8s] 
+UTG+3 : Card dealt to a spot [3c 2d] 
+UTG+4 : Card dealt to a spot [8d 7d] 
+UTG+5 : Card dealt to a spot [7s Td] 
+Dealer [ME] : Card dealt to a spot [Qh Ah] 
+Small Blind : Card dealt to a spot [9h Js] 
+Big Blind : Card dealt to a spot [7c Ts] 
+UTG : Card dealt to a spot [Th 2h] 
+UTG+1 : Card dealt to a spot [4s Ac] 
+UTG : Folds
+UTG+1 : Call 600 
+UTG+2 : Raises 2700 to 2700
+UTG+3 : Folds
+UTG+4 : Call 2700 
+UTG+5 : Folds
+Dealer [ME] : Call 2700 
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Call 2100 
+*** FLOP *** [2s Qd As]
+UTG+1 : Checks
+UTG+2 : Checks
+UTG+4 : Checks
+Dealer [ME] : Bets 12240 
+UTG+1 : Call 12240 
+UTG+2 : Folds
+UTG+4 : Folds
+*** TURN *** [2s Qd As] [Jh]
+UTG+1 : Checks
+Dealer [ME] : Checks
+*** RIVER *** [2s Qd As Jh] [6d]
+UTG+1 : Bets 24000 
+Dealer [ME] : Call 24000 
+UTG+1 : Showdown [As Ac Qd Jh 6d] (One pair)
+Dealer [ME] : Showdown [As Ah Qh Qd Jh] (Two pair)
+Dealer [ME] : Hand Result 84720 
+*** SUMMARY ***
+Total Pot(84720)
+Board [2s Qd As Jh 6d]
+Seat+229: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+244: UTG+5 Folded on the FLOP
+Seat+53: Dealer 84720  with Two pair [Qh Ah-As Ah Qh Qd Jh]  
+Seat+11: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG Folded on the FLOP
+Seat+389: UTG+1 lose with One pair [4s Ac-As Ac Qd Jh 6d]  
+
+
+Ignition Hand #4664027996: HOLDEM Tournament #49305417 TBL#8, Normal- Level 13 (400/800) - 2022-12-16 20:30:31
+Seat 229: UTG+1 (108,987 in chips)
+Seat 179: UTG+2 (69,882 in chips)
+Seat 117: UTG+3 (82,455 in chips)
+Seat 244: UTG+4 (63,576 in chips)
+Seat 53: UTG+5 [ME] (201,655 in chips)
+Seat 11: Dealer (48,801 in chips)
+Seat 96: Small Blind (83,729 in chips)
+Seat 28: Big Blind (216,622 in chips)
+Seat 389: UTG (41,437 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 80 
+UTG+2 : Ante chip 80 
+UTG+3 : Ante chip 80 
+UTG+4 : Ante chip 80 
+UTG+5 [ME] : Ante chip 80 
+Dealer : Ante chip 80 
+Small Blind : Ante chip 80 
+Big Blind : Ante chip 80 
+UTG : Ante chip 80 
+Small Blind : Small blind 400 
+Big Blind : Big blind 800 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [4d 7h] 
+UTG+2 : Card dealt to a spot [7c Qc] 
+UTG+3 : Card dealt to a spot [Td 6s] 
+UTG+4 : Card dealt to a spot [5c Ts] 
+UTG+5 [ME] : Card dealt to a spot [4c Jc] 
+Dealer : Card dealt to a spot [Jh Kh] 
+Small Blind : Card dealt to a spot [7s Kd] 
+Big Blind : Card dealt to a spot [Th 6h] 
+UTG : Card dealt to a spot [8h 6c] 
+UTG : Call 800 
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Raises 3600 to 3600
+Small Blind : Folds
+Big Blind : Call 2800 
+UTG : Call 2800 
+*** FLOP *** [9s Ad Ks]
+Big Blind : Checks
+UTG : Checks
+Dealer : Checks
+*** TURN *** [9s Ad Ks] [Tc]
+Big Blind : Checks
+UTG : Checks
+Dealer : Checks
+*** RIVER *** [9s Ad Ks Tc] [5s]
+Big Blind : Checks
+UTG : Checks
+Dealer : Checks
+Big Blind : Showdown [Th Tc Ad Ks 9s] (One pair)
+UTG : Mucks [8h 6c] (High Card)
+Dealer : Showdown [Ks Kh Ad Jh Tc] (One pair)
+Dealer : Hand Result 11920 
+*** SUMMARY ***
+Total Pot(11920)
+Board [9s Ad Ks Tc 5s]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+11: Dealer 11920  with One pair [Jh Kh-Ks Kh Ad Jh Tc]  
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind lose with One pair [Th 6h-Th Tc Ad Ks 9s]  
+Seat+389: UTG [Mucked] [8h 6c ]  
+
+
+Ignition Hand #4664029065: HOLDEM Tournament #49305417 TBL#8, Normal- Level 13 (400/800) - 2022-12-16 20:32:04
+Seat 229: UTG (108,907 in chips)
+Seat 179: UTG+1 (69,802 in chips)
+Seat 117: UTG+2 (82,375 in chips)
+Seat 244: UTG+3 (63,496 in chips)
+Seat 53: UTG+4 [ME] (201,575 in chips)
+Seat 11: UTG+5 (57,041 in chips)
+Seat 96: Dealer (83,249 in chips)
+Seat 28: Small Blind (212,942 in chips)
+Seat 389: Big Blind (37,757 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 80 
+UTG+1 : Ante chip 80 
+UTG+2 : Ante chip 80 
+UTG+3 : Ante chip 80 
+UTG+4 [ME] : Ante chip 80 
+UTG+5 : Ante chip 80 
+Dealer : Ante chip 80 
+Small Blind : Ante chip 80 
+Big Blind : Ante chip 80 
+Small Blind : Small blind 400 
+Big Blind : Big blind 800 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [4h Ad] 
+UTG+1 : Card dealt to a spot [Js 7d] 
+UTG+2 : Card dealt to a spot [5h 8c] 
+UTG+3 : Card dealt to a spot [Tc Jh] 
+UTG+4 [ME] : Card dealt to a spot [Qd Qs] 
+UTG+5 : Card dealt to a spot [Qc 7c] 
+Dealer : Card dealt to a spot [9h 6h] 
+Small Blind : Card dealt to a spot [6c 3c] 
+Big Blind : Card dealt to a spot [Ts Ac] 
+UTG : Folds
+UTG+1 : Sit out
+UTG+1 : Folds(timeout)
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 [ME] : Raises 1600 to 1600
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Call 1200 
+Big Blind : Raises 14200 to 15000
+UTG+4 [ME] : Raises 36077 to 37677
+Small Blind : Folds
+Big Blind : All-in 22677 
+*** FLOP *** [Jd 8d 2s]
+*** TURN *** [Jd 8d 2s] [Qh]
+*** RIVER *** [Jd 8d 2s Qh] [2h]
+UTG+4 [ME] : Showdown [Qs Qh Qd 2s 2h] (Full House)
+Big Blind : Showdown [2s 2h Ac Qh Jd] (One pair)
+UTG+4 [ME] : Hand Result 77674 
+Big Blind : Ranking 328 
+Big Blind : Stand
+*** SUMMARY ***
+Total Pot(77674)
+Board [Jd 8d 2s Qh 2h]
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 77674  with Full House [Qd Qs-Qs Qh Qd 2s 2h]  
+Seat+11: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+389: Big Blind lose with One pair [Ts Ac-2s 2h Ac Qh Jd]  
+
+
+Ignition Hand #4664029856: HOLDEM Tournament #49305417 TBL#8, Normal- Level 13 (400/800) - 2022-12-16 20:33:13
+Seat 229: Big Blind (108,827 in chips)
+Seat 179: UTG (69,722 in chips)
+Seat 117: UTG+1 (82,295 in chips)
+Seat 244: UTG+2 (63,416 in chips)
+Seat 53: UTG+3 [ME] (241,492 in chips)
+Seat 11: UTG+4 (56,961 in chips)
+Seat 96: UTG+5 (83,169 in chips)
+Seat 28: Dealer (211,262 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 80 
+UTG : Ante chip 80 
+UTG+1 : Ante chip 80 
+UTG+2 : Ante chip 80 
+UTG+3 [ME] : Ante chip 80 
+UTG+4 : Ante chip 80 
+UTG+5 : Ante chip 80 
+Dealer : Ante chip 80 
+Big Blind : Big blind 800 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [8h 6c] 
+UTG : Card dealt to a spot [Ts 3c] 
+UTG+1 : Card dealt to a spot [3d 4d] 
+UTG+2 : Card dealt to a spot [5c Qs] 
+UTG+3 [ME] : Card dealt to a spot [7c Tc] 
+UTG+4 : Card dealt to a spot [Kc 7s] 
+UTG+5 : Card dealt to a spot [Qc 8c] 
+Dealer : Card dealt to a spot [6h 9d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 [ME] : Folds
+UTG+4 : Raises 1800 to 1800
+UTG+5 : Folds
+Dealer : Folds
+Big Blind : Call 1000 
+*** FLOP *** [Kh 9c 7h]
+Big Blind : Checks
+UTG+4 : Bets 2120 
+Big Blind : Raises 6360 to 6360
+UTG : Re-join
+UTG+4 : Call 4240 
+*** TURN *** [Kh 9c 7h] [Ad]
+Big Blind : Bets 12720 
+UTG+4 : Call 12720 
+*** RIVER *** [Kh 9c 7h Ad] [5h]
+Big Blind : All-in 87867 
+UTG+4 : All-in 36001 
+Big Blind : Return uncalled portion of bet 51866 
+Big Blind : Showdown [9c 8h 7h 6c 5h] (Straight)
+UTG+4 : Mucks [Kc 7s] (Two pair)
+Big Blind : Hand Result 114402 
+UTG+4 : Ranking 331 
+UTG+4 : Stand
+*** SUMMARY ***
+Total Pot(114402)
+Board [Kh 9c 7h Ad 5h]
+Seat+229: Big Blind 114402  with Straight [8h 6c-9c 8h 7h 6c 5h]  
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+11: UTG+4 [Mucked] [Kc 7s ]  
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664030663: HOLDEM Tournament #49305417 TBL#8, Normal- Level 13 (400/800) - 2022-12-16 20:34:22
+Seat 229: Small Blind (166,268 in chips)
+Seat 179: Big Blind (69,642 in chips)
+Seat 117: UTG (82,215 in chips)
+Seat 244: UTG+1 (63,336 in chips)
+Seat 53: UTG+2 [ME] (241,412 in chips)
+Seat 96: UTG+3 (83,089 in chips)
+Seat 28: UTG+4 (211,182 in chips)
+Seat 442: Dealer (77,777 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 80 
+Big Blind : Ante chip 80 
+UTG : Ante chip 80 
+UTG+1 : Ante chip 80 
+UTG+2 [ME] : Ante chip 80 
+UTG+3 : Ante chip 80 
+UTG+4 : Ante chip 80 
+Dealer : Ante chip 80 
+Small Blind : Small blind 400 
+Big Blind : Big blind 800 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [5d Kc] 
+Big Blind : Card dealt to a spot [8h Qd] 
+UTG : Card dealt to a spot [Ah Ks] 
+UTG+1 : Card dealt to a spot [Qs Qc] 
+UTG+2 [ME] : Card dealt to a spot [Ad 4d] 
+UTG+3 : Card dealt to a spot [6h 2c] 
+UTG+4 : Card dealt to a spot [8s 7c] 
+Dealer : Card dealt to a spot [9c 8c] 
+UTG : Raises 2400 to 2400
+UTG+1 : Raises 9040 to 9040
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG : Folds
+UTG+1 : Return uncalled portion of bet 6640 
+UTG+1 : Does not show [Qs Qc] (High Card)
+UTG+1 : Hand Result 6640 
+*** SUMMARY ***
+Total Pot(6640)
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 6640 [Does not show]  
+Seat+53: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 Folded on the FLOP
+Seat+442: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664031242: HOLDEM Tournament #49305417 TBL#8, Normal- Level 13 (400/800) - 2022-12-16 20:35:13
+Seat 229: Dealer (165,788 in chips)
+Seat 179: Small Blind (68,762 in chips)
+Seat 117: Big Blind (79,735 in chips)
+Seat 244: UTG (67,496 in chips)
+Seat 53: UTG+1 [ME] (241,332 in chips)
+Seat 444: UTG+2 (77,777 in chips)
+Seat 96: UTG+3 (83,009 in chips)
+Seat 28: UTG+4 (211,102 in chips)
+Seat 442: UTG+5 (77,697 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 80 
+Small Blind : Ante chip 80 
+Big Blind : Ante chip 80 
+UTG : Ante chip 80 
+UTG+1 [ME] : Ante chip 80 
+UTG+2 : Ante chip 80 
+UTG+3 : Ante chip 80 
+UTG+4 : Ante chip 80 
+UTG+5 : Ante chip 80 
+Small Blind : Small blind 400 
+Big Blind : Big blind 800 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [4h 6s] 
+Small Blind : Card dealt to a spot [Js Jc] 
+Big Blind : Card dealt to a spot [Ah Kd] 
+UTG : Card dealt to a spot [Ts Tc] 
+UTG+1 [ME] : Card dealt to a spot [Kh 3d] 
+UTG+2 : Card dealt to a spot [2d 8s] 
+UTG+3 : Card dealt to a spot [7h 7s] 
+UTG+4 : Card dealt to a spot [6c 4s] 
+UTG+5 : Card dealt to a spot [5s Jh] 
+UTG : Raises 2400 to 2400
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Call 2400 
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Call 2000 
+Big Blind : Call 1600 
+*** FLOP *** [Kc Jd 3s]
+Small Blind : Checks
+Big Blind : Checks
+UTG : Checks
+UTG+3 : Checks
+*** TURN *** [Kc Jd 3s] [Qc]
+Small Blind : Checks
+Big Blind : Bets 7740 
+UTG : Folds
+UTG+3 : Folds
+Small Blind : Call 7740 
+*** RIVER *** [Kc Jd 3s Qc] [7c]
+Small Blind : Checks
+Big Blind : Checks
+Small Blind : Showdown [Js Jd Jc Kc Qc] (Three of a kind)
+Big Blind : Mucks [Ah Kd] (One pair)
+Small Blind : Hand Result 25800 
+*** SUMMARY ***
+Total Pot(25800)
+Board [Kc Jd 3s Qc 7c]
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind 25800  with Three of a kind [Js Jc-Js Jd Jc Kc Qc]  
+Seat+117: Big Blind [Mucked] [Ah Kd ]  
+Seat+244: UTG Folded on the TURN
+Seat+53: UTG+1 Folded on the FLOP
+Seat+444: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the TURN
+Seat+28: UTG+4 Folded on the FLOP
+Seat+442: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664032710: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:37:19
+Seat 229: UTG+5 (165,708 in chips)
+Seat 179: Dealer (84,342 in chips)
+Seat 117: Small Blind (69,515 in chips)
+Seat 244: Big Blind (65,016 in chips)
+Seat 53: UTG [ME] (241,252 in chips)
+Seat 444: UTG+1 (77,697 in chips)
+Seat 96: UTG+2 (80,529 in chips)
+Seat 28: UTG+3 (211,022 in chips)
+Seat 442: UTG+4 (77,617 in chips)
+Dealer : Set dealer [2] 
+UTG+5 : Ante chip 100 
+Dealer : Ante chip 100 
+Small Blind : Ante chip 100 
+Big Blind : Ante chip 100 
+UTG [ME] : Ante chip 100 
+UTG+1 : Ante chip 100 
+UTG+2 : Ante chip 100 
+UTG+3 : Ante chip 100 
+UTG+4 : Ante chip 100 
+Small Blind : Small blind 500 
+Big Blind : Big blind 1000 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [Kh Ah] 
+Dealer : Card dealt to a spot [7h Ad] 
+Small Blind : Card dealt to a spot [9s Kc] 
+Big Blind : Card dealt to a spot [8c 8s] 
+UTG [ME] : Card dealt to a spot [9c 2s] 
+UTG+1 : Card dealt to a spot [Jd 7c] 
+UTG+2 : Card dealt to a spot [Js 8h] 
+UTG+3 : Card dealt to a spot [6s 9h] 
+UTG+4 : Card dealt to a spot [Th 3d] 
+UTG [ME] : Folds
+UTG+1 : Call 1000 
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Raises 4500 to 4500
+Dealer : Sit out
+Dealer : Folds(timeout)
+Small Blind : Folds
+Big Blind : Call 3500 
+UTG+1 : Call 3500 
+*** FLOP *** [Qh Qs 2c]
+Dealer : Re-join
+Big Blind : Bets 7450 
+UTG+1 : Folds
+UTG+5 : Call 7450 
+*** TURN *** [Qh Qs 2c] [2d]
+Big Blind : Checks
+UTG+5 : Bets 14900 
+Big Blind : Folds
+UTG+5 : Return uncalled portion of bet 14900 
+UTG+5 : Does not show [Kh Ah] (Two pair)
+UTG+5 : Hand Result 29800 
+*** SUMMARY ***
+Total Pot(29800)
+Board [Qh Qs 2c 2d ]
+Seat+229: UTG+5 29800 [Does not show]  
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+244: Big Blind Folded on the TURN
+Seat+53: UTG Folded on the FLOP
+Seat+444: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 Folded on the FLOP
+Seat+442: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4664033646: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:38:40
+Seat 229: UTG+4 (183,458 in chips)
+Seat 179: UTG+5 (84,242 in chips)
+Seat 117: Dealer (68,915 in chips)
+Seat 244: Small Blind (52,966 in chips)
+Seat 53: Big Blind [ME] (241,152 in chips)
+Seat 444: UTG (73,097 in chips)
+Seat 96: UTG+1 (80,429 in chips)
+Seat 28: UTG+2 (210,922 in chips)
+Seat 442: UTG+3 (77,517 in chips)
+Dealer : Set dealer [3] 
+UTG+4 : Ante chip 100 
+UTG+5 : Ante chip 100 
+Dealer : Ante chip 100 
+Small Blind : Ante chip 100 
+Big Blind [ME] : Ante chip 100 
+UTG : Ante chip 100 
+UTG+1 : Ante chip 100 
+UTG+2 : Ante chip 100 
+UTG+3 : Ante chip 100 
+Small Blind : Small blind 500 
+Big Blind [ME] : Big blind 1000 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [5d 7d] 
+UTG+5 : Card dealt to a spot [Ad 6c] 
+Dealer : Card dealt to a spot [Jd 5h] 
+Small Blind : Card dealt to a spot [Kh 8d] 
+Big Blind [ME] : Card dealt to a spot [Ks 4s] 
+UTG : Card dealt to a spot [Js 3h] 
+UTG+1 : Card dealt to a spot [2c 2d] 
+UTG+2 : Card dealt to a spot [7c 8s] 
+UTG+3 : Card dealt to a spot [8h Qc] 
+UTG : Folds
+UTG+1 : Call 1000 
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Raises 4500 to 4500
+UTG+5 : Sit out
+UTG+5 : Folds(timeout)
+Dealer : Folds
+Small Blind : Folds
+Big Blind [ME] : Folds
+UTG+5 : Re-join
+UTG+1 : Folds
+UTG+4 : Return uncalled portion of bet 3500 
+UTG+4 : Does not show [5d 7d] (High Card)
+UTG+4 : Hand Result 4400 
+*** SUMMARY ***
+Total Pot(4400)
+Seat+229: UTG+4 4400 [Does not show]  
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+444: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the FLOP
+Seat+442: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664034310: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:39:37
+Seat 229: UTG+3 (186,758 in chips)
+Seat 179: UTG+4 (84,142 in chips)
+Seat 117: UTG+5 (68,815 in chips)
+Seat 244: Dealer (52,366 in chips)
+Seat 53: Small Blind [ME] (240,052 in chips)
+Seat 444: Big Blind (72,997 in chips)
+Seat 96: UTG (79,329 in chips)
+Seat 28: UTG+1 (210,822 in chips)
+Seat 442: UTG+2 (77,417 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 100 
+UTG+4 : Ante chip 100 
+UTG+5 : Ante chip 100 
+Dealer : Ante chip 100 
+Small Blind [ME] : Ante chip 100 
+Big Blind : Ante chip 100 
+UTG : Ante chip 100 
+UTG+1 : Ante chip 100 
+UTG+2 : Ante chip 100 
+Small Blind [ME] : Small blind 500 
+Big Blind : Big blind 1000 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [3s 7c] 
+UTG+4 : Card dealt to a spot [2d 4d] 
+UTG+5 : Card dealt to a spot [2c Js] 
+Dealer : Card dealt to a spot [4s Th] 
+Small Blind [ME] : Card dealt to a spot [9h 3c] 
+Big Blind : Card dealt to a spot [Ah 4h] 
+UTG : Card dealt to a spot [6c 7h] 
+UTG+1 : Card dealt to a spot [Jc 3h] 
+UTG+2 : Card dealt to a spot [4c 8c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Sit out
+UTG+4 : Folds(timeout)
+UTG+5 : Folds
+Dealer : Folds
+Small Blind [ME] : Call 500 
+Big Blind : Raises 2900 to 3900
+Small Blind [ME] : Folds
+Big Blind : Return uncalled portion of bet 2900 
+Big Blind : Does not show [Ah 4h] (High Card)
+Big Blind : Hand Result 2900 
+*** SUMMARY ***
+Total Pot(2900)
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 Folded on the FLOP
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind Folded on the FLOP
+Seat+444: Big Blind 2900 [Does not show]  
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+Seat+442: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4664034869: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:40:25
+Seat 229: UTG+2 (186,658 in chips)
+Seat 179: UTG+3 (84,042 in chips)
+Seat 117: UTG+4 (68,715 in chips)
+Seat 244: UTG+5 (52,266 in chips)
+Seat 53: Dealer [ME] (238,952 in chips)
+Seat 444: Small Blind (74,797 in chips)
+Seat 96: Big Blind (79,229 in chips)
+Seat 28: UTG (210,722 in chips)
+Seat 442: UTG+1 (77,317 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 100 
+UTG+3 : Ante chip 100 
+UTG+4 : Ante chip 100 
+UTG+5 : Ante chip 100 
+Dealer [ME] : Ante chip 100 
+Small Blind : Ante chip 100 
+Big Blind : Ante chip 100 
+UTG : Ante chip 100 
+UTG+1 : Ante chip 100 
+Small Blind : Small blind 500 
+Big Blind : Big blind 1000 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Js 5h] 
+UTG+3 : Card dealt to a spot [4s Qh] 
+UTG+4 : Card dealt to a spot [8h Th] 
+UTG+5 : Card dealt to a spot [Qs Ts] 
+Dealer [ME] : Card dealt to a spot [9h Ks] 
+Small Blind : Card dealt to a spot [Jc Kc] 
+Big Blind : Card dealt to a spot [7h 6c] 
+UTG : Card dealt to a spot [Td Kd] 
+UTG+1 : Card dealt to a spot [3s 8c] 
+UTG+3 : Re-join
+UTG : Raises 4400 to 4400
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer [ME] : Folds
+Small Blind : Call 3900 
+Big Blind : Folds
+*** FLOP *** [4h 2h Tc]
+Small Blind : Checks
+UTG : All-in 206222 
+Small Blind : Folds
+UTG : Return uncalled portion of bet 206222 
+UTG : Does not show [Td Kd] (One pair)
+UTG : Hand Result 10700 
+*** SUMMARY ***
+Total Pot(10700)
+Board [4h 2h Tc  ]
+Seat+229: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+244: UTG+5 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+444: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG 10700 [Does not show]  
+Seat+442: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4664035591: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:41:28
+Seat 229: UTG+1 (186,558 in chips)
+Seat 179: UTG+2 (83,942 in chips)
+Seat 117: UTG+3 (68,615 in chips)
+Seat 244: UTG+4 (52,166 in chips)
+Seat 53: UTG+5 [ME] (238,852 in chips)
+Seat 444: Dealer (70,297 in chips)
+Seat 96: Small Blind (78,129 in chips)
+Seat 28: Big Blind (216,922 in chips)
+Seat 442: UTG (77,217 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 100 
+UTG+2 : Ante chip 100 
+UTG+3 : Ante chip 100 
+UTG+4 : Ante chip 100 
+UTG+5 [ME] : Ante chip 100 
+Dealer : Ante chip 100 
+Small Blind : Ante chip 100 
+Big Blind : Ante chip 100 
+UTG : Ante chip 100 
+Small Blind : Small blind 500 
+Big Blind : Big blind 1000 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Jc Ad] 
+UTG+2 : Card dealt to a spot [7d 8h] 
+UTG+3 : Card dealt to a spot [6c 4h] 
+UTG+4 : Card dealt to a spot [Qd 3d] 
+UTG+5 [ME] : Card dealt to a spot [8s Ts] 
+Dealer : Card dealt to a spot [4s Jd] 
+Small Blind : Card dealt to a spot [7c 9h] 
+Big Blind : Card dealt to a spot [Kc 6s] 
+UTG : Card dealt to a spot [Kh Th] 
+UTG : Raises 2300 to 2300
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Call 1300 
+*** FLOP *** [5h 2d 8c]
+Big Blind : Checks
+UTG : Bets 6000 
+Big Blind : Folds
+UTG : Return uncalled portion of bet 6000 
+UTG : Does not show [Kh Th] (High Card)
+UTG : Hand Result 6000 
+*** SUMMARY ***
+Total Pot(6000)
+Board [5h 2d 8c  ]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 Folded on the FLOP
+Seat+444: Dealer Folded on the FLOP
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind Folded on the FLOP
+Seat+442: UTG 6000 [Does not show]  
+
+
+Ignition Hand #4664036305: HOLDEM Tournament #49305417 TBL#8, Normal- Level 14 (500/1000) - 2022-12-16 20:42:31
+Seat 229: UTG (186,458 in chips)
+Seat 179: UTG+1 (83,842 in chips)
+Seat 117: UTG+2 (68,515 in chips)
+Seat 244: UTG+3 (52,066 in chips)
+Seat 53: UTG+4 [ME] (238,752 in chips)
+Seat 444: UTG+5 (70,197 in chips)
+Seat 96: Dealer (77,529 in chips)
+Seat 28: Small Blind (214,522 in chips)
+Seat 442: Big Blind (80,817 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 100 
+UTG+1 : Ante chip 100 
+UTG+2 : Ante chip 100 
+UTG+3 : Ante chip 100 
+UTG+4 [ME] : Ante chip 100 
+UTG+5 : Ante chip 100 
+Dealer : Ante chip 100 
+Small Blind : Ante chip 100 
+Big Blind : Ante chip 100 
+Small Blind : Small blind 500 
+Big Blind : Big blind 1000 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Tc 7s] 
+UTG+1 : Card dealt to a spot [Qc 5h] 
+UTG+2 : Card dealt to a spot [Jc 5d] 
+UTG+3 : Card dealt to a spot [9c 2d] 
+UTG+4 [ME] : Card dealt to a spot [Ks Th] 
+UTG+5 : Card dealt to a spot [3d 4c] 
+Dealer : Card dealt to a spot [8s Ad] 
+Small Blind : Card dealt to a spot [5c 9d] 
+Big Blind : Card dealt to a spot [9h 5s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 [ME] : Raises 2300 to 2300
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+4 [ME] : Return uncalled portion of bet 1300 
+UTG+4 [ME] : Does not show [Ks Th] (High Card)
+UTG+4 [ME] : Hand Result 3400 
+*** SUMMARY ***
+Total Pot(3400)
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 3400 [Does not show]  
+Seat+444: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind Folded on the FLOP
+Seat+442: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4664036936: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:43:28
+Seat 229: Big Blind (186,358 in chips)
+Seat 179: UTG (83,742 in chips)
+Seat 117: UTG+1 (68,415 in chips)
+Seat 244: UTG+2 (51,966 in chips)
+Seat 53: UTG+3 [ME] (241,052 in chips)
+Seat 444: UTG+4 (70,097 in chips)
+Seat 96: UTG+5 (77,429 in chips)
+Seat 28: Dealer (213,922 in chips)
+Seat 442: Small Blind (79,717 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 : Ante chip 120 
+UTG+2 : Ante chip 120 
+UTG+3 [ME] : Ante chip 120 
+UTG+4 : Ante chip 120 
+UTG+5 : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [3c 6c] 
+UTG : Card dealt to a spot [2c 8h] 
+UTG+1 : Card dealt to a spot [2d 7s] 
+UTG+2 : Card dealt to a spot [Ac 8s] 
+UTG+3 [ME] : Card dealt to a spot [9h 6h] 
+UTG+4 : Card dealt to a spot [Js Ad] 
+UTG+5 : Card dealt to a spot [5c Qc] 
+Dealer : Card dealt to a spot [Ah As] 
+Small Blind : Card dealt to a spot [5h 6d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 [ME] : Folds
+UTG+4 : Raises 5280 to 5280
+UTG+5 : Folds
+Dealer : Raises 18720 to 18720
+Small Blind : Folds
+Big Blind : Folds
+UTG+4 : Call 13440 
+*** FLOP *** [4s Kh 7c]
+UTG+4 : Checks
+Dealer : Bets 40320 
+UTG+4 : Call 40320 
+*** TURN *** [4s Kh 7c] [6s]
+UTG+4 : Checks
+Dealer : Bets 120960 
+UTG+4 : All-in 10937 
+Dealer : Return uncalled portion of bet 110023 
+*** RIVER *** [4s Kh 7c 6s] [Jh]
+UTG+4 : Showdown [Js Jh Ad Kh 7c] (One pair)
+Dealer : Showdown [As Ah Kh Jh 7c] (One pair)
+Dealer : Hand Result 142834 
+UTG+4 : Ranking 344 
+UTG+4 : Stand
+*** SUMMARY ***
+Total Pot(142834)
+Board [4s Kh 7c 6s Jh]
+Seat+229: Big Blind Folded on the FLOP
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+244: UTG+2 Folded on the FLOP
+Seat+53: UTG+3 Folded on the FLOP
+Seat+444: UTG+4 lose with One pair [Js Ad-Js Jh Ad Kh 7c]  
+Seat+96: UTG+5 Folded on the FLOP
+Seat+28: Dealer 142834  with One pair [Ah As-As Ah Kh Jh 7c]  
+Seat+442: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4664037605: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:44:25
+Seat 229: Small Blind (185,038 in chips)
+Seat 179: Big Blind (83,622 in chips)
+Seat 117: UTG (68,295 in chips)
+Seat 244: UTG+1 (51,846 in chips)
+Seat 53: UTG+2 [ME] (240,932 in chips)
+Seat 96: UTG+3 (77,309 in chips)
+Seat 28: UTG+4 (286,659 in chips)
+Seat 442: Dealer (78,997 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 : Ante chip 120 
+UTG+2 [ME] : Ante chip 120 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [7d 3c] 
+Big Blind : Card dealt to a spot [4c Jc] 
+UTG : Card dealt to a spot [7c 8h] 
+UTG+1 : Card dealt to a spot [8d 2s] 
+UTG+2 [ME] : Card dealt to a spot [6s 3h] 
+UTG+3 : Card dealt to a spot [Td Ks] 
+UTG+4 : Card dealt to a spot [Ac Jd] 
+Dealer : Card dealt to a spot [5s Kh] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Folds
+UTG+3 : Folds
+UTG+4 : Call 1200 
+Dealer : Folds(timeout)
+Small Blind : Folds
+Big Blind : Checks
+*** FLOP *** [3d Kd 5d]
+Big Blind : Checks(timeout)
+UTG+4 : Bets 3960 
+Big Blind : Folds
+UTG+4 : Return uncalled portion of bet 3960 
+UTG+4 : Does not show [Ac Jd] (High Card)
+UTG+4 : Hand Result 3960 
+*** SUMMARY ***
+Total Pot(3960)
+Board [3d Kd 5d  ]
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+244: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 Folded on the FLOP
+Seat+28: UTG+4 3960 [Does not show]  
+Seat+442: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664038876: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:46:10
+Seat 229: Dealer (184,318 in chips)
+Seat 179: Small Blind (82,302 in chips)
+Seat 117: Big Blind (68,175 in chips)
+Seat 244: UTG (51,726 in chips)
+Seat 53: UTG+1 [ME] (240,812 in chips)
+Seat 495: UTG+2 (77,777 in chips)
+Seat 96: UTG+3 (77,189 in chips)
+Seat 28: UTG+4 (289,299 in chips)
+Seat 442: UTG+5 (78,877 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 120 
+Small Blind : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 [ME] : Ante chip 120 
+UTG+2 : Ante chip 120 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+UTG+5 : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [5d Js] 
+Small Blind : Card dealt to a spot [8d 3c] 
+Big Blind : Card dealt to a spot [4s 6s] 
+UTG : Card dealt to a spot [Ad 6d] 
+UTG+1 [ME] : Card dealt to a spot [3s 5h] 
+UTG+2 : Card dealt to a spot [5s Th] 
+UTG+3 : Card dealt to a spot [2s 2c] 
+UTG+4 : Card dealt to a spot [3h 9c] 
+UTG+5 : Card dealt to a spot [Jd 2d] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Folds
+UTG+3 : Call 1200 
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Checks
+*** FLOP *** [8c Kd Td]
+Big Blind : Checks
+UTG+3 : Bets 2400 
+Big Blind : Folds
+UTG+3 : Return uncalled portion of bet 2400 
+UTG+3 : Does not show [2s 2c] (One pair)
+UTG+3 : Hand Result 4080 
+*** SUMMARY ***
+Total Pot(4080)
+Board [8c Kd Td  ]
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind Folded on the FLOP
+Seat+244: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+495: UTG+2 Folded on the FLOP
+Seat+96: UTG+3 4080 [Does not show]  
+Seat+28: UTG+4 Folded on the FLOP
+Seat+442: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664039545: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:47:10
+Seat 229: UTG+5 (184,198 in chips)
+Seat 179: Dealer (81,582 in chips)
+Seat 117: Small Blind (66,855 in chips)
+Seat 244: Big Blind (51,606 in chips)
+Seat 53: UTG [ME] (240,692 in chips)
+Seat 495: UTG+1 (77,657 in chips)
+Seat 96: UTG+2 (79,949 in chips)
+Seat 28: UTG+3 (289,179 in chips)
+Seat 442: UTG+4 (78,757 in chips)
+Dealer : Set dealer [2] 
+UTG+5 : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG [ME] : Ante chip 120 
+UTG+1 : Ante chip 120 
+UTG+2 : Ante chip 120 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [Kd 4h] 
+Dealer : Card dealt to a spot [2c 3c] 
+Small Blind : Card dealt to a spot [Kc 4d] 
+Big Blind : Card dealt to a spot [2d 6d] 
+UTG [ME] : Card dealt to a spot [Jd 6s] 
+UTG+1 : Card dealt to a spot [9d Kh] 
+UTG+2 : Card dealt to a spot [6c Qs] 
+UTG+3 : Card dealt to a spot [Ks Ad] 
+UTG+4 : Card dealt to a spot [2s Js] 
+UTG [ME] : Folds
+UTG+1 : Raises 2400 to 2400
+UTG+2 : Folds
+UTG+3 : Raises 10080 to 10080
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+1 : Folds
+UTG+3 : Return uncalled portion of bet 7680 
+UTG+3 : Does not show [Ks Ad] (High Card)
+UTG+3 : Hand Result 7680 
+*** SUMMARY ***
+Total Pot(7680)
+Seat+229: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+244: Big Blind Folded on the FLOP
+Seat+53: UTG Folded on the FLOP
+Seat+495: UTG+1 Folded on the FLOP
+Seat+96: UTG+2 Folded on the FLOP
+Seat+28: UTG+3 7680 [Does not show]  
+Seat+442: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4664039960: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:47:43
+Seat 229: UTG+4 (184,078 in chips)
+Seat 179: UTG+5 (81,462 in chips)
+Seat 117: Dealer (66,135 in chips)
+Seat 244: Small Blind (50,286 in chips)
+Seat 53: Big Blind [ME] (240,572 in chips)
+Seat 495: UTG (75,137 in chips)
+Seat 96: UTG+1 (79,829 in chips)
+Seat 28: UTG+2 (294,339 in chips)
+Seat 442: UTG+3 (78,637 in chips)
+Dealer : Set dealer [3] 
+UTG+4 : Ante chip 120 
+UTG+5 : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind : Ante chip 120 
+Big Blind [ME] : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 : Ante chip 120 
+UTG+2 : Ante chip 120 
+UTG+3 : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind [ME] : Big blind 1200 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [Ac 8s] 
+UTG+5 : Card dealt to a spot [5s 2d] 
+Dealer : Card dealt to a spot [7h 6s] 
+Small Blind : Card dealt to a spot [Qc 4c] 
+Big Blind [ME] : Card dealt to a spot [9h 5d] 
+UTG : Card dealt to a spot [4s As] 
+UTG+1 : Card dealt to a spot [7c Td] 
+UTG+2 : Card dealt to a spot [Kc 6d] 
+UTG+3 : Card dealt to a spot [7d 5h] 
+UTG : Raises 2400 to 2400
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind [ME] : Folds
+UTG : Return uncalled portion of bet 1200 
+UTG : Does not show [4s As] (High Card)
+UTG : Hand Result 4080 
+*** SUMMARY ***
+Total Pot(4080)
+Seat+229: UTG+4 Folded on the FLOP
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer Folded on the FLOP
+Seat+244: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+495: UTG 4080 [Does not show]  
+Seat+96: UTG+1 Folded on the FLOP
+Seat+28: UTG+2 Folded on the FLOP
+Seat+442: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664040301: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:48:13
+Seat 229: UTG+3 (183,958 in chips)
+Seat 179: UTG+4 (81,342 in chips)
+Seat 117: UTG+5 (66,015 in chips)
+Seat 244: Dealer (49,566 in chips)
+Seat 53: Small Blind [ME] (239,252 in chips)
+Seat 495: Big Blind (77,897 in chips)
+Seat 96: UTG (79,709 in chips)
+Seat 28: UTG+1 (294,219 in chips)
+Seat 442: UTG+2 (78,517 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+UTG+5 : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind [ME] : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 : Ante chip 120 
+UTG+2 : Ante chip 120 
+Small Blind [ME] : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [9s Ac] 
+UTG+4 : Card dealt to a spot [Js 8d] 
+UTG+5 : Card dealt to a spot [8s Kh] 
+Dealer : Card dealt to a spot [3c 4h] 
+Small Blind [ME] : Card dealt to a spot [Qc 5d] 
+Big Blind : Card dealt to a spot [9d Ts] 
+UTG : Card dealt to a spot [As 6d] 
+UTG+1 : Card dealt to a spot [Th 5s] 
+UTG+2 : Card dealt to a spot [Kd 4c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind [ME] : Call 600 
+Big Blind : Checks
+*** FLOP *** [2s 7h Qh]
+Small Blind [ME] : Bets 1740 
+Big Blind : Folds
+Small Blind [ME] : Return uncalled portion of bet 1740 
+Small Blind [ME] : Does not show [Qc 5d] (One pair)
+Small Blind [ME] : Hand Result 3480 
+*** SUMMARY ***
+Total Pot(3480)
+Board [2s 7h Qh  ]
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 Folded on the FLOP
+Seat+244: Dealer Folded on the FLOP
+Seat+53: Small Blind 3480 [Does not show]  
+Seat+495: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+28: UTG+1 Folded on the FLOP
+Seat+442: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4664040867: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:49:04
+Seat 229: UTG+2 (183,838 in chips)
+Seat 179: UTG+3 (81,222 in chips)
+Seat 117: UTG+4 (65,895 in chips)
+Seat 244: UTG+5 (49,446 in chips)
+Seat 53: Dealer [ME] (241,412 in chips)
+Seat 495: Small Blind (76,577 in chips)
+Seat 96: Big Blind (79,589 in chips)
+Seat 28: UTG (294,099 in chips)
+Seat 442: UTG+1 (78,397 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 120 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+UTG+5 : Ante chip 120 
+Dealer [ME] : Ante chip 120 
+Small Blind : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+UTG+1 : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [Jh Ad] 
+UTG+3 : Card dealt to a spot [Kd 6d] 
+UTG+4 : Card dealt to a spot [2c 7s] 
+UTG+5 : Card dealt to a spot [3d 9c] 
+Dealer [ME] : Card dealt to a spot [Kc 8s] 
+Small Blind : Card dealt to a spot [3h 9s] 
+Big Blind : Card dealt to a spot [4h Tc] 
+UTG : Card dealt to a spot [7h 2s] 
+UTG+1 : Card dealt to a spot [6h 9h] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 3600 to 3600
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer [ME] : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Return uncalled portion of bet 2400 
+UTG+2 : Does not show [Jh Ad] (High Card)
+UTG+2 : Hand Result 4080 
+*** SUMMARY ***
+Total Pot(4080)
+Seat+229: UTG+2 4080 [Does not show]  
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+244: UTG+5 Folded on the FLOP
+Seat+53: Dealer Folded on the FLOP
+Seat+495: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+28: UTG Folded on the FLOP
+Seat+442: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4664041440: HOLDEM Tournament #49305417 TBL#8, Normal- Level 15 (600/1200) - 2022-12-16 20:49:52
+Seat 229: UTG+1 (186,598 in chips)
+Seat 179: UTG+2 (81,102 in chips)
+Seat 117: UTG+3 (65,775 in chips)
+Seat 244: UTG+4 (49,326 in chips)
+Seat 53: UTG+5 [ME] (241,292 in chips)
+Seat 495: Dealer (75,857 in chips)
+Seat 96: Small Blind (78,269 in chips)
+Seat 28: Big Blind (293,979 in chips)
+Seat 442: UTG (78,277 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 120 
+UTG+2 : Ante chip 120 
+UTG+3 : Ante chip 120 
+UTG+4 : Ante chip 120 
+UTG+5 [ME] : Ante chip 120 
+Dealer : Ante chip 120 
+Small Blind : Ante chip 120 
+Big Blind : Ante chip 120 
+UTG : Ante chip 120 
+Small Blind : Small blind 600 
+Big Blind : Big blind 1200 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [4c 4h] 
+UTG+2 : Card dealt to a spot [Ts 3c] 
+UTG+3 : Card dealt to a spot [8c 5d] 
+UTG+4 : Card dealt to a spot [Jd 5h] 
+UTG+5 [ME] : Card dealt to a spot [Ah 9c] 
+Dealer : Card dealt to a spot [9h 3s] 
+Small Blind : Card dealt to a spot [8h 7s] 
+Big Blind : Card dealt to a spot [2c Qc] 
+UTG : Card dealt to a spot [Jc Kc] 
+UTG : Raises 2400 to 2400
+UTG+1 : Call 2400 
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Call 2400 
+Dealer : Call 2400 
+Small Blind : Folds
+Big Blind : Call 1200 
+*** FLOP *** [Td Ad 8d]
+Big Blind : Checks
+UTG : Checks
+UTG+1 : Checks
+UTG+5 [ME] : Checks
+Dealer : Bets 2400 
+Big Blind : Folds
+UTG : Folds
+UTG+1 : Folds
+UTG+5 [ME] : Call 2400 
+*** TURN *** [Td Ad 8d] [6s]
+UTG+5 [ME] : Checks
+Dealer : Bets 9240 
+UTG+5 [ME] : Call 9240 
+*** RIVER *** [Td Ad 8d 6s] [7c]
+UTG+5 [ME] : Checks
+Dealer : Bets 27720 
+UTG+5 [ME] : Call 27720 
+Dealer : Showdown [Td 9h 8d 7c 6s] (Straight)
+UTG+5 [ME] : Showdown [Td 9c 8d 7c 6s] (Straight)
+UTG+5 [ME] : Hand Result 46200 
+Dealer : Hand Result 46200 
+*** SUMMARY ***
+Total Pot(92400)
+Board [Td Ad 8d 6s 7c]
+Seat+229: UTG+1 Folded on the FLOP
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+244: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 46200  with Straight [Ah 9c-Td 9c 8d 7c 6s]  
+Seat+495: Dealer 46200  with Straight [9h 3s-Td 9h 8d 7c 6s]  
+Seat+96: Small Blind Folded on the FLOP
+Seat+28: Big Blind Folded on the FLOP
+Seat+442: UTG Folded on the FLOP
+
+
+Ignition Hand #4664042307: HOLDEM Tournament #49305417 TBL#8, Normal- Level 16 (800/1600) - 2022-12-16 20:51:07
+Seat 229: UTG (184,078 in chips)
+Seat 179: UTG+1 (80,982 in chips)
+Seat 117: UTG+2 (65,655 in chips)
+Seat 244: UTG+3 (49,206 in chips)
+Seat 53: UTG+4 [ME] (245,612 in chips)
+Seat 495: UTG+5 (80,177 in chips)
+Seat 96: Dealer (77,549 in chips)
+Seat 28: Small Blind (291,459 in chips)
+Seat 442: Big Blind (75,757 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 160 
+UTG+1 : Ante chip 160 
+UTG+2 : Ante chip 160 
+UTG+3 : Ante chip 160 
+UTG+4 [ME] : Ante chip 160 
+UTG+5 : Ante chip 160 
+Dealer : Ante chip 160 
+Small Blind : Ante chip 160 
+Big Blind : Ante chip 160 
+Small Blind : Small blind 800 
+Big Blind : Big blind 1600 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Jc Qd] 
+UTG+1 : Card dealt to a spot [7h Td] 
+UTG+2 : Card dealt to a spot [7d 5d] 
+UTG+3 : Card dealt to a spot [Jh Ts] 
+UTG+4 [ME] : Card dealt to a spot [9s 5c] 
+UTG+5 : Card dealt to a spot [6s Tc] 
+Dealer : Card dealt to a spot [2c 2d] 
+Small Blind : Card dealt to a spot [Ks 9c] 
+Big Blind : Card dealt to a spot [2h 4d] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Raises 4800 to 4800
+UTG+4 [ME] : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Call 4000 
+Big Blind : Folds(timeout)
+*** FLOP *** [5h Qh 9d]
+Small Blind : Checks
+UTG+3 : Bets 6320 
+Small Blind : Raises 31600 to 31600
+UTG+3 : All-in(raise) 37926 to 44246
+Small Blind : Call 12646 
+*** TURN *** [5h Qh 9d] [7c]
+*** RIVER *** [5h Qh 9d 7c] [2s]
+UTG+3 : Showdown [Qh Jh Ts 9d 7c] (High Card)
+Small Blind : Showdown [9d 9c Ks Qh 7c] (One pair)
+Small Blind : Hand Result 101132 
+UTG+3 : Ranking 364 
+UTG+3 : Stand
+*** SUMMARY ***
+Total Pot(101132)
+Board [5h Qh 9d 7c 2s]
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 Folded on the FLOP
+Seat+244: UTG+3 lose with High Card [Jh Ts-Qh Jh Ts 9d 7c]  
+Seat+53: UTG+4 Folded on the FLOP
+Seat+495: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+28: Small Blind 101132  with One pair [Ks 9c-9d 9c Ks Qh 7c]  
+Seat+442: Big Blind Folded on the FLOP
+
+
+Ignition Hand #4664043481: HOLDEM Tournament #49305417 TBL#8, Normal- Level 16 (800/1600) - 2022-12-16 20:52:52
+Seat 229: Big Blind (183,918 in chips)
+Seat 179: UTG (80,822 in chips)
+Seat 117: UTG+1 (65,495 in chips)
+Seat 53: UTG+2 [ME] (245,452 in chips)
+Seat 495: UTG+3 (80,017 in chips)
+Seat 96: UTG+4 (77,389 in chips)
+Seat 28: Dealer (343,385 in chips)
+Seat 442: Small Blind (73,997 in chips)
+Dealer : Set dealer [8] 
+Big Blind : Ante chip 160 
+UTG : Ante chip 160 
+UTG+1 : Ante chip 160 
+UTG+2 [ME] : Ante chip 160 
+UTG+3 : Ante chip 160 
+UTG+4 : Ante chip 160 
+Dealer : Ante chip 160 
+Small Blind : Ante chip 160 
+Small Blind : Small blind 800 
+Big Blind : Big blind 1600 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [8d Kd] 
+UTG : Card dealt to a spot [4d 3d] 
+UTG+1 : Card dealt to a spot [9s 2h] 
+UTG+2 [ME] : Card dealt to a spot [8h 9c] 
+UTG+3 : Card dealt to a spot [3h Ts] 
+UTG+4 : Card dealt to a spot [6h 8s] 
+Dealer : Card dealt to a spot [Jc 2c] 
+Small Blind : Card dealt to a spot [Ad 5c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 [ME] : Raises 3200 to 3200
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Call 3200 
+Small Blind : Folds
+Big Blind : Call 1600 
+*** FLOP *** [5h 7s Jd]
+Big Blind : Checks
+UTG+2 [ME] : Checks
+Dealer : Bets 11680 
+Big Blind : Folds
+UTG+2 [ME] : Raises 26560 to 26560
+Dealer : Call 14880 
+*** TURN *** [5h 7s Jd] [Td]
+UTG+2 [ME] : Checks
+Dealer : Checks
+*** RIVER *** [5h 7s Jd Td] [Qc]
+UTG+2 [ME] : Checks
+Dealer : Checks
+UTG+2 [ME] : Showdown [Qc Jd Td 9c 8h] (Straight)
+Dealer : Mucks [Jc 2c] (One pair)
+UTG+2 [ME] : Hand Result 64800 
+*** SUMMARY ***
+Total Pot(64800)
+Board [5h 7s Jd Td Qc]
+Seat+229: Big Blind Folded on the FLOP
+Seat+179: UTG Folded on the FLOP
+Seat+117: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 64800  with Straight [8h 9c-Qc Jd Td 9c 8h]  
+Seat+495: UTG+3 Folded on the FLOP
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: Dealer [Mucked] [Jc 2c ]  
+Seat+442: Small Blind Folded on the FLOP
+
+
+Ignition Hand #4664044623: HOLDEM Tournament #49305417 TBL#8, Normal- Level 16 (800/1600) - 2022-12-16 20:54:28
+Seat 229: Small Blind (180,558 in chips)
+Seat 179: Big Blind (80,662 in chips)
+Seat 117: UTG (65,335 in chips)
+Seat 538: UTG+1 (77,777 in chips)
+Seat 53: UTG+2 [ME] (280,332 in chips)
+Seat 495: UTG+3 (79,857 in chips)
+Seat 96: UTG+4 (77,229 in chips)
+Seat 28: UTG+5 (313,465 in chips)
+Seat 442: Dealer (73,037 in chips)
+Dealer : Set dealer [9] 
+Small Blind : Ante chip 160 
+Big Blind : Ante chip 160 
+UTG : Ante chip 160 
+UTG+1 : Ante chip 160 
+UTG+2 [ME] : Ante chip 160 
+UTG+3 : Ante chip 160 
+UTG+4 : Ante chip 160 
+UTG+5 : Ante chip 160 
+Dealer : Ante chip 160 
+Small Blind : Small blind 800 
+Big Blind : Big blind 1600 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [3s 8s] 
+Big Blind : Card dealt to a spot [3c Kh] 
+UTG : Card dealt to a spot [9c 6d] 
+UTG+1 : Card dealt to a spot [7h 6s] 
+UTG+2 [ME] : Card dealt to a spot [9h 8c] 
+UTG+3 : Card dealt to a spot [Jd Ac] 
+UTG+4 : Card dealt to a spot [2h 2d] 
+UTG+5 : Card dealt to a spot [Qh 6c] 
+Dealer : Card dealt to a spot [Ks 6h] 
+UTG : Folds
+UTG+1 : Fold(Blind Disconnected)
+UTG+2 [ME] : Folds
+UTG+1 : Table enter user
+UTG+3 : Raises 4800 to 4800
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Sit out
+Big Blind : Folds(timeout)
+UTG+3 : Return uncalled portion of bet 3200 
+UTG+3 : Does not show [Jd Ac] (High Card)
+UTG+3 : Hand Result 5440 
+*** SUMMARY ***
+Total Pot(5440)
+Seat+229: Small Blind Folded on the FLOP
+Seat+179: Big Blind Folded on the FLOP
+Seat+117: UTG Folded on the FLOP
+Seat+538: UTG+1 Folded on the FLOP
+Seat+53: UTG+2 Folded on the FLOP
+Seat+495: UTG+3 5440 [Does not show]  
+Seat+96: UTG+4 Folded on the FLOP
+Seat+28: UTG+5 Folded on the FLOP
+Seat+442: Dealer Folded on the FLOP
+
+
+Ignition Hand #4664047262: HOLDEM Tournament #49305417 TBL#8, Normal- Level 16 (800/1600) - 2022-12-16 21:00:01
+Seat 229: Dealer (179,598 in chips)
+Seat 179: Small Blind (78,902 in chips)
+Seat 117: Big Blind (65,175 in chips)
+Seat 538: UTG (77,617 in chips)
+Seat 53: UTG+1 [ME] (280,172 in chips)
+Seat 495: UTG+2 (83,537 in chips)
+Seat 96: UTG+3 (77,069 in chips)
+Seat 550: UTG+4 (77,777 in chips)
+Seat 442: UTG+5 (72,877 in chips)
+Dealer : Set dealer [1] 
+Dealer : Ante chip 160 
+Small Blind : Ante chip 160 
+Big Blind : Ante chip 160 
+UTG : Ante chip 160 
+UTG+1 [ME] : Ante chip 160 
+UTG+2 : Ante chip 160 
+UTG+3 : Ante chip 160 
+UTG+4 : Ante chip 160 
+UTG+5 : Ante chip 160 
+Small Blind : Small blind 800 
+Big Blind : Big blind 1600 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Ks 4h] 
+Small Blind : Card dealt to a spot [2d Kc] 
+Big Blind : Card dealt to a spot [Ah 5h] 
+UTG : Card dealt to a spot [Th 4c] 
+UTG+1 [ME] : Card dealt to a spot [2s 8d] 
+UTG+2 : Card dealt to a spot [7s 8h] 
+UTG+3 : Card dealt to a spot [3h 9d] 
+UTG+4 : Card dealt to a spot [3d 3s] 
+UTG+5 : Card dealt to a spot [Ac 6h] 
+UTG : Folds
+UTG+1 [ME] : Folds
+UTG+2 : Call 1600 
+UTG+3 : Folds
+UTG+4 : Call 1600 
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Checks
+*** FLOP *** [Jd 4s 2h]
+Big Blind : Checks
+UTG+2 : Checks
+UTG+4 : Checks
+*** TURN *** [Jd 4s 2h] [Qh]
+Big Blind : Bets 3520 
+UTG+2 : Folds
+UTG+4 : Folds
+Big Blind : Return uncalled portion of bet 3520 
+Big Blind : Does not show [Ah 5h] (High Card)
+Big Blind : Hand Result 7040 
+*** SUMMARY ***
+Total Pot(7040)
+Board [Jd 4s 2h Qh ]
+Seat+229: Dealer Folded on the FLOP
+Seat+179: Small Blind Folded on the FLOP
+Seat+117: Big Blind 7040 [Does not show]  
+Seat+538: UTG Folded on the FLOP
+Seat+53: UTG+1 Folded on the FLOP
+Seat+495: UTG+2 Folded on the TURN
+Seat+96: UTG+3 Folded on the FLOP
+Seat+550: UTG+4 Folded on the TURN
+Seat+442: UTG+5 Folded on the FLOP
+
+
+Ignition Hand #4664047953: HOLDEM Tournament #49305417 TBL#8, Normal- Level 16 (800/1600) - 2022-12-16 21:01:13
+Seat 229: UTG+5 (179,438 in chips)
+Seat 179: Dealer (77,942 in chips)
+Seat 117: Small Blind (70,455 in chips)
+Seat 538: Big Blind (77,457 in chips)
+Seat 53: UTG [ME] (280,012 in chips)
+Seat 495: UTG+1 (81,777 in chips)
+Seat 96: UTG+2 (76,909 in chips)
+Seat 550: UTG+3 (76,017 in chips)
+Seat 442: UTG+4 (72,717 in chips)
+Dealer : Set dealer [2] 
+UTG+5 : Ante chip 160 
+Dealer : Ante chip 160 
+Small Blind : Ante chip 160 
+Big Blind : Ante chip 160 
+UTG [ME] : Ante chip 160 
+UTG+1 : Ante chip 160 
+UTG+2 : Ante chip 160 
+UTG+3 : Ante chip 160 
+UTG+4 : Ante chip 160 
+Small Blind : Small blind 800 
+Big Blind : Big blind 1600 
+*** HOLE CARDS ***
+UTG+5 : Card dealt to a spot [7h Kc] 
+Dealer : Card dealt to a spot [5s Qc] 
+Small Blind : Card dealt to a spot [8c Kh] 
+Big Blind : Card dealt to a spot [As 5d] 
+UTG [ME] : Card dealt to a spot [8h 8d] 
+UTG+1 : Card dealt to a spot [Ad 9d] 
+UTG+2 : Card dealt to a spot [7s Qd] 
+UTG+3 : Card dealt to a spot [3d Ah] 
+UTG+4 : Card dealt to a spot [5h 6h] 
+UTG [ME] : Raises 4800 to 4800
+UTG+1 : Call 4800 
+UTG+2 : Folds
+UTG+3 : Folds
+Dealer : Re-join
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Sit out
+Dealer : Folds(timeout)
+Small Blind : Folds
+Big Blind : Call 3200 
+*** FLOP *** [2d Td Tc]
+Big Blind : Checks
+UTG [ME] : Bets 5537 
+UTG+1 : Raises 11074 to 11074
+Big Blind : Folds
+UTG [ME] : Call 5537 
+*** TURN *** [2d Td Tc] [3s]
+UTG [ME] : Checks
+UTG+1 : Checks
+*** RIVER *** [2d Td Tc 3s] [6d]
+UTG [ME] : Bets 14594 
+UTG+1 : Raises 29188 to 29188
+UTG [ME] : Call 14594 
+UTG+1 : Showdown [Ad Td 9d 6d 2d] (Flush)
+UTG [ME] : Mucks [8h 8d] (Two pair)
+UTG+1 : Hand Result 97164 
+*** SUMMARY ***
+Total Pot(97164)
+Board [2d Td Tc 3s 6d]
+Seat+229: UTG+5 Folded on the FLOP
+Seat+179: Dealer Folded on the FLOP
+Seat+117: Small Blind Folded on the FLOP
+Seat+538: Big Blind Folded on the FLOP
+Seat+53: UTG [Mucked] [8h 8d ]  
+Seat+495: UTG+1 97164  with Flush [Ad 9d-Ad Td 9d 6d 2d]  
+Seat+96: UTG+2 Folded on the FLOP
+Seat+550: UTG+3 Folded on the FLOP
+Seat+442: UTG+4 Folded on the FLOP
+
+
+Ignition Hand #4664049039: HOLDEM Tournament #49305417 TBL#8, Normal- Level 17 (1000/2000) - 2022-12-16 21:02:52
+Seat 229: UTG+4 (179,278 in chips)
+Seat 179: UTG+5 (77,782 in chips)
+Seat 117: Dealer (69,495 in chips)
+Seat 538: Small Blind (72,497 in chips)
+Seat 53: Big Blind [ME] (234,790 in chips)
+Seat 495: UTG (133,719 in chips)
+Seat 96: UTG+1 (76,749 in chips)
+Seat 550: UTG+2 (75,857 in chips)
+Seat 442: UTG+3 (72,557 in chips)
+Dealer : Set dealer [3] 
+UTG+4 : Ante chip 200 
+UTG+5 : Ante chip 200 
+Dealer : Ante chip 200 
+Small Blind : Ante chip 200 
+Big Blind [ME] : Ante chip 200 
+UTG : Ante chip 200 
+UTG+1 : Ante chip 200 
+UTG+2 : Ante chip 200 
+UTG+3 : Ante chip 200 
+Small Blind : Small blind 1000 
+Big Blind [ME] : Big blind 2000 
+*** HOLE CARDS ***
+UTG+4 : Card dealt to a spot [8s 4c] 
+UTG+5 : Card dealt to a spot [Js 2s] 
+Dealer : Card dealt to a spot [8d Kd] 
+Small Blind : Card dealt to a spot [8c Td] 
+Big Blind [ME] : Card dealt to a spot [5c 9c] 
+UTG : Card dealt to a spot [7h As] 
+UTG+1 : Card dealt to a spot [4s Ts] 
+UTG+2 : Card dealt to a spot [Qh 9d] 
+UTG+3 : Card dealt to a spot [8h Qd] 
+UTG : Call 2000 
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Raises 8000 to 8000
+Small Blind : Folds
+Big Blind [ME] : Folds
+UTG : Folds
+Dealer : Return uncalled portion of bet 6000 
+Dealer : Does not show [8d Kd] (High Card)
+Dealer : Hand Result 8800 
+*** SUMMARY ***
+Total Pot(8800)
+Seat+229: UTG+4 Folded on the FLOP
+Seat+179: UTG+5 Folded on the FLOP
+Seat+117: Dealer 8800 [Does not show]  
+Seat+538: Small Blind Folded on the FLOP
+Seat+53: Big Blind Folded on the FLOP
+Seat+495: UTG Folded on the FLOP
+Seat+96: UTG+1 Folded on the FLOP
+Seat+550: UTG+2 Folded on the FLOP
+Seat+442: UTG+3 Folded on the FLOP
+
+
+Ignition Hand #4664049607: HOLDEM Tournament #49305417 TBL#8, Normal- Level 17 (1000/2000) - 2022-12-16 21:03:40
+Seat 229: UTG+3 (179,078 in chips)
+Seat 179: UTG+4 (77,582 in chips)
+Seat 117: UTG+5 (76,095 in chips)
+Seat 538: Dealer (71,297 in chips)
+Seat 53: Small Blind [ME] (232,590 in chips)
+Seat 495: Big Blind (131,519 in chips)
+Seat 96: UTG (76,549 in chips)
+Seat 550: UTG+1 (75,657 in chips)
+Seat 442: UTG+2 (72,357 in chips)
+Dealer : Set dealer [4] 
+UTG+3 : Ante chip 200 
+UTG+4 : Ante chip 200 
+UTG+5 : Ante chip 200 
+Dealer : Ante chip 200 
+Small Blind [ME] : Ante chip 200 
+Big Blind : Ante chip 200 
+UTG : Ante chip 200 
+UTG+1 : Ante chip 200 
+UTG+2 : Ante chip 200 
+Small Blind [ME] : Small blind 1000 
+Big Blind : Big blind 2000 
+*** HOLE CARDS ***
+UTG+3 : Card dealt to a spot [7h 3c] 
+UTG+4 : Card dealt to a spot [Jh 7d] 
+UTG+5 : Card dealt to a spot [4h Th] 
+Dealer : Card dealt to a spot [Js Kh] 
+Small Blind [ME] : Card dealt to a spot [4c 8c] 
+Big Blind : Card dealt to a spot [8d 9h] 
+UTG : Card dealt to a spot [5s Tc] 
+UTG+1 : Card dealt to a spot [5h Ah] 
+UTG+2 : Card dealt to a spot [9s Qc] 
+UTG+4 : Re-join
+UTG : Folds
+UTG+1 : Raises 4000 to 4000
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 : Folds
+Dealer : Call 4000 
+Small Blind [ME] : Folds
+Big Blind : Call 2000 
+*** FLOP *** [As Qs 8s]
+Big Blind : Checks
+UTG+1 : Checks
+Dealer : Bets 7400 
+Big Blind : Folds
+UTG+1 : Folds
+Dealer : Return uncalled portion of bet 7400 
+Dealer : Does not show [Js Kh] (High Card)
+Dealer : Hand Result 14800 
+*** SUMMARY ***
+Total Pot(14800)
+Board [As Qs 8s  ]
+Seat+229: UTG+3 Folded on the FLOP
+Seat+179: UTG+4 Folded on the FLOP
+Seat+117: UTG+5 Folded on the FLOP
+Seat+538: Dealer 14800 [Does not show]  
+Seat+53: Small Blind Folded on the FLOP
+Seat+495: Big Blind Folded on the FLOP
+Seat+96: UTG Folded on the FLOP
+Seat+550: UTG+1 Folded on the FLOP
+Seat+442: UTG+2 Folded on the FLOP
+
+
+Ignition Hand #4664050604: HOLDEM Tournament #49305417 TBL#8, Normal- Level 17 (1000/2000) - 2022-12-16 21:05:04
+Seat 229: UTG+2 (178,878 in chips)
+Seat 179: UTG+3 (77,382 in chips)
+Seat 117: UTG+4 (75,895 in chips)
+Seat 538: UTG+5 (81,897 in chips)
+Seat 53: Dealer [ME] (231,390 in chips)
+Seat 495: Small Blind (127,319 in chips)
+Seat 96: Big Blind (76,349 in chips)
+Seat 550: UTG (71,457 in chips)
+Seat 442: UTG+1 (72,157 in chips)
+Dealer [ME] : Set dealer [5] 
+UTG+2 : Ante chip 200 
+UTG+3 : Ante chip 200 
+UTG+4 : Ante chip 200 
+UTG+5 : Ante chip 200 
+Dealer [ME] : Ante chip 200 
+Small Blind : Ante chip 200 
+Big Blind : Ante chip 200 
+UTG : Ante chip 200 
+UTG+1 : Ante chip 200 
+Small Blind : Small blind 1000 
+Big Blind : Big blind 2000 
+*** HOLE CARDS ***
+UTG+2 : Card dealt to a spot [9d 6h] 
+UTG+3 : Card dealt to a spot [7d 6s] 
+UTG+4 : Card dealt to a spot [Jd 3s] 
+UTG+5 : Card dealt to a spot [8s 5h] 
+Dealer [ME] : Card dealt to a spot [Kc 4h] 
+Small Blind : Card dealt to a spot [7s 7c] 
+Big Blind : Card dealt to a spot [Ks 8d] 
+UTG : Card dealt to a spot [Ac Ad] 
+UTG+1 : Card dealt to a spot [9h Th] 
+UTG : Raises 4000 to 4000
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Sit out
+UTG+3 : Folds(timeout)
+UTG+4 : Folds
+UTG+5 : Call 4000 
+Dealer [ME] : Folds
+Small Blind : Call 3000 
+UTG+3 : Re-join
+Big Blind : Call 2000 
+*** FLOP *** [5d Qh Td]
+Small Blind : Checks
+Big Blind : Checks
+UTG : Bets 8900 
+UTG+5 : Call 8900 
+Small Blind : Folds
+Big Blind : Folds
+*** TURN *** [5d Qh Td] [2c]
+UTG : Bets 26700 
+UTG+5 : Folds
+UTG : Return uncalled portion of bet 26700 
+UTG : Does not show [Ac Ad] (One pair)
+UTG : Hand Result 35600 
+*** SUMMARY ***
+Total Pot(35600)
+Board [5d Qh Td 2c ]
+Seat+229: UTG+2 Folded on the FLOP
+Seat+179: UTG+3 Folded on the FLOP
+Seat+117: UTG+4 Folded on the FLOP
+Seat+538: UTG+5 Folded on the TURN
+Seat+53: Dealer Folded on the FLOP
+Seat+495: Small Blind Folded on the FLOP
+Seat+96: Big Blind Folded on the FLOP
+Seat+550: UTG 35600 [Does not show]  
+Seat+442: UTG+1 Folded on the FLOP
+
+
+Ignition Hand #4664052014: HOLDEM Tournament #49305417 TBL#8, Normal- Level 17 (1000/2000) - 2022-12-16 21:07:07
+Seat 229: UTG+1 (178,678 in chips)
+Seat 179: UTG+2 (77,182 in chips)
+Seat 117: UTG+3 (75,695 in chips)
+Seat 538: UTG+4 (68,797 in chips)
+Seat 53: UTG+5 [ME] (231,190 in chips)
+Seat 495: Dealer (123,119 in chips)
+Seat 96: Small Blind (72,149 in chips)
+Seat 550: Big Blind (93,957 in chips)
+Seat 442: UTG (71,957 in chips)
+Dealer : Set dealer [6] 
+UTG+1 : Ante chip 200 
+UTG+2 : Ante chip 200 
+UTG+3 : Ante chip 200 
+UTG+4 : Ante chip 200 
+UTG+5 [ME] : Ante chip 200 
+Dealer : Ante chip 200 
+Small Blind : Ante chip 200 
+Big Blind : Ante chip 200 
+UTG : Ante chip 200 
+Small Blind : Small blind 1000 
+Big Blind : Big blind 2000 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [9s Js] 
+UTG+2 : Card dealt to a spot [6s Ac] 
+UTG+3 : Card dealt to a spot [8d 4h] 
+UTG+4 : Card dealt to a spot [4d Td] 
+UTG+5 [ME] : Card dealt to a spot [As Jd] 
+Dealer : Card dealt to a spot [5c Qc] 
+Small Blind : Card dealt to a spot [Qs 9h] 
+Big Blind : Card dealt to a spot [Tc 5d] 
+UTG : Card dealt to a spot [3s 5s] 
+UTG : Folds
+UTG+1 : Raises 5000 to 5000
+UTG+2 : Folds
+UTG+3 : Folds
+UTG+4 : Folds
+UTG+5 [ME] : Call 5000 
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+*** FLOP *** [9d 5h Jc]
+UTG+1 : Bets 11100 
+UTG+5 [ME] : Call 11100 
+*** TURN *** [9d 5h Jc] [2h]
+UTG+1 : Bets 27750 
+UTG+5 [ME] : Call 27750 
+*** RIVER *** [9d 5h Jc 2h] [9c]
+UTG+1 : All-in 134628 
+UTG+5 [ME] : Call 134628 
+UTG+1 : Showdown [9s 9d 9c Js Jc] (Full House)
+UTG+5 [ME] : Mucks [As Jd] (Two pair)
+UTG+1 : Hand Result 361756 
+*** SUMMARY ***
+Total Pot(361756)
+Board [9d 5h Jc 2h 9c]
+Seat+229: UTG+1 361756  with Full House [9s Js-9s 9d 9c Js Jc]  
+Seat+179: UTG+2 Folded on the FLOP
+Seat+117: UTG+3 Folded on the FLOP
+Seat+538: UTG+4 Folded on the FLOP
+Seat+53: UTG+5 [Mucked] [As Jd ]  
+Seat+495: Dealer Folded on the FLOP
+Seat+96: Small Blind Folded on the FLOP
+Seat+550: Big Blind Folded on the FLOP
+Seat+442: UTG Folded on the FLOP
+
+
+Ignition Hand #4664052866: HOLDEM Tournament #49305417 TBL#8, Normal- Level 17 (1000/2000) - 2022-12-16 21:08:22
+Seat 229: UTG (361,756 in chips)
+Seat 179: UTG+1 (76,982 in chips)
+Seat 117: UTG+2 (75,495 in chips)
+Seat 538: UTG+3 (68,597 in chips)
+Seat 53: UTG+4 [ME] (52,512 in chips)
+Seat 495: UTG+5 (122,919 in chips)
+Seat 96: Dealer (70,949 in chips)
+Seat 550: Small Blind (91,757 in chips)
+Seat 442: Big Blind (71,757 in chips)
+Dealer : Set dealer [7] 
+UTG : Ante chip 200 
+UTG+1 : Ante chip 200 
+UTG+2 : Ante chip 200 
+UTG+3 : Ante chip 200 
+UTG+4 [ME] : Ante chip 200 
+UTG+5 : Ante chip 200 
+Dealer : Ante chip 200 
+Small Blind : Ante chip 200 
+Big Blind : Ante chip 200 
+Small Blind : Small blind 1000 
+Big Blind : Big blind 2000 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [Ts 4c] 
+UTG+1 : Card dealt to a spot [6c Td] 
+UTG+2 : Card dealt to a spot [Js Jh] 
+UTG+3 : Card dealt to a spot [4h 8h] 
+UTG+4 [ME] : Card dealt to a spot [Ah Th] 
+UTG+5 : Card dealt to a spot [4d 7s] 
+Dealer : Card dealt to a spot [8d 2d] 
+Small Blind : Card dealt to a spot [5h Ac] 
+Big Blind : Card dealt to a spot [Qd 6s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises 6000 to 6000
+UTG+3 : Folds
+UTG+4 [ME] : All-in(raise) 52312 to 52312
+UTG+5 : Table leave user
+UTG+5 : Sit out
+UTG+5 : Folds(auth-disconnect)
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Folds
+UTG+2 : Call 46312 
+*** FLOP *** [9h Qh 8s]
+*** TURN *** [9h Qh 8s] [4s]
+*** RIVER *** [9h Qh 8s 4s] [7d]
+UTG+2 : Showdown [Js Jh Qh 9h 8s] (One pair)
+UTG+4 [ME] : Showdown [Ah Qh Th 9h 8s] (High Card)
+UTG+2 : Hand Result 109424 
+UTG+4 [ME] : Ranking 409 
+UTG+4 [ME] : Stand
+*** SUMMARY ***
+Total Pot(109424)
+Board [9h Qh 8s 4s 7d]
+Seat+229: UTG Folded on the FLOP
+Seat+179: UTG+1 Folded on the FLOP
+Seat+117: UTG+2 109424  with One pair [Js Jh-Js Jh Qh 9h 8s]  
+Seat+538: UTG+3 Folded on the FLOP
+Seat+53: UTG+4 lose with High Card [Ah Th-Ah Qh Th 9h 8s]  
+Seat+495: UTG+5 Folded on the FLOP
+Seat+96: Dealer Folded on the FLOP
+Seat+550: Small Blind Folded on the FLOP
+Seat+442: Big Blind Folded on the FLOP
+

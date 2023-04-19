@@ -1,0 +1,55 @@
+Bovada Hand #4451527490 TBL#29238503 HOLDEM No Limit - 2023-04-13 09:53:40
+Seat 1: UTG+1 ($3.21 in chips)
+Seat 2: UTG+2 [ME] ($5 in chips)
+Seat 3: Dealer ($12.13 in chips)
+Seat 4: Small Blind ($5.02 in chips)
+Seat 5: Big Blind ($7.52 in chips)
+Seat 6: UTG ($4.61 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.02 
+Big Blind : Big blind $0.05 
+UTG+2  [ME] : Posts chip $0.05 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [2s 8h] 
+UTG+2  [ME] : Card dealt to a spot [Ad 5c] 
+Dealer : Card dealt to a spot [9s Ts] 
+Small Blind : Card dealt to a spot [2h 6s] 
+Big Blind : Card dealt to a spot [Qs Qc] 
+UTG : Card dealt to a spot [3d 3h] 
+UTG : Folds (timeout)
+UTG : Seat sit out
+UTG+1 : Folds
+UTG+2  [ME] : Checks
+UTG : Seat re-join
+Dealer : Calls $0.05 
+Small Blind : Folds
+Big Blind : Raises $0.35 to $0.40
+UTG+2  [ME] : Folds
+UTG+2  [ME] : Seat stand
+UTG+2  [ME] : Table leave user
+Dealer : Calls $0.35 
+*** FLOP *** [9h 7h Kd]
+Big Blind : Bets $0.27 
+Dealer : Calls $0.27 
+*** TURN *** [9h 7h Kd] [7d]
+Table enter user
+Seat sit down
+Table deposit $7.10 
+Big Blind : Checks
+Dealer : Checks
+*** RIVER *** [9h 7h Kd 7d] [4h]
+Big Blind : Checks
+Dealer : Checks
+Big Blind : Showdown [Qs Qc 7h 7d Kd] (Two pair)
+Dealer : Mucks [9s Ts] (Two pair)
+Big Blind : Hand result $1.34 
+*** SUMMARY ***
+Total Pot($1.41)
+Board [9h 7h Kd 7d 4h]
+Seat+1: UTG+1 Folded before the FLOP
+Seat+2: UTG+2 Folded before the FLOP
+Seat+3: Dealer [Mucked] [9s Ts]  
+Seat+4: Small Blind Folded before the FLOP
+Seat+5: Big Blind $1.34  with Two pair [Qs Qc-Qs Qc 7h 7d Kd]  
+Seat+6: UTG Folded before the FLOP
+

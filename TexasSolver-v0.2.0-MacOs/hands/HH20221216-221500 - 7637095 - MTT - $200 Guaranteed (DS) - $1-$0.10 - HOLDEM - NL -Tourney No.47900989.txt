@@ -1,0 +1,71 @@
+Ignition Hand #4664097978: HOLDEM Tournament #47900989 TBL#1, Normal- Level 1 (10/20) - 2022-12-16 22:16:09
+Seat 40: Small Blind (3,000 in chips)
+Seat 26: Big Blind (3,000 in chips)
+Seat 20: UTG (3,000 in chips)
+Seat 13: UTG+1 (3,000 in chips)
+Seat 14: UTG+2 (3,000 in chips)
+Seat 33: UTG+3 [ME] (3,000 in chips)
+Seat 3: UTG+4 (3,000 in chips)
+Seat 23: UTG+5 (3,000 in chips)
+Seat 4: Dealer (3,000 in chips)
+UTG+2 : Table enter user
+Big Blind : Table enter user
+UTG+3 [ME] : Table enter user
+UTG+1 : Table enter user
+Dealer : Table enter user
+UTG+5 : Table enter user
+UTG : Table enter user
+Big Blind : Draw for dealer [4s] 
+UTG : Draw for dealer [4c] 
+UTG+1 : Draw for dealer [Ad] 
+UTG+2 : Draw for dealer [Qd] 
+UTG+3 [ME] : Draw for dealer [3s] 
+UTG+4 : Draw for dealer [3d] 
+UTG+5 : Draw for dealer [6s] 
+Dealer : Draw for dealer [Ah] 
+Dealer : Set dealer [9] 
+Small Blind : Small blind 10 
+Big Blind : Big blind 20 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [Ac 4s] 
+Big Blind : Card dealt to a spot [5c 5s] 
+UTG : Card dealt to a spot [Kc 2s] 
+UTG+1 : Card dealt to a spot [Ah 4h] 
+UTG+2 : Card dealt to a spot [3h As] 
+UTG+3 [ME] : Card dealt to a spot [Js Jd] 
+UTG+4 : Card dealt to a spot [Qs 7d] 
+UTG+5 : Card dealt to a spot [Qc Td] 
+Dealer : Card dealt to a spot [Qh Ks] 
+UTG : Call 20 
+Small Blind : Table enter user
+UTG+1 : Call 20 
+UTG+2 : Folds
+UTG+3 [ME] : All-in(raise) 3000 to 3000
+UTG+4 : Fold(Blind Disconnected)
+UTG+5 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : All-in 2980 
+UTG : Folds
+UTG+1 : Folds
+*** FLOP *** [Kd 8d 7h]
+*** TURN *** [Kd 8d 7h] [4c]
+*** RIVER *** [Kd 8d 7h 4c] [6s]
+Big Blind : Showdown [8d 7h 6s 5s 4c] (Straight)
+UTG+3 [ME] : Showdown [Js Jd Kd 8d 7h] (One pair)
+Big Blind : Hand Result 6050 
+UTG+3 [ME] : Ranking 45 
+UTG+3 [ME] : Stand
+*** SUMMARY ***
+Total Pot(6050)
+Board [Kd 8d 7h 4c 6s]
+Seat+40: Small Blind Folded on the FLOP
+Seat+26: Big Blind 6050  with Straight [5c 5s-8d 7h 6s 5s 4c]  
+Seat+20: UTG Folded on the FLOP
+Seat+13: UTG+1 Folded on the FLOP
+Seat+14: UTG+2 Folded on the FLOP
+Seat+33: UTG+3 lose with One pair [Js Jd-Js Jd Kd 8d 7h]  
+Seat+3: UTG+4 Folded on the FLOP
+Seat+23: UTG+5 Folded on the FLOP
+Seat+4: Dealer Folded on the FLOP
+

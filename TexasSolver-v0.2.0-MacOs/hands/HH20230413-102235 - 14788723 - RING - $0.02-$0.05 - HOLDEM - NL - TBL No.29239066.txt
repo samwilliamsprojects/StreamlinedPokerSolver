@@ -1,0 +1,51 @@
+Bovada Hand #4451534090 TBL#29239066 HOLDEM No Limit - 2023-04-13 10:22:46
+Seat 1: Dealer ($4.82 in chips)
+Seat 6: Big Blind [ME] ($5 in chips)
+Dealer : Set dealer [1] 
+Dealer : Small Blind $0.02 
+Big Blind  [ME] : Big blind $0.05 
+*** HOLE CARDS ***
+Dealer : Card dealt to a spot [Qd 8h] 
+Big Blind  [ME] : Card dealt to a spot [Qh Js] 
+Dealer : Raises $0.08 to $0.10
+Table enter user
+Seat sit down
+Table deposit $1.50 
+Big Blind  [ME] : Raises $0.10 to $0.15
+Dealer : Calls $0.05 
+*** FLOP *** [2d Ks 4s]
+Big Blind  [ME] : Checks
+Dealer : Checks
+*** TURN *** [2d Ks 4s] [7h]
+Big Blind  [ME] : Checks
+Dealer : Bets $0.10 
+Big Blind  [ME] : Folds
+Dealer : Return uncalled portion of bet $0.10 
+Dealer : Does not show [Qd 8h] (High Card)
+Dealer : Hand result $0.29 
+*** SUMMARY ***
+Total Pot($0.30)
+Board [2d Ks 4s 7h ]
+Seat+1: Dealer $0.29 [Does not show]  
+Seat+6: Big Blind Folded on the TURN
+
+
+Bovada Hand #4451534218 TBL#29239066 HOLDEM No Limit - 2023-04-13 10:23:14
+Seat 1: Big Blind ($4.96 in chips)
+Seat 6: Dealer [ME] ($4.85 in chips)
+Dealer  [ME] : Set dealer [6] 
+Dealer  [ME] : Small Blind $0.02 
+Big Blind : Big blind $0.05 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Qc 3h] 
+Dealer  [ME] : Card dealt to a spot [7d Ts] 
+Dealer  [ME] : Folds
+Big Blind : Does not show [Qc 3h] (High Card)
+Big Blind : Hand result $0.07 
+Dealer  [ME] : Seat stand
+Dealer  [ME] : Table leave user
+*** SUMMARY ***
+Total Pot($0.07)
+Seat+1: Big Blind $0.07 [Does not show]  
+Seat+6: Dealer Folded before the FLOP
+
