@@ -16,4 +16,4 @@ flop_decision_ip.py is the module for the player in position
 flop_decision_oop.py is the module for the player out of position
 
 # bb_profits_per_hand.ipynb
-This module will analyze your profits per hand. Just download your Bovada or Ignition hand histories and move to this directory. Rename it to hands, and change the file path in the bb_profits_per_hand notebook. Run all cells and you will see a dataframe of your hands with their ev in big blinds. 
+This module will analyze your profits per hand. Just download your Bovada or Ignition hand histories and move to this directory. Change the file path in the bb_profits_per_hand notebook near the top. Run all cells and you will see a dataframe of your hands with their ev in big blinds. 
