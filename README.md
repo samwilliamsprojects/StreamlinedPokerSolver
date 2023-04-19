@@ -2,7 +2,7 @@
 Tools added outside of an open-source Poker solver (https://github.com/bupticybee/TexasSolver) for easier use
 
 # To run the solver:
-Edit the "input.txt" file in the TexasSolver directory to match your hand. Then run 
+Edit the "input.txt" file in the TexasSolver directory to match your desired hand and bet sizings. Then run 
 
 ./run_solver.sh
 
