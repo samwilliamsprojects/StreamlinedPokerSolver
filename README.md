@@ -6,7 +6,7 @@ Edit the "input.txt" file in the TexasSolver directory to match your hand. Then 
 
 ./run_solver.sh
 
-My scripts only work for the flop right now, but will extend to the turn and the river in the future.
+My scripts only work for one street right now, but will extend to an entire hand in the future.
 
 # Python solver modules
 The python modules work with the solver to ouput the decisions you should make (for only one street at the time of writing).
